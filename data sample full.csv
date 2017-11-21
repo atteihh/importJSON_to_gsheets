@@ -1,0 +1,745 @@
+ClientId,Intake_Date,Gender,Family_Size,Referral_Agency,Address_Locality,Ethnicity,Disability,Disability_type,Physical_health_issue,Physica_health_type,Postcode,Lat,Lng,Air Quality,AQ Value,Physical Health Type Number,Num Disabilities,AQ Binary,Has Asthma
+59,2-Jan-14,Female,3,Surestart (Local Children's Centres),,Black/Black British - African,Yes,Learning disability,Yes,Other,SE6 9SU,51.4450765,-0.0208047, Breezometer Description,Fair air quality,1,1,3,0
+134,3-Jan-14,Female,2,Surestart (Local Children's Centres),,Black/Black British - African,Yes,Autistic spectrum condition,Yes,Other,NW4 4JP,51.5919621,-0.2308368, Breezometer Description,Moderate air quality,1,1,2,0
+590,6-Jan-14,Male,7,Attendance And Pupil Support Service,,White - British,,,Yes,Client did not wish to disclose,SW16 5SH,51.4207731,-0.1288934, Breezometer Description,Moderate air quality,1,0,2,0
+590,6-Jan-14,Female,7,Attendance And Pupil Support Service,,White - British,,,Yes,Other,SE10 8UL,51.4756953,-0.0143387, Breezometer Description,Moderate air quality,1,0,2,0
+535,6-Jan-14,Male,3,Health Visitor,,White - British,,,Yes,Epilepsy,NW5 4AS,51.55311,-0.1534568, Breezometer Description,Fair air quality,1,0,3,0
+643,6-Jan-14,Male,3,Health Visitor,,White - British,,,Yes,Asthma/other respiratory problems; Urinary problems/infections; Other,N2 0DS,51.5868834,-0.1803809, Breezometer Description,Fair air quality,3,0,3,1
+669,6-Jan-14,Male,3,Health Visitor,,White - British,,,Yes,Other,W3 7TX,51.5147452,-0.2548721, Breezometer Description,Fair air quality,1,0,3,0
+765,6-Jan-14,Male,3,Health Visitor,,White - British,,,Yes,,NW6 7RN,51.5401168,-0.2021471, Breezometer Description,Fair air quality,0,0,3,0
+170,7-Jan-14,Female,3,Surestart (Local Children's Centres),,Black/Black British - African,Yes,Learning disability,,,SE13 7FB,51.46743,-0.01428,Loading...,,0,1,0,0
+632,7-Jan-14,Female,7,Attendance And Pupil Support Service,,White - British,,,Yes,Other,SW15 2HB,51.4547106,-0.2135937, Breezometer Description,Fair air quality,1,0,3,0
+765,7-Jan-14,Male,3,Health Visitor,,White - British,,,,,E10 5BQ,51.5708277,-0.014294, Breezometer Description,Fair air quality,0,0,3,0
+812,7-Jan-14,Male,3,Health Visitor,,White - British,,,Yes,Epilepsy,W13 0BU,51.5102726,-0.3274686,Loading...,,1,0,0,0
+836,7-Jan-14,Female,3,Health Visitor,,White - British,,,,,NW1 9UJ,51.5425407,-0.1260371,Loading...,,0,0,0,0
+836,8-Jan-14,Female,3,Citizens Advice Bureau (CAB),,White - British,,,Yes,Other,SE10 9FT,51.4846586,0.0085054, Breezometer Description,Fair air quality,1,0,3,0
+836,8-Jan-14,Male,2,Citizens Advice Bureau (CAB),,White - British,,,Yes,Asthma/other respiratory problems,E3 4LR,51.5256569,-0.0275622, Breezometer Description,Fair air quality,1,0,3,1
+836,8-Jan-14,Male,2,Citizens Advice Bureau (CAB),,White - British,,,Yes,Fainting/blackouts,SE16 4EN,51.5000608,-0.0651799,Loading...,,1,0,0,0
+849,8-Jan-14,Female,3,Citizens Advice Bureau (CAB),,White - British,,,Yes,Other,E13 8JT,51.5187164,0.0240572, Breezometer Description,Moderate air quality,1,0,2,0
+987,8-Jan-14,Male,3,Citizens Advice Bureau (CAB),,White - British,,,Yes,Asthma/other respiratory problems,SW8 1DQ,51.4780442,-0.1208477,Loading...,,1,0,0,1
+987,8-Jan-14,Female,3,Citizens Advice Bureau (CAB),,White - British,,,Yes,Other,E16 2QY,51.5047976,0.0759062,Loading...,,1,0,0,0
+1045,9-Jan-14,Female,2,Asylum Support,,White - British,,,Yes,Asthma/other respiratory problems; Other,NW10 5DG,51.5304849,-0.2197697,Loading...,,2,0,0,1
+177,10-Jan-14,Female,3,Surestart (Local Children's Centres),,Black/Black British - African,Yes,Learning disability,,,N1 0DH,51.5393182,-0.1219011, Breezometer Description,Moderate air quality,0,1,2,0
+1046,10-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Eating disorder,NW6 6TA,51.5388721,-0.197798,Loading...,,1,0,0,0
+1046,10-Jan-14,Female,3,Family Nurse,,White - British,,,,,SE15 3HS,51.4653024,-0.0531006,Loading...,,0,0,0,0
+1166,10-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Eating disorder,E17 4GE,51.5933222,-0.0028747,Loading...,,1,0,0,0
+263,13-Jan-14,Female,2,Surestart (Local Children's Centres),,Black/Black British - African,Yes,Autistic spectrum condition; Mobility issues,,,NW2 1RD,51.5596301,-0.2109569,Loading...,,0,2,0,0
+907,13-Jan-14,Female,6,Family Support Worker,,White - British,,,Yes,Client did not wish to disclose,E11 4LR,51.5585154,0.0053524, Breezometer Description,Moderate air quality,1,0,2,0
+1195,13-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Other,SE18 5LH,51.4919056,0.0521993, Breezometer Description,Fair air quality,1,0,3,0
+1195,13-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Obesity,N3 3PA,51.59393,-0.1994022,Loading...,,1,0,0,0
+1238,13-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Other,N3 3RX,51.5963428,-0.1990036, Breezometer Description,Fair air quality,1,0,3,0
+1317,13-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Obesity,NW9 8ET,51.569158,-0.2633662, Breezometer Description,Moderate air quality,1,0,2,0
+1353,13-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Asthma/other respiratory problems,NW10 0DE,51.563038,-0.2569482,Loading...,,1,0,0,1
+1368,13-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Obesity,NW10 8TT,51.5359106,-0.2504724,Loading...,,1,0,0,0
+1418,13-Jan-14,Male,2,Family Nurse,,White - British,Yes,Other,Yes,Obesity,SE1 5LW,51.4927623,-0.0801516, Breezometer Description,Fair air quality,1,1,3,0
+1440,13-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Fainting/blackouts,SW3 4EX,51.4868456,-0.1609747,Loading...,,1,0,0,0
+63,13-Jan-14,Male,3,Family Nurse,,White - British,,,,,W2 4RJ,51.5104894,-0.1877065, Breezometer Description,Fair air quality,0,0,3,0
+677,14-Jan-14,Male,6,Attendance And Pupil Support Service,,White - British,,,Yes,Asthma/other respiratory problems; Urinary problems/infections,W2 5LX,51.5170412,-0.1932982, Breezometer Description,Fair air quality,2,0,3,1
+677,14-Jan-14,Male,7,Attendance And Pupil Support Service,,White - British,,,Yes,Other,SW9 0FG,51.4662683,-0.1145627, Breezometer Description,Moderate air quality,1,0,2,0
+77,14-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Diabetes,N2 9BT,51.5929646,-0.166668,Loading...,,1,0,0,0
+122,14-Jan-14,Male,2,Family Nurse,,White - British,,,Yes,Asthma/other respiratory problems,SE16 7BJ,51.4978842,-0.0526489,Loading...,,1,0,0,1
+271,15-Jan-14,Male,3,Surestart (Local Children's Centres),,Black/Black British - African,Yes,Hearing impairment,Yes,Other,N10 2LP,51.600036,-0.146269, Breezometer Description,Fair air quality,1,1,3,0
+142,15-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,,E5 9WZ,51.5600144,-0.0575557, Breezometer Description,Fair air quality,0,0,3,0
+192,16-Jan-14,Male,3,Family Nurse,,White - British,,,,,N1 4QA,51.549294,-0.0815227, Breezometer Description,Fair air quality,0,0,3,0
+196,16-Jan-14,Male,3,Family Nurse,,White - British,,,,,E5 8LW,51.5510386,-0.0596545, Breezometer Description,Moderate air quality,0,0,2,0
+196,16-Jan-14,Male,3,Family Nurse,,White - British,,,,,NW11 6AR,51.5877857,-0.1963106, Breezometer Description,Fair air quality,0,0,3,0
+213,17-Jan-14,Male,3,Family Nurse,,White - British,,,,,E3 4ED,51.522514,-0.0187606, Breezometer Description,Moderate air quality,0,0,2,0
+237,17-Jan-14,Male,3,Family Nurse,,White - British,,,,,N4 3BL,51.5666281,-0.1201987, Breezometer Description,Fair air quality,0,0,3,0
+274,17-Jan-14,Male,3,Family Nurse,,White - British,,,,,NW4 3DL,51.5797097,-0.2275313, Breezometer Description,Moderate air quality,0,0,2,0
+315,20-Jan-14,Male,3,Surestart (Local Children's Centres),,Black/Black British - African,Yes,Learning disability,,,SW15 2LJ,51.4618109,-0.2139354,Loading...,,0,1,0,0
+321,20-Jan-14,Female,2,Surestart (Local Children's Centres),,Asian/Asian British - Other Asian Background,Yes,Learning disability,Yes,Other,NW6 4EJ,51.54304,-0.1800249,Loading...,,1,1,0,0
+388,20-Jan-14,Male,2,Family Nurse,,White - British,,,,,E11 2UA,51.5727426,0.0194573,Loading...,,0,0,0,0
+410,20-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Other,SW18 1NG,51.4605748,-0.2013158,Loading...,,1,0,0,0
+428,20-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Asthma/other respiratory problems,SE28 0GW,51.4937768,0.1014089, Breezometer Description,Excellent air quality,1,0,4,1
+431,20-Jan-14,Female,2,Family Nurse,,White - British,,,Yes,Other,SW6 1LH,51.48371,-0.1993975, Breezometer Description,Moderate air quality,1,0,2,0
+431,20-Jan-14,Female,2,Family Nurse,,White - British,,,Yes,Asthma/other respiratory problems; Other,N20 2AU,51.6298615,-0.1736768, Breezometer Description,Fair air quality,2,0,3,1
+961,21-Jan-14,Female,5,Family Support Worker,,White - British,,,Yes,Other,NW6 6LT,51.5348303,-0.2051526, Breezometer Description,Fair air quality,1,0,3,0
+499,21-Jan-14,Male,2,Family Nurse,,White - British,,,,,N17 0AB,51.5996941,-0.0676456,Loading...,,0,0,0,0
+499,21-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Other,SE26 6NE,51.4324183,-0.0635482,Loading...,,1,0,0,0
+528,21-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Fainting/blackouts; Asthma/other respiratory problems,SE19 1HQ,51.4267043,-0.0830224, Breezometer Description,Fair air quality,2,0,3,1
+610,21-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Other,NW10 5NJ,51.5323807,-0.2339407, Breezometer Description,Fair air quality,1,0,3,0
+706,21-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Asthma/other respiratory problems,SE1 4PG,51.5012793,-0.0917815, Breezometer Description,Moderate air quality,1,0,2,1
+437,22-Jan-14,Male,2,Surestart (Local Children's Centres),,Asian/Asian British - Other Asian Background,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,E5 0NB,51.5533741,-0.043255, Breezometer Description,Moderate air quality,1,2,2,1
+718,23-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Other,NW3 6QT,51.5571715,-0.1803119,Loading...,,1,0,0,0
+718,23-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Asthma/other respiratory problems,N1 0BX,51.5367886,-0.1211689,Loading...,,1,0,0,1
+1005,23-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Other,N3 3EB,51.5903357,-0.2048569,Loading...,,1,0,0,0
+1120,24-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Urinary problems/infections,N1 5NP,51.5361722,-0.0830695,Loading...,,1,0,0,0
+1222,27-Jan-14,Male,3,Family Nurse,,White - British,Yes,Autistic spectrum condition; Mobility issues,Yes,Epilepsy,NW10 8BW,51.5400405,-0.2603073, Breezometer Description,Fair air quality,1,2,3,0
+1387,27-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,,W12 0RJ,51.5124301,-0.2395546,Loading...,,0,0,0,0
+1387,27-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Asthma/other respiratory problems,NW8 9AU,51.5342477,-0.1801737,Loading...,,1,0,0,1
+1456,27-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Fainting/blackouts,SW7 9AZ,51.4979923,-0.1745298, Breezometer Description,Moderate air quality,1,0,2,0
+1515,27-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Other,NW6 7DL,51.5444599,-0.2168592, Breezometer Description,Fair air quality,1,0,3,0
+1515,27-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,,SE9 9AN,51.4497928,0.052685, Breezometer Description,Fair air quality,0,0,3,0
+449,28-Jan-14,Male,3,Surestart (Local Children's Centres),,Black/Black British - African,Yes,Autistic spectrum condition; Learning disability,Yes,Other,E16 3JX,51.5152559,0.0327966, Breezometer Description,Moderate air quality,1,2,2,0
+574,28-Jan-14,Female,3,Surestart (Local Children's Centres),,Asian/Asian British - Other Asian Background,Yes,Learning disability,Yes,Asthma/other respiratory problems; Other,E14 2QT,51.5131966,-0.0283023, Breezometer Description,Fair air quality,2,1,3,1
+74,28-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Asthma/other respiratory problems; Other,SE18 7PX,51.4862336,0.0811413, Breezometer Description,Excellent air quality,2,0,4,1
+74,28-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Other,SW10 9QR,51.4871516,-0.179428,Loading...,,1,0,0,0
+589,29-Jan-14,Male,3,Surestart (Local Children's Centres),,Asian/Asian British - Other Asian Background,Yes,Autistic spectrum condition,Yes,Eating disorder,SE20 7WB,51.4112519,-0.0533844,Loading...,,1,1,0,0
+740,29-Jan-14,Female,7,Attendance And Pupil Support Service,,White - British,,,,,N21 1JA,51.636486,-0.1076293, Breezometer Description,Fair air quality,0,0,3,0
+74,29-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Epilepsy,N22 5SS,51.6021116,-0.1095208, Breezometer Description,Fair air quality,1,0,3,0
+100,29-Jan-14,Male,3,Family Nurse,,White - British,,,,,E3 4BL,51.5213113,-0.0279662, Breezometer Description,Moderate air quality,0,0,2,0
+105,29-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Diabetes; Asthma/other respiratory problems,E4 0EX,51.6307499,-0.0117803, Breezometer Description,Fair air quality,2,0,3,1
+136,29-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Obesity,E1 8AE,51.5129802,-0.0737242, Breezometer Description,Moderate air quality,1,0,2,0
+661,30-Jan-14,Male,3,Surestart (Local Children's Centres),,White - British,Yes,Learning disability,Yes,Other,SE4 1DJ,51.4663517,-0.0351455,Loading...,,1,1,0,0
+753,30-Jan-14,Male,3,Surestart (Local Children's Centres),,White - British,Yes,Learning disability; Mobility issues,Yes,Epilepsy,W9 2LS,51.5275664,-0.1947269, Breezometer Description,Fair air quality,1,2,3,0
+753,30-Jan-14,Male,3,Surestart (Local Children's Centres),,White - British,Yes,Learning disability,Yes,Eating disorder,SE2 9DE,51.4950731,0.1078507, Breezometer Description,Excellent air quality,1,1,4,0
+857,30-Jan-14,Male,4,Surestart (Local Children's Centres),,White - British,Yes,Autistic spectrum condition,Yes,Other,N13 4YD,51.6178013,-0.1099523, Breezometer Description,Moderate air quality,1,1,2,0
+979,30-Jan-14,Female,5,Family Support Worker,,White - British,,,Yes,Obesity,SW4 7LD,51.4616137,-0.1309088,Loading...,,1,0,0,0
+173,30-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Obesity,SE25 6TA,51.4070315,-0.0898268, Breezometer Description,Fair air quality,1,0,3,0
+173,30-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Asthma/other respiratory problems,NW2 7TS,51.5673405,-0.2361647, Breezometer Description,Moderate air quality,1,0,2,1
+231,30-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Diabetes,NW8 7RB,51.5358192,-0.1644519, Breezometer Description,Fair air quality,1,0,3,0
+351,30-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Diabetes; Asthma/other respiratory problems; Other,E17 6RP,51.58739,-0.0248318,Loading...,,3,0,0,1
+391,30-Jan-14,Male,2,Family Nurse,,White - British,,,Yes,Other,N1 2LT,51.5470215,-0.0954787, Breezometer Description,Moderate air quality,1,0,2,0
+902,31-Jan-14,Male,4,Surestart (Local Children's Centres),,Mixed - Other Mixed Background,Yes,Autistic spectrum condition; Learning disability,Yes,Asthma/other respiratory problems,N3 1LF,51.605051,-0.1893013,Loading...,,1,2,0,1
+484,31-Jan-14,Male,2,Family Nurse,,White - British,,,Yes,Other,W7 2DY,51.5040866,-0.329413, Breezometer Description,Fair air quality,1,0,3,0
+603,31-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Other,E2 0EJ,51.5265387,-0.0566885, Breezometer Description,Fair air quality,1,0,3,0
+696,31-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Asthma/other respiratory problems; Other,N20 9DA,51.6375155,-0.1737739, Breezometer Description,Fair air quality,2,0,3,1
+811,31-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Other,SW13 9JF,51.4872136,-0.2364498,Loading...,,1,0,0,0
+811,31-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Fainting/blackouts,SW19 5NB,51.4298441,-0.2235116, Breezometer Description,Fair air quality,1,0,3,0
+979,3-Feb-14,Female,5,GP,,White - British,,,Yes,Epilepsy,E17 7EU,51.5826785,-0.0339709, Breezometer Description,Fair air quality,1,0,3,0
+852,3-Feb-14,Male,3,Family Nurse,,White - British,,,Yes,Epilepsy,SW18 3LQ,51.44659,-0.1750407,Loading...,,1,0,0,0
+882,3-Feb-14,Male,3,Family Nurse,,White - British,,,Yes,Asthma/other respiratory problems,SE18 1BW,51.4880757,0.0867854,Loading...,,1,0,0,1
+902,5-Feb-14,Female,4,Surestart (Local Children's Centres),,White - British,Yes,Learning disability,Yes,Urinary problems/infections,N1 2PA,51.5452795,-0.0995175,Loading...,,1,1,0,0
+808,5-Feb-14,Female,7,Attendance And Pupil Support Service,,White - British,Yes,Autistic spectrum condition; Mobility issues,Yes,Epilepsy; Fainting/blackouts; Other,SW10 0TQ,51.4822662,-0.1827478, Breezometer Description,Moderate air quality,3,2,2,0
+808,5-Feb-14,Female,7,Attendance And Pupil Support Service,,White - British,,,Yes,Fainting/blackouts; Other,W2 1PR,51.518894,-0.1689665, Breezometer Description,Moderate air quality,2,0,2,0
+946,6-Feb-14,Female,4,Surestart (Local Children's Centres),,White - British,Yes,Learning disability; Other,Yes,Other,N8 7JJ,51.5853976,-0.1192221,Loading...,,1,2,0,0
+1146,6-Feb-14,Female,4,Surestart (Local Children's Centres),,White - British,Yes,Learning disability,Yes,Asthma/other respiratory problems,N12 8JH,51.6166627,-0.1778467,Loading...,,1,1,0,1
+1146,6-Feb-14,Female,4,Stronger Families Program,,White - British,Yes,Learning disability,Yes,Other,SE13 5PR,51.4593011,-0.0037212,Loading...,,1,1,0,0
+1177,6-Feb-14,Female,4,Stronger Families Program,,White - British,Yes,Learning disability; Mobility issues,Yes,Obesity,SE19 1UY,51.42709,-0.0758281, Breezometer Description,Moderate air quality,1,2,2,0
+988,6-Feb-14,Male,2,Family Nurse,,White - British,,,Yes,Epilepsy; Asthma/other respiratory problems; Other,N22 8YL,51.6089354,-0.1172673, Breezometer Description,Fair air quality,3,0,3,1
+1177,7-Feb-14,Male,4,Stronger Families Program,,Black/Black British - African,Yes,Learning disability,Yes,Diabetes; Other,NW4 4AG,51.5878397,-0.2234328, Breezometer Description,Moderate air quality,2,1,2,0
+990,7-Feb-14,Female,5,GP,,White - British,,,Yes,Other,N15 4RJ,51.5853661,-0.0745761,Loading...,,1,0,0,0
+1024,10-Feb-14,Female,3,Family Nurse,,White - British,,,Yes,Asthma/other respiratory problems; Other,SW2 2RP,51.4468449,-0.1194809,Loading...,,2,0,0,1
+1203,11-Feb-14,Male,4,Stronger Families Program,,Black/Black British - African,Yes,Hearing impairment,Yes,Other,E12 6SA,51.5426026,0.0503693,Loading...,,1,1,0,0
+1026,11-Feb-14,Male,3,Family Nurse,,White - British,,,Yes,Eating disorder,NW3 1SJ,51.5552581,-0.172339,Loading...,,1,0,0,0
+1030,11-Feb-14,Male,2,Family Nurse,,White - British,,,,,E11 2PY,51.5722173,0.0181063, Breezometer Description,Moderate air quality,0,0,2,0
+1030,11-Feb-14,Male,3,Asylum Support,,White - British,,,Yes,Urinary problems/infections,SE1 7JH,51.4949933,-0.1168085, Breezometer Description,Fair air quality,1,0,3,0
+1058,11-Feb-14,Male,3,Youth Offending Team,,White - British,,,,,NW1 1HW,51.5330955,-0.1297845, Breezometer Description,Moderate air quality,0,0,2,0
+1088,11-Feb-14,Male,2,Youth Offending Team,,White - British,,,,,NW9 7ZX,51.5827477,-0.2465956, Breezometer Description,Moderate air quality,0,0,2,0
+1250,12-Feb-14,Male,4,Stronger Families Program,,Black/Black British - African,Yes,Autistic spectrum condition; Learning disability,Yes,Allergies,NW9 5RQ,51.5932871,-0.2568878, Breezometer Description,Moderate air quality,1,2,2,0
+1088,12-Feb-14,Female,3,Youth Offending Team,,White - British,,,,,W2 5DU,51.517419,-0.1886421,Loading...,,0,0,0,0
+1110,12-Feb-14,Female,2,Youth Offending Team,,White - British,,,Yes,Diabetes,E9 5NZ,51.5474996,-0.0270071,Loading...,,1,0,0,0
+1110,12-Feb-14,Female,3,Youth Offending Team,,White - British,,,Yes,Eating disorder,W8 7DR,51.5001974,-0.1967451,Loading...,,1,0,0,0
+888,14-Feb-14,Male,7,Attendance And Pupil Support Service,,White - British,,,Yes,Other,SE24 0NQ,51.4532626,-0.1036582, Breezometer Description,Fair air quality,1,0,3,0
+1259,17-Feb-14,Male,4,Stronger Families Program,,Asian/Asian British - Pakistani,Yes,Mobility issues,Yes,Obesity,SE21 7LH,51.4376671,-0.0742901, Breezometer Description,Fair air quality,1,1,3,0
+1402,17-Feb-14,Male,3,Stronger Families Program,,White - British,Yes,Learning disability,Yes,Obesity,SW11 4LZ,51.4749218,-0.1541247, Breezometer Description,Moderate air quality,1,1,2,0
+1161,17-Feb-14,Female,3,Youth Offending Team,,White - British,,,Yes,Asthma/other respiratory problems,SE9 9AF,51.4497928,0.052685, Breezometer Description,Fair air quality,1,0,3,1
+1429,18-Feb-14,Male,3,Stronger Families Program,,Asian/Asian British - Indian,Yes,Hearing impairment,Yes,Diabetes,N15 6LD,51.5771787,-0.069943, Breezometer Description,Moderate air quality,1,1,2,0
+910,18-Feb-14,Male,7,Attendance And Pupil Support Service,,White - British,,,Yes,Diabetes; Asthma/other respiratory problems; Other,N4 4BU,51.5704528,-0.1075156,Loading...,,3,0,0,1
+1236,18-Feb-14,Male,2,Youth Offending Team,,White - British,,,Yes,Other,SW15 3RD,51.4321725,-0.2600344,Loading...,,1,0,0,0
+1236,18-Feb-14,Male,3,Asylum Support,,White - British,,,Yes,Asthma/other respiratory problems,NW10 8BJ,51.5397555,-0.2586743, Breezometer Description,Fair air quality,1,0,3,1
+1512,18-Feb-14,Male,2,Asylum Support,,White - British,,,Yes,Other,NW2 6QD,51.5614249,-0.2201775, Breezometer Description,Fair air quality,1,0,3,0
+1554,18-Feb-14,Male,3,Asylum Support,,White - British,,,Yes,Other,NW9 0NB,51.5881741,-0.2595519, Breezometer Description,Low air quality,1,0,1,0
+24,18-Feb-14,Male,2,Asylum Support,,White - British,,,Yes,Asthma/other respiratory problems; Other,E3 3HQ,51.5265755,-0.0185699,Loading...,,2,0,0,1
+76,19-Feb-14,Male,3,Asylum Support,,White - British,,,Yes,Other,W14 8TF,51.4927474,-0.2076127,Loading...,,1,0,0,0
+76,19-Feb-14,Male,3,Youth Offending Team,,White - British,,,Yes,Fainting/blackouts,SE19 3RY,51.4188511,-0.0823154,Loading...,,1,0,0,0
+258,19-Feb-14,Male,3,Attendance And Pupil Support Service,,Black/Black British - Other Black Background,,,Yes,Epilepsy,N1 6JY,51.529706,-0.0808325,Loading...,,1,0,0,0
+277,19-Feb-14,Male,3,Attendance And Pupil Support Service,,Black/Black British - Other Black Background,,,Yes,Epilepsy,SE14 6BA,51.4766882,-0.0353782,Loading...,,1,0,0,0
+1477,20-Feb-14,Male,3,Stronger Families Program,,Mixed - Other Mixed Background,Yes,Other,Yes,Asthma/other respiratory problems,NW2 2EG,51.5601461,-0.2052958, Breezometer Description,Moderate air quality,1,1,2,1
+1492,20-Feb-14,Male,4,Stronger Families Program,,Mixed - Other Mixed Background,Yes,Mental health,Yes,Urinary problems/infections,E12 6AW,51.5507035,0.0520029, Breezometer Description,Fair air quality,1,1,3,0
+1563,20-Feb-14,Male,4,Stronger Families Program,,Mixed - Other Mixed Background,Yes,,Yes,Epilepsy; Fainting/blackouts; Other,E2 0NT,51.5296414,-0.0529088,Loading...,,3,0,0,0
+277,20-Feb-14,Male,2,Attendance And Pupil Support Service,,Black/Black British - Other Black Background,,,Yes,Fainting/blackouts; Other,N1 4ED,51.5410932,-0.0826464, Breezometer Description,Fair air quality,2,0,3,0
+353,20-Feb-14,Male,3,Attendance And Pupil Support Service,,Black/Black British - Other Black Background,,,Yes,Other,E3 2NN,51.5380677,-0.0206808, Breezometer Description,Moderate air quality,1,0,2,0
+944,21-Feb-14,Male,7,Attendance And Pupil Support Service,,White - British,,,Yes,Asthma/other respiratory problems,SW18 4UJ,51.4451929,-0.1904943,Loading...,,1,0,0,1
+4,24-Feb-14,Male,4,Stronger Families Program,,Mixed - Other Mixed Background,Yes,Autistic spectrum condition,Yes,Other,N19 5BE,51.5549583,-0.1355668, Breezometer Description,Moderate air quality,1,1,2,0
+72,24-Feb-14,Male,4,Social Worker,,Mixed - Other Mixed Background,Yes,Mental health,Yes,Obesity,NW11 6BS,51.5888082,-0.1938015,Loading...,,1,1,0,0
+990,24-Feb-14,Male,5,GP,,White - British,,,Yes,Epilepsy; Asthma/other respiratory problems; Other,SE23 3RA,51.4508199,-0.0537077,Loading...,,3,0,0,1
+508,24-Feb-14,Female,2,Attendance And Pupil Support Service,,Black/Black British - Other Black Background,,,Yes,Diabetes; Other,NW3 3LJ,51.5444093,-0.1657503,Loading...,,2,0,0,0
+511,24-Feb-14,Female,3,Attendance And Pupil Support Service,,White - British,Yes,Autistic spectrum condition; Mobility issues,Yes,Other,NW3 3PT,51.543973,-0.1614269, Breezometer Description,Excellent air quality,1,2,4,0
+524,24-Feb-14,Female,2,Attendance And Pupil Support Service,,White - British,,,Yes,Asthma/other respiratory problems; Other,NW10 0RH,51.5438641,-0.2707757,Loading...,,2,0,0,1
+524,24-Feb-14,Female,3,Attendance And Pupil Support Service,,White - British,,,Yes,Other,SW4 6BT,51.4637208,-0.1356023,Loading...,,1,0,0,0
+542,24-Feb-14,Male,3,Attendance And Pupil Support Service,,White - British,,,,,E3 2LY,51.535618,-0.0290061,Loading...,,0,0,0,0
+99,25-Feb-14,Male,4,Social Worker,,Asian/Asian British - Pakistani,Yes,Autistic spectrum condition,,,W8 4QX,51.5071144,-0.1904342, Breezometer Description,Moderate air quality,0,1,2,0
+621,25-Feb-14,Male,2,Attendance And Pupil Support Service,,White - British,,,,,W14 8RZ,51.4933025,-0.2050987,Loading...,,0,0,0,0
+664,25-Feb-14,Male,3,Attendance And Pupil Support Service,,White - British,,,,,E17 5PN,51.60086,-0.0371134, Breezometer Description,Fair air quality,0,0,3,0
+664,25-Feb-14,Female,3,Attendance And Pupil Support Service,,White - British,,,,,SE14 6JW,51.4781131,-0.0372323, Breezometer Description,Fair air quality,0,0,3,0
+727,26-Feb-14,Male,2,Attendance And Pupil Support Service,,Mixed - Other Mixed Background,,,,,NW1 0JP,51.535478,-0.1387997, Breezometer Description,Moderate air quality,0,0,2,0
+99,27-Feb-14,Male,4,Social Worker,,White - British,Yes,Mental health,,,E4 7HW,51.6321124,0.0015598, Breezometer Description,Moderate air quality,0,1,2,0
+99,27-Feb-14,Male,4,Social Worker,,White - British,Yes,Hearing impairment; Learning disability,Yes,Allergies,SW19 8GW,51.4288009,-0.1909809, Breezometer Description,Moderate air quality,1,2,2,0
+114,27-Feb-14,Male,4,Social Worker,,White - British,Yes,Autistic spectrum condition,Yes,Diabetes,SE9 5NX,51.4421684,0.0520841,Loading...,,1,1,0,0
+114,27-Feb-14,Male,4,Social Worker,,White - British,Yes,Learning disability,Yes,Other,E12 6EJ,51.5510116,0.0528967, Breezometer Description,Fair air quality,1,1,3,0
+748,27-Feb-14,Male,3,Attendance And Pupil Support Service,,Mixed - Other Mixed Background,,,Yes,Other,N17 9BJ,51.5932002,-0.0653802, Breezometer Description,Moderate air quality,1,0,2,0
+840,27-Feb-14,Male,3,Attendance And Pupil Support Service,,Mixed - Other Mixed Background,,,Yes,Urinary problems/infections,N16 0AP,51.562425,-0.0783443, Breezometer Description,Fair air quality,1,0,3,0
+1015,28-Feb-14,Female,3,Attendance And Pupil Support Service,,Mixed - Other Mixed Background,,,,,SW20 8JD,51.4136865,-0.2224554,Loading...,,0,0,0,0
+1032,28-Feb-14,Female,3,Attendance And Pupil Support Service,,Mixed - Other Mixed Background,,,,,N1 5JU,51.5353,-0.0836252,Loading...,,0,0,0,0
+1032,3-Mar-14,Female,2,Local Authority Children's And Family Services,,Mixed - Other Mixed Background,,,,,W11 3NL,51.5100697,-0.2007506,Loading...,,0,0,0,0
+1052,3-Mar-14,Female,2,Local Authority Children's And Family Services,,Mixed - Other Mixed Background,Yes,Autistic spectrum condition; Mobility issues,,,E12 6TH,51.5491127,0.047835, Breezometer Description,Fair air quality,0,2,3,0
+1052,3-Mar-14,Male,2,Local Authority Children's And Family Services,,Mixed - Other Mixed Background,,,,,NW1 3HF,51.5254737,-0.1413412,Loading...,,0,0,0,0
+1083,3-Mar-14,Male,2,Local Authority Children's And Family Services,,Mixed - Other Mixed Background,,,,,N13 5DW,51.6183091,-0.0924233, Breezometer Description,Moderate air quality,0,0,2,0
+1284,4-Mar-14,Male,3,Local Authority Children's And Family Services,,Mixed - Other Mixed Background,,,,,SE12 8TQ,51.4551115,0.0151392, Breezometer Description,Fair air quality,0,0,3,0
+1344,4-Mar-14,Male,2,Local Authority Children's And Family Services,,Mixed - Other Mixed Background,,,,,N7 8XL,51.5447574,-0.1139758, Breezometer Description,Fair air quality,0,0,3,0
+171,5-Mar-14,Male,4,Social Worker,,White - British,Yes,Visual impairment,,,NW1 7NW,51.5366331,-0.1424584, Breezometer Description,Moderate air quality,0,1,2,0
+1395,5-Mar-14,Male,3,Local Authority Children's And Family Services,,Mixed - Other Mixed Background,,,Yes,Other,E17 3PW,51.5875973,0.0043087,Loading...,,1,0,0,0
+187,6-Mar-14,Male,4,Social Worker,,White - British,Yes,Autistic spectrum condition; Learning disability,Yes,Fainting/blackouts,W3 7DH,51.5146951,-0.2497, Breezometer Description,Fair air quality,1,2,3,0
+1395,6-Mar-14,Male,3,Local Authority Children's And Family Services,,Mixed - Other Mixed Background,,,Yes,Allergies,SE6 1NS,51.4459111,0.000487,Loading...,,1,0,0,0
+1416,6-Mar-14,Male,2,Local Authority Children's And Family Services,,Mixed - Other Mixed Background,,,Yes,Other,E16 2DA,51.5027233,0.0429592, Breezometer Description,Fair air quality,1,0,3,0
+1448,6-Mar-14,Female,2,Local Authority Children's And Family Services,,White - British,,,Yes,Other,N19 3SN,51.5730516,-0.129386, Breezometer Description,Fair air quality,1,0,3,0
+1448,6-Mar-14,Female,3,Local Authority Children's And Family Services,,White - British,,,Yes,Epilepsy,SW11 9JQ,51.4675936,-0.1700978, Breezometer Description,Fair air quality,1,0,3,0
+299,7-Mar-14,Male,4,Social Worker,,White - British,Yes,Progressive / chronic illness,Yes,Eating disorder,SE26 5AF,51.4279089,-0.035745, Breezometer Description,Fair air quality,1,1,3,0
+1500,7-Mar-14,Female,2,Local Authority Children's And Family Services,,White - British,,,Yes,Allergies,E15 4DD,51.541239,0.0075492,Loading...,,1,0,0,0
+1500,7-Mar-14,Female,3,Local Authority Children's And Family Services,,White - British,,,Yes,Urinary problems/infections,SE9 9BA,51.4497928,0.052685, Breezometer Description,Fair air quality,1,0,3,0
+1500,7-Mar-14,Female,3,Local Authority Children's And Family Services,,White - British,,,Yes,Other,SE7 7LW,51.4829963,0.024117,Loading...,,1,0,0,0
+1571,7-Mar-14,Male,3,School,,White - British,,,Yes,Epilepsy,NW8 7HH,51.529077,-0.1703457,Loading...,,1,0,0,0
+82,10-Mar-14,Male,3,School,,White - British,,,Yes,Other,SE4 1XX,51.4620914,-0.0293829, Breezometer Description,Fair air quality,1,0,3,0
+261,10-Mar-14,Male,3,School,,White - British,,,,,SE15 3EH,51.4549574,-0.050734, Breezometer Description,Fair air quality,0,0,3,0
+337,11-Mar-14,Male,4,Social Worker,,White - British,Yes,Autistic spectrum condition; Other,,,SW17 8JL,51.4359959,-0.1508888,Loading...,,0,2,0,0
+452,11-Mar-14,Male,3,Social Worker,,White - British,Yes,Autistic spectrum condition,,,SW16 1RW,51.4303591,-0.1424561, Breezometer Description,Fair air quality,0,1,3,0
+367,13-Mar-14,Male,2,School,,White - British,,,,,SE1 8DH,51.5048196,-0.1065906,Loading...,,0,0,0,0
+452,14-Mar-14,Male,3,Social Worker,,Mixed - Other Mixed Background,Yes,Learning disability,,,SW4 6SA,51.4717521,-0.1249508,Loading...,,0,1,0,0
+452,14-Mar-14,Female,3,Social Worker,,White - British,Yes,Autistic spectrum condition; Learning disability; Other,Yes,Eating disorder,SE21 7EW,51.4415893,-0.0870038,Loading...,,1,3,0,0
+609,14-Mar-14,Female,3,Social Worker,,White - British,Yes,Mental health,Yes,Diabetes,E12 5NS,51.5553318,0.0634489, Breezometer Description,Moderate air quality,1,1,2,0
+754,14-Mar-14,Female,3,Social Worker,,White - British,Yes,Learning disability; Other (disability type),Yes,Other,E16 3LR,51.5158257,0.0362379,Loading...,,1,2,0,0
+754,14-Mar-14,Female,3,Social Worker,,Mixed - White & Black Caribbean,Yes,Mobility issues,Yes,Allergies,SE15 4NW,51.4662977,-0.0719764, Breezometer Description,Fair air quality,1,1,3,0
+754,14-Mar-14,Female,3,Stronger Families Program,,Black/Black British - Other Black Background,Yes,Other,Yes,Other,SE13 6DT,51.4541727,-0.0056866, Breezometer Description,Excellent air quality,1,1,4,0
+887,14-Mar-14,Male,3,Stronger Families Program,,Black/Black British - Other Black Background,Yes,Other,Yes,Other,E4 6LZ,51.6156148,0.0066117, Breezometer Description,Moderate air quality,1,1,2,0
+444,17-Mar-14,Male,3,School,,White - British,,,Yes,Other,N3 3JG,51.5922176,-0.1991523,Loading...,,1,0,0,0
+591,17-Mar-14,Male,2,School,,White - British,,,Yes,Fainting/blackouts,NW3 6UX,51.5562134,-0.181158, Breezometer Description,Excellent air quality,1,0,4,0
+593,17-Mar-14,Male,2,School,,White - British,,,Yes,Diabetes,SW11 3AN,51.4775679,-0.1697579,Loading...,,1,0,0,0
+613,17-Mar-14,Male,3,School,,White - British,,,,,E3 2DT,51.5299348,-0.0242055, Breezometer Description,Fair air quality,0,0,3,0
+613,17-Mar-14,Male,3,School,,White - British,,,,,SW16 6JF,51.4235851,-0.1326765, Breezometer Description,Fair air quality,0,0,3,0
+790,17-Mar-14,Male,3,School,,White - British,,,Yes,Other,W5 3PR,51.5084562,-0.2980983, Breezometer Description,Fair air quality,1,0,3,0
+949,18-Mar-14,Male,4,Stronger Families Program,,Black/Black British - Other Black Background,Yes,Mobility issues,Yes,Eating disorder,SE16 7DE,51.5012841,-0.0499825,Loading...,,1,1,0,0
+1029,19-Mar-14,Male,3,Stronger Families Program,,Black/Black British - Other Black Background,Yes,Other,Yes,Asthma/other respiratory problems,SE16 6SS,51.4999063,-0.045546, Breezometer Description,Fair air quality,1,1,3,1
+944,19-Mar-14,Male,7,Attendance And Pupil Support Service,,White - British,,,Yes,Other,N11 2BX,51.6090091,-0.1196184, Breezometer Description,Fair air quality,1,0,3,0
+1051,19-Mar-14,Male,7,Attendance And Pupil Support Service,,White - British,,,Yes,Other,SE8 3EX,51.4832946,-0.0196833, Breezometer Description,Moderate air quality,1,0,2,0
+843,19-Mar-14,Male,2,School,,White - British,,,Yes,Asthma/other respiratory problems; Other,E1 8GH,51.5121308,-0.069105, Breezometer Description,Moderate air quality,2,0,2,1
+1165,20-Mar-14,Male,3,Stronger Families Program,,Black/Black British - Other Black Background,Yes,Mental health,Yes,Other,W9 4FY,51.5266782,-0.1925443,Loading...,,1,1,0,0
+1192,20-Mar-14,Male,4,Stronger Families Program,,Black/Black British - Other Black Background,Yes,Visual impairment; Other,Yes,Fainting/blackouts,SW6 7RD,51.481394,-0.2114135,Loading...,,1,2,0,0
+1114,20-Mar-14,Male,7,Attendance And Pupil Support Service,,White - British,,,Yes,Epilepsy,SE6 3LD,51.4337259,-0.0244318, Breezometer Description,Excellent air quality,1,0,4,0
+1150,20-Mar-14,Male,7,Health Visitor,,White - British,,,Yes,Epilepsy,SW19 5BQ,51.4288479,-0.214171,Loading...,,1,0,0,0
+1150,20-Mar-14,Male,7,Health Visitor,,White - British,,,Yes,Eating disorder,E2 6DG,51.5249436,-0.0711867, Breezometer Description,Moderate air quality,1,0,2,0
+892,21-Mar-14,Male,3,School,,White - British,,,Yes,Other,NW11 7JS,51.5784007,-0.1894947,Loading...,,1,0,0,0
+1196,24-Mar-14,Male,3,Stronger Families Program,,Black/Black British - Other Black Background,Yes,Learning disability; Other,Yes,Other,NW1 6NJ,51.5243229,-0.1664999, Breezometer Description,Moderate air quality,1,2,2,0
+892,24-Mar-14,Male,3,School,,White - British,,,Yes,Other,N4 9EA,51.5608162,-0.1312876,Loading...,,1,0,0,0
+900,25-Mar-14,Female,3,School,,White - British,,,Yes,Allergies,SE15 1EU,51.4833583,-0.0503153, Breezometer Description,Fair air quality,1,0,3,0
+1150,26-Mar-14,Male,7,Health Visitor,,White - British,Yes,Autistic spectrum condition; Mobility issues,Yes,Other,N2 0AS,51.5837389,-0.1632431, Breezometer Description,Fair air quality,1,2,3,0
+950,26-Mar-14,Female,3,School,,White - British,,,,,N8 9LW,51.5783658,-0.1108383, Breezometer Description,Fair air quality,0,0,3,0
+962,26-Mar-14,Male,3,School,,White - British,,,,,SW7 2RZ,51.4959256,-0.170593,Loading...,,0,0,0,0
+1105,26-Mar-14,Male,2,School,,White - British,,,,,W2 5EB,51.5189796,-0.193625, Breezometer Description,Fair air quality,0,0,3,0
+1129,26-Mar-14,Female,2,School,,White - British,,,,,E20 1DZ,51.5483061,-0.011395, Breezometer Description,Fair air quality,0,0,3,0
+1142,26-Mar-14,Female,2,School,,White - British,,,,,SW15 4NQ,51.4455948,-0.243522, Breezometer Description,Fair air quality,0,0,3,0
+1196,27-Mar-14,Male,4,Stronger Families Program,,Black/Black British - Other Black Background,Yes,Learning disability,,,SE25 4EW,51.4020823,-0.0676909, Breezometer Description,Moderate air quality,0,1,2,0
+1225,31-Mar-14,Male,4,Stronger Families Program,,Black/Black British - Other Black Background,Yes,Autistic spectrum condition,,,SW2 3AE,51.438453,-0.1244155, Breezometer Description,Moderate air quality,0,1,2,0
+1251,31-Mar-14,Male,4,Stronger Families Program,,Black/Black British - Other Black Background,Yes,Learning disability,,,SE27 0HH,51.4302326,-0.1031158, Breezometer Description,Moderate air quality,0,1,2,0
+1234,31-Mar-14,Female,3,School,,White - British,,,,,SW19 5LN,51.4441444,-0.2218774, Breezometer Description,Fair air quality,0,0,3,0
+79,31-Mar-14,Female,2,School,,White - British,,,,,SW2 3PZ,51.4438706,-0.1117892,Loading...,,0,0,0,0
+238,31-Mar-14,Male,3,School,,White - British,,,Yes,Epilepsy,E11 3NA,51.5584859,0.0112805, Breezometer Description,Moderate air quality,1,0,2,0
+285,31-Mar-14,Male,3,School,,White - British,,,Yes,Other,E6 5XS,51.516845,0.0577019, Breezometer Description,Fair air quality,1,0,3,0
+399,31-Mar-14,Male,3,School,,White - British,Yes,Autistic spectrum condition; Mobility issues,Yes,Other,W7 3SL,51.5085945,-0.3384707, Breezometer Description,Fair air quality,1,2,3,0
+464,31-Mar-14,Female,3,School,,White - British,,,,,N1 5NX,51.5355404,-0.0774293,Loading...,,0,0,0,0
+473,31-Mar-14,Male,3,School,,White - British,,,,,SW11 5QJ,51.4650303,-0.157576, Breezometer Description,Moderate air quality,0,0,2,0
+644,31-Mar-14,Male,2,School,,White - British,,,Yes,Urinary problems/infections,NW6 1UF,51.548733,-0.190543, Breezometer Description,Fair air quality,1,0,3,0
+1286,1-Apr-14,Male,4,Stronger Families Program,,Black/Black British - Other Black Background,Yes,Learning disability; Other,Yes,Diabetes,W11 4JU,51.5095701,-0.218092, Breezometer Description,Fair air quality,1,2,3,0
+1211,1-Apr-14,Male,8,Health Visitor,,White - British,,,Yes,Diabetes,W5 3JU,51.5050184,-0.295431, Breezometer Description,Fair air quality,1,0,3,0
+1211,1-Apr-14,Male,8,Health Visitor,,White - British,,,Yes,Fainting/blackouts,W6 0LR,51.4945902,-0.2318577, Breezometer Description,Moderate air quality,1,0,2,0
+764,1-Apr-14,Male,2,School,,White - British,,,Yes,Epilepsy,NW7 3PL,51.614139,-0.2525792,Loading...,,1,0,0,0
+1295,2-Apr-14,Male,3,Stronger Families Program,,Black/Black British - Other Black Background,Yes,Mobility issues; Other,Yes,Allergies,N22 6NR,51.5982013,-0.100139, Breezometer Description,Fair air quality,1,2,3,0
+1295,2-Apr-14,Male,3,Stronger Families Program,,Mixed - Other Mixed Background,Yes,Learning disability,,,SE3 9FB,51.4578727,0.0307497,Loading...,,0,1,0,0
+878,2-Apr-14,Male,2,School,,White - British,,,,,SW14 8DB,51.4660312,-0.2553347,Loading...,,0,0,0,0
+878,2-Apr-14,Male,3,Auntie ,,White - British,,,,,SW9 7PS,51.4640884,-0.1119337, Breezometer Description,Moderate air quality,0,0,2,0
+981,2-Apr-14,Male,2,Family Support Worker,,White - British,,,,,NW11 7HJ,51.5720054,-0.1864731, Breezometer Description,Fair air quality,0,0,3,0
+1341,3-Apr-14,Male,4,Stronger Families Program,,Asian/Asian British - Other Asian Background,Yes,Other,,,E1 0RQ,51.5154409,-0.0431083, Breezometer Description,Moderate air quality,0,1,2,0
+1034,3-Apr-14,Male,2,Family Support Worker,,White - British,,,,,NW2 2HX,51.5614198,-0.1962864, Breezometer Description,Fair air quality,0,0,3,0
+1048,3-Apr-14,Male,2,Family Support Worker,,White - British,,,,,SE23 3BU,51.4428198,-0.0601007,Loading...,,0,0,0,0
+1211,4-Apr-14,Male,8,Health Visitor,,White - British,Yes,Autistic spectrum condition; Mobility issues,,,SW6 1BF,51.47947,-0.1955897,Loading...,,0,2,0,0
+1453,7-Apr-14,Male,4,Stronger Families Program,,Asian/Asian British - Other Asian Background,Yes,Other,,,SE18 5NZ,51.4919488,0.046122, Breezometer Description,Moderate air quality,0,1,2,0
+1557,7-Apr-14,Female,4,Stronger Families Program,,Asian/Asian British - Other Asian Background,Yes,Learning disability,Yes,Fainting/blackouts,NW3 5BA,51.5468985,-0.1754432,Loading...,,1,1,0,0
+1350,8-Apr-14,Male,8,Health Visitor,,White - British,,,Yes,Diabetes,N9 0PH,51.6185355,-0.0623239, Breezometer Description,Fair air quality,1,0,3,0
+1096,8-Apr-14,Male,2,Housing Association,,White - British,,,Yes,Diabetes,N1 6TS,51.5320187,-0.0853346, Breezometer Description,Moderate air quality,1,0,2,0
+1096,9-Apr-14,Female,2,Housing Association,,White - British,,,Yes,Asthma/other respiratory problems,E14 6BE,51.5178737,-0.016627, Breezometer Description,Moderate air quality,1,0,2,1
+1100,9-Apr-14,Male,3,Housing Association,,White - British,,,,,SE12 0HL,51.4494995,0.0120281, Breezometer Description,Fair air quality,0,0,3,0
+1103,9-Apr-14,Male,3,Housing Association,,White - British,,,Yes,Eating disorder,SE6 2JY,51.4411268,-0.011133, Breezometer Description,Excellent air quality,1,0,4,0
+1572,10-Apr-14,Male,3,Stronger Families Program,,Asian/Asian British - Other Asian Background,Yes,Learning disability; Mobility issues,Yes,Other,E5 9BT,51.5624559,-0.0594571, Breezometer Description,Fair air quality,1,2,3,0
+1148,11-Apr-14,Male,3,Housing Association,,White - British,,,,,SE13 5QQ,51.4572361,0.0003055,Loading...,,0,0,0,0
+1217,11-Apr-14,Male,2,Housing Association,,White - British,,,,,W6 7JE,51.4937517,-0.2186369, Breezometer Description,Moderate air quality,0,0,2,0
+1572,14-Apr-14,Male,4,Stronger Families Program,,Mixed - Other Mixed Background,Yes,Other,Yes,Other,NW2 7QL,51.5622801,-0.2519421,Loading...,,1,1,0,0
+1247,14-Apr-14,Male,3,Housing Association,,White - British,,,Yes,Eating disorder,E6 1BJ,51.5391588,0.0472583, Breezometer Description,Moderate air quality,1,0,2,0
+1318,14-Apr-14,Male,2,Housing Association,,White - British,,,Yes,Allergies,E3 2AE,51.5275289,-0.0281877,Loading...,,1,0,0,0
+1580,15-Apr-14,Male,3,Stronger Families Program,,Mixed - Other Mixed Background,Yes,Other (disability type); Mental health,Yes,Epilepsy,SE1 5RZ,51.4915945,-0.0730989,Loading...,,1,2,0,0
+32,16-Apr-14,Male,4,Stronger Families Program,,Mixed - Other Mixed Background,Yes,Learning disability,,,W4 5EP,51.4971813,-0.2687108,Loading...,,0,1,0,0
+32,16-Apr-14,Male,4,Stronger Families Program,,Mixed - Other Mixed Background,Yes,Autistic spectrum condition,,,N1 6SE,51.5310234,-0.080013,Loading...,,0,1,0,0
+1357,16-Apr-14,Male,10,Health Visitor,,White - British,,,Yes,Other,N10 3DJ,51.5835376,-0.1379191,Loading...,,1,0,0,0
+1318,16-Apr-14,Male,3,Housing Association,,White - British,,,Yes,Other,NW3 5SB,51.5488707,-0.1785229, Breezometer Description,Excellent air quality,1,0,4,0
+1338,16-Apr-14,Female,3,Housing Association,,White - British,,,Yes,Other,SW19 9JQ,51.4255297,-0.2050566,Loading...,,1,0,0,0
+1437,17-Apr-14,Male,10,Health Visitor,,White - British,,,,,SE13 5HG,51.4557767,-0.0058758, Breezometer Description,Excellent air quality,0,0,4,0
+32,22-Apr-14,Male,3,Stronger Families Program,,Mixed - Other Mixed Background,Yes,Autistic spectrum condition; Learning disability,,,E1 8LZ,51.5089492,-0.070306,Loading...,,0,2,0,0
+1561,22-Apr-14,Male,10,Health Visitor,,White - British,,,,,SE19 3JG,51.4155987,-0.0929644, Breezometer Description,Fair air quality,0,0,3,0
+1354,22-Apr-14,Female,3,Housing Association,,White - British,,,,,SE12 8PZ,51.4563194,0.011306,Loading...,,0,0,0,0
+49,23-Apr-14,Male,4,Stronger Families Program,,Mixed - Other Mixed Background,Yes,Other,Yes,Eating disorder,SE6 4EX,51.4358564,-0.0350876, Breezometer Description,Fair air quality,1,1,3,0
+1516,23-Apr-14,Male,3,Housing Association,,White - British,,,Yes,Other,SE23 3HH,51.4376153,-0.0537314, Breezometer Description,Fair air quality,1,0,3,0
+1536,23-Apr-14,Female,3,Family Support Worker,,White - British,,,,,SE23 3SH,51.4466853,-0.0540509, Breezometer Description,Fair air quality,0,0,3,0
+1536,23-Apr-14,Female,3,Family Support Worker,,White - British,,,,,SW15 5RH,51.4657751,-0.2376076, Breezometer Description,Fair air quality,0,0,3,0
+1542,24-Apr-14,Male,2,Family Support Worker,,White - British,,,,,SW17 0JH,51.4341566,-0.1868445, Breezometer Description,Fair air quality,0,0,3,0
+60,25-Apr-14,Male,4,Stronger Families Program,,Mixed - Other Mixed Background,Yes,Autistic spectrum condition,,,E14 9XG,51.50179,-0.0216624, Breezometer Description,Fair air quality,0,1,3,0
+1574,25-Apr-14,Male,3,Housing Association,,White - British,,,,,SE5 0DE,51.4835144,-0.0953749, Breezometer Description,Moderate air quality,0,0,2,0
+1,25-Apr-14,Male,3,Housing Association,,White - British,,,,,SE24 9DZ,51.4475939,-0.1012306, Breezometer Description,Moderate air quality,0,0,2,0
+37,25-Apr-14,Male,2,Housing Association,,White - British,,,Yes,Fainting/blackouts,SE16 4DS,51.4952715,-0.0653948,Loading...,,1,0,0,0
+121,29-Apr-14,Male,4,Stronger Families Program,,Mixed - Other Mixed Background,Yes,,Yes,Other,E14 7PW,51.5138604,-0.0362437, Breezometer Description,Moderate air quality,1,0,2,0
+140,29-Apr-14,Male,3,Stronger Families Program,,Mixed - Other Mixed Background,Yes,Autistic spectrum condition,Yes,Other,SE11 4HZ,51.4900157,-0.1053458, Breezometer Description,Moderate air quality,1,1,2,0
+172,29-Apr-14,Male,3,Stronger Families Program,,Mixed - Other Mixed Background,Yes,Autistic spectrum condition; Other,Yes,Other,SW6 1UN,51.4854802,-0.2010705,Loading...,,1,2,0,0
+233,29-Apr-14,Male,3,Surestart (Local Children's Centres),,Mixed - Other Mixed Background,Yes,Learning disability; Other,Yes,Asthma/other respiratory problems,SW16 6TL,51.4218829,-0.1512284, Breezometer Description,Fair air quality,1,2,3,1
+308,29-Apr-14,Male,3,Health Visitor,,White - British,,,,,SW3 5XP,51.4884061,-0.1670193, Breezometer Description,Moderate air quality,0,0,2,0
+37,29-Apr-14,Male,3,Housing Association,,White - British,,,Yes,Allergies,SW16 1BE,51.4320283,-0.1298003,Loading...,,1,0,0,0
+292,29-Apr-14,Male,2,Housing Association,,White - British,Yes,Autistic spectrum condition; Mobility issues,,,N19 4DY,51.5672436,-0.1232612,Loading...,,0,2,0,0
+447,29-Apr-14,Male,2,Housing Association,,White - British,,,,,E9 6NR,51.544451,-0.0539208, Breezometer Description,Moderate air quality,0,0,2,0
+532,29-Apr-14,Male,2,Housing Association,,White - British,,,,,W2 5DP,51.5165653,-0.1880995,Loading...,,0,0,0,0
+532,29-Apr-14,Male,3,Housing Association,,White - British,,,Yes,Epilepsy,N20 0JJ,51.6255062,-0.1671335, Breezometer Description,Fair air quality,1,0,3,0
+246,30-Apr-14,Female,4,Surestart (Local Children's Centres),,Mixed - Other Mixed Background,Yes,Learning disability,,,NW8 9LA,51.5297961,-0.1760982,Loading...,,0,1,0,0
+364,30-Apr-14,Female,3,Surestart (Local Children's Centres),,Mixed - Other Mixed Background,Yes,Learning disability,,,W4 2JY,51.4884464,-0.252722,Loading...,,0,1,0,0
+1057,30-Apr-14,Female,5,GP,,White - British,,,,,SE4 1TW,51.4649731,-0.033909, Breezometer Description,Fair air quality,0,0,3,0
+576,30-Apr-14,Male,3,Housing Association,,White - British,,,Yes,Asthma/other respiratory problems; Other,N18 1NU,51.6186856,-0.0774709, Breezometer Description,Fair air quality,2,0,3,1
+654,30-Apr-14,Male,3,Housing Association,,White - British,,,Yes,Diabetes,SW8 2TN,51.4781804,-0.1242984,Loading...,,1,0,0,0
+782,1-May-14,Male,2,Housing Association,,White - British,,,Yes,Other,SE26 4SQ,51.4298403,-0.0528678, Breezometer Description,Moderate air quality,1,0,2,0
+814,1-May-14,Male,2,Housing Association,,White - British,,,Yes,Eating disorder,E1 6PS,51.5168633,-0.0735019, Breezometer Description,Moderate air quality,1,0,2,0
+825,1-May-14,Male,2,Housing Association,,White - British,Yes,Hearing impairment; Learning disability,Yes,Asthma/other respiratory problems; Other,SE28 0HT,51.4995081,0.0876534,Loading...,,2,2,0,1
+825,1-May-14,Male,3,Housing Association,,White - British,,,Yes,Asthma/other respiratory problems; Other,NW7 4RY,51.6165387,-0.2416536, Breezometer Description,Moderate air quality,2,0,2,1
+921,2-May-14,Male,3,Housing Association,,White - British,,,,,SE6 3AS,51.4408146,-0.0229747, Breezometer Description,Excellent air quality,0,0,4,0
+954,2-May-14,Male,2,Housing Association,,White - British,,,,,NW1 5ND,51.5223329,-0.1582913, Breezometer Description,Moderate air quality,0,0,2,0
+994,2-May-14,Male,2,Housing Association,,White - British,,,Yes,Asthma/other respiratory problems,N1 1GD,51.5384251,-0.1032783,Loading...,,1,0,0,1
+994,2-May-14,Male,2,Housing Association,,White - British,,,Yes,Diabetes,E14 6QN,51.5177259,-0.0142696,Loading...,,1,0,0,0
+1059,6-May-14,Male,2,Housing Association,,White - British,,,Yes,Eating disorder,E3 3RT,51.5178245,-0.0201028, Breezometer Description,Moderate air quality,1,0,2,0
+1561,7-May-14,Male,3,Health Visitor,,White - British,,,,,SE11 4DS,51.4878715,-0.1106777,Loading...,,0,0,0,0
+364,8-May-14,Female,4,Surestart (Local Children's Centres),,Asian/Asian British - Indian,Yes,Learning disability,,,N14 6NN,51.6283973,-0.1196548, Breezometer Description,Fair air quality,0,1,3,0
+407,8-May-14,Female,4,Surestart (Local Children's Centres),,Asian/Asian British - Indian,Yes,Learning disability,,,NW6 4AE,51.5400524,-0.1856959, Breezometer Description,Fair air quality,0,1,3,0
+1561,8-May-14,Female,3,Health Visitor,,White - British,,,,,SW2 3JY,51.4387332,-0.1110658, Breezometer Description,Fair air quality,0,0,3,0
+308,8-May-14,Male,3,Health Visitor,,White - British,,,,,N20 8AG,51.6341654,-0.2061181,Loading...,,0,0,0,0
+1059,9-May-14,Male,2,Housing Association,,White - British,,,,,E15 4EH,51.5431407,0.0114979,Loading...,,0,0,0,0
+1139,9-May-14,Male,2,Housing Association,,White - British,,,Yes,Other,E1 6BA,51.521893,-0.0765338, Breezometer Description,Moderate air quality,1,0,2,0
+407,13-May-14,Female,4,Surestart (Local Children's Centres),,Asian/Asian British - Indian,Yes,Other,,,E11 2ST,51.5785669,0.0222412,Loading...,,0,1,0,0
+463,13-May-14,Female,3,Surestart (Local Children's Centres),,Black/Black British - African,Yes,Autistic spectrum condition,Yes,Diabetes,NW6 3QS,51.5465315,-0.1830873, Breezometer Description,Excellent air quality,1,1,4,0
+487,13-May-14,Male,3,Surestart (Local Children's Centres),,Black/Black British - African,Yes,Learning disability,Yes,Allergies,N17 8NA,51.5988467,-0.069703, Breezometer Description,Moderate air quality,1,1,2,0
+1057,13-May-14,Female,5,GP,,White - British,,,Yes,Fainting/blackouts,SE22 0NH,51.4526276,-0.0582745, Breezometer Description,Fair air quality,1,0,3,0
+1139,13-May-14,Male,3,Housing Association,,White - British,,,Yes,Epilepsy,N10 3BB,51.5885208,-0.1482391,Loading...,,1,0,0,0
+1268,13-May-14,Female,2,Housing Association,,White - British,,,Yes,Diabetes,SE28 8BX,51.5051323,0.1155487, Breezometer Description,Excellent air quality,1,0,4,0
+1359,13-May-14,Female,2,Housing Association,,White - British,,,,,SE19 1AX,51.4247106,-0.0859395, Breezometer Description,Moderate air quality,0,0,2,0
+14,14-May-14,Female,2,Health Visitor,,White - British,,,,,SW14 7EZ,51.4691386,-0.2690238, Breezometer Description,Fair air quality,0,0,3,0
+515,16-May-14,Male,4,Surestart (Local Children's Centres),,Asian/Asian British - Other Asian Background,Yes,Mobility issues,,,E11 1BH,51.5696333,0.0030711,Loading...,,0,1,0,0
+638,16-May-14,Male,4,Surestart (Local Children's Centres),,White - British,Yes,Learning disability,,,NW10 9PU,51.5425173,-0.2533052,Loading...,,0,1,0,0
+687,16-May-14,Male,4,Surestart (Local Children's Centres),,White - British,Yes,Hearing impairment,,,NW2 9RP,51.5621085,-0.2296683,Loading...,,0,1,0,0
+728,16-May-14,Male,4,Surestart (Local Children's Centres),,White - British,Yes,Autistic spectrum condition,Yes,Allergies,W7 1JS,51.5243745,-0.3352008, Breezometer Description,Excellent air quality,1,1,4,0
+44,16-May-14,Male,3,Health Visitor,,White - British,,,Yes,Other,E4 7LD,51.6288118,-0.0116473,Loading...,,1,0,0,0
+1365,16-May-14,Male,2,Housing Association,,White - British,,,,,N20 0DE,51.626796,-0.1587595, Breezometer Description,Fair air quality,0,0,3,0
+1365,16-May-14,Male,3,Housing Association,,White - British,,,,,N4 9EZ,51.5728114,-0.1000159, Breezometer Description,Fair air quality,0,0,3,0
+1441,16-May-14,Female,2,Housing Association,,White - British,,,,,E15 1DD,51.5437203,0.0012694, Breezometer Description,Fair air quality,0,0,3,0
+778,19-May-14,Female,4,Surestart (Local Children's Centres),,White - British,Yes,Learning disability; Mobility issues; Other,Yes,Asthma/other respiratory problems; Other,N3 2AJ,51.6012897,-0.1786788, Breezometer Description,Fair air quality,2,3,3,1
+1457,19-May-14,Male,2,Housing Association,,White - British,,,Yes,Diabetes,NW5 2AP,51.5466091,-0.1347399,Loading...,,1,0,0,0
+1458,19-May-14,Female,2,Housing Association,,White - British,,,Yes,Other,N21 9BZ,51.6359737,-0.1002426, Breezometer Description,Fair air quality,1,0,3,0
+19,20-May-14,Female,2,Housing Association,,White - British,Yes,Autistic spectrum condition; Mobility issues,Yes,Eating disorder,N11 2RT,51.6120135,-0.1337642,Loading...,,1,2,0,0
+51,20-May-14,Female,2,Housing Association,,White - British,,,Yes,Asthma/other respiratory problems; Other,SE1 2RZ,51.5031277,-0.0777708, Breezometer Description,Moderate air quality,2,0,2,1
+70,20-May-14,Female,3,Housing Association,,Black/Black British - African,,,Yes,Asthma/other respiratory problems; Other,SE2 0QG,51.4883976,0.1249436,Loading...,,2,0,0,1
+88,21-May-14,Female,2,Housing Association,,Black/Black British - African,,,Yes,Epilepsy,SE7 8TW,51.4844331,0.0382526, Breezometer Description,Moderate air quality,1,0,2,0
+778,22-May-14,Female,4,Surestart (Local Children's Centres),,White - British,Yes,Autistic spectrum condition; Learning disability,Yes,Other,SW13 0JN,51.4674484,-0.2526748, Breezometer Description,Fair air quality,1,2,3,0
+132,22-May-14,Female,2,Housing Association,,White - British,,,Yes,Allergies,SE21 8ZJ,51.4364121,-0.0871626, Breezometer Description,Fair air quality,1,0,3,0
+132,22-May-14,Female,3,Housing Association,,White - British,Yes,Hearing impairment,Yes,Other,E20 1FN,51.5471218,-0.0126149, Breezometer Description,Fair air quality,1,1,3,0
+227,22-May-14,Male,2,GP,,White - British,,,Yes,Asthma/other respiratory problems,N8 8NP,51.5832626,-0.12123, Breezometer Description,Fair air quality,1,0,3,1
+264,23-May-14,Male,2,GP,,White - British,Yes,Hearing impairment; Learning disability,Yes,Asthma/other respiratory problems,NW3 7RR,51.5609466,-0.1889185,Loading...,,1,2,0,1
+89,27-May-14,Male,3,Health Visitor,,White - British,,,Yes,Diabetes,SW9 6PE,51.4721629,-0.1113268,Loading...,,1,0,0,0
+478,27-May-14,Male,3,GP,,White - British,,,Yes,Diabetes,SW3 5UW,51.4841746,-0.1770837,Loading...,,1,0,0,0
+543,27-May-14,Female,3,GP,,White - British,,,Yes,Asthma/other respiratory problems,W13 8BE,51.5237418,-0.3204629, Breezometer Description,Fair air quality,1,0,3,1
+543,27-May-14,Female,3,GP,,White - British,,,,,W6 9PL,51.4881238,-0.2229135,Loading...,,0,0,0,0
+544,27-May-14,Male,2,GP,,White - British,Yes,Hearing impairment,,,N11 3DD,51.611833,-0.1559131,Loading...,,0,1,0,0
+681,27-May-14,Male,2,GP,,White - British,,,,,N10 1NS,51.5944897,-0.1538148,Loading...,,0,0,0,0
+710,27-May-14,Male,2,GP,,White - British,,,,,E4 9AW,51.6070709,-0.0107633, Breezometer Description,Fair air quality,0,0,3,0
+778,28-May-14,Female,4,Surestart (Local Children's Centres),,White - British,Yes,Mobility issues,Yes,Allergies,SE8 3JN,51.482484,-0.027611, Breezometer Description,Fair air quality,1,1,3,0
+845,28-May-14,Female,4,Surestart (Local Children's Centres),,Black/Black British - Other Black Background,Yes,,,,N7 9SP,51.5551945,-0.1165734,Loading...,,0,0,0,0
+791,28-May-14,Male,2,GP,,White - British,,,,,SW19 3ZB,51.4170137,-0.2135824,Loading...,,0,0,0,0
+986,29-May-14,Male,4,Surestart (Local Children's Centres),,White - British,Yes,Progressive / chronic illness,,,E11 4EJ,51.5588944,-0.004744, Breezometer Description,Moderate air quality,0,1,2,0
+1190,29-May-14,Male,4,Surestart (Local Children's Centres),,White - British,Yes,Learning disability,,,N21 2BE,51.6372022,-0.0841448,Loading...,,0,1,0,0
+181,29-May-14,Male,3,Health Visitor,,White - British,,,,,SW2 4ND,51.4488091,-0.1303955,Loading...,,0,0,0,0
+829,29-May-14,Male,3,GP,,White - British,,,,,N9 9EL,51.6333614,-0.0687149, Breezometer Description,Fair air quality,0,0,3,0
+1218,30-May-14,Male,4,Surestart (Local Children's Centres),,White - British,Yes,Learning disability,,,SE1 6RP,51.4964655,-0.0938266, Breezometer Description,Fair air quality,0,1,3,0
+833,30-May-14,Male,3,GP,,White - British,,,,,NW5 1BX,51.5578789,-0.1445214, Breezometer Description,Fair air quality,0,0,3,0
+1081,2-Jun-14,Female,5,GP,,White - British,,,Yes,Urinary problems/infections,E15 1EF,51.5488141,-0.0021273, Breezometer Description,Moderate air quality,1,0,2,0
+894,2-Jun-14,Male,3,GP,,White - British,Yes,Hearing impairment,Yes,Other,SW11 5DU,51.4733316,-0.1559313, Breezometer Description,Moderate air quality,1,1,2,0
+1011,2-Jun-14,Male,3,GP,,White - British,,,Yes,Allergies,SW6 5NJ,51.4797414,-0.1992082,Loading...,,1,0,0,0
+1221,3-Jun-14,Male,4,Surestart (Local Children's Centres),,White - British,Yes,Learning disability; Other,Yes,Allergies,E13 0UH,51.5292534,0.0231549,Loading...,,1,2,0,0
+1011,3-Jun-14,Male,3,GP,,White - British,,,Yes,Other,SW2 4QU,51.4458494,-0.1275087,Loading...,,1,0,0,0
+1221,4-Jun-14,Male,4,Social Worker,,White - British,Yes,Learning disability,Yes,Other,SW15 3PN,51.4338971,-0.2556672,Loading...,,1,1,0,0
+1221,4-Jun-14,Male,4,Social Worker,,White - British,Yes,Hearing impairment,Yes,Fainting/blackouts,NW9 8QU,51.5763949,-0.2656736, Breezometer Description,Moderate air quality,1,1,2,0
+1239,6-Jun-14,Male,4,Social Worker,,White - British,Yes,Visual impairment,,,SE25 4XD,51.3941688,-0.064977,Loading...,,0,1,0,0
+1018,9-Jun-14,Male,3,GP,,White - British,,,,,SE6 4TR,51.4487608,-0.0222429, Breezometer Description,Fair air quality,0,0,3,0
+1018,9-Jun-14,Male,3,GP,,White - British,,,,,E17 6GB,51.5843153,-0.0248785, Breezometer Description,Moderate air quality,0,0,2,0
+1031,9-Jun-14,Male,3,GP,,White - British,,,,,E5 5BU,51.5600144,-0.0575557, Breezometer Description,Fair air quality,0,0,3,0
+1060,9-Jun-14,Male,2,GP,,White - British,,,,,SW4 7BW,51.4586791,-0.1346705, Breezometer Description,Fair air quality,0,0,3,0
+1079,10-Jun-14,Male,3,GP,,Black/Black British - African,,,,,N1 2XH,51.5365152,-0.102507, Breezometer Description,Fair air quality,0,0,3,0
+1239,11-Jun-14,Male,4,Social Worker,,White - British,Yes,Learning disability,,,N1 9QA,51.5329776,-0.1112042,Loading...,,0,1,0,0
+1266,12-Jun-14,Female,4,Social Worker,,White - British,Yes,Progressive / chronic illness,Yes,Asthma/other respiratory problems; Other,SE15 3UL,51.4617,-0.0625537, Breezometer Description,Fair air quality,2,1,3,1
+1287,12-Jun-14,Female,4,Social Worker,,White - British,Yes,Progressive / chronic illness,Yes,Diabetes,W4 4EG,51.489451,-0.2738003,Loading...,,1,1,0,0
+1081,12-Jun-14,Male,5,GP,,White - British,,,Yes,Other,SW18 4EE,51.4503488,-0.1901177, Breezometer Description,Fair air quality,1,0,3,0
+1079,12-Jun-14,Male,3,GP,,Black/Black British - African,,,Yes,Eating disorder,NW9 9PA,51.5846434,-0.268896, Breezometer Description,Moderate air quality,1,0,2,0
+1301,13-Jun-14,Male,4,Social Worker,,White - British,,,Yes,Asthma/other respiratory problems; Other,E1 8LB,51.5098833,-0.0696901, Breezometer Description,Moderate air quality,2,0,2,1
+1310,16-Jun-14,Male,4,Social Worker,,White - British,,,Yes,Asthma/other respiratory problems; Other,E2 8ET,51.5292057,-0.075548, Breezometer Description,Moderate air quality,2,0,2,1
+1125,16-Jun-14,Male,3,Local Authority Children's And Family Services,,Black/Black British - African,,,,,SW3 3AU,51.4921178,-0.16458,Loading...,,0,0,0,0
+1125,16-Jun-14,Male,4,Local Authority Children's And Family Services,,Black/Black British - African,Yes,Hearing impairment; Learning disability,Yes,Other,NW4 3NJ,51.5880213,-0.2217656, Breezometer Description,Moderate air quality,1,2,2,0
+1315,17-Jun-14,Male,4,Social Worker,,White - British,,,Yes,Asthma/other respiratory problems,SW16 1JX,51.431955,-0.1353564,Loading...,,1,0,0,1
+1345,17-Jun-14,Female,4,Local Authority Children's And Family Services,,Black/Black British - African,Yes,Progressive / chronic illness,Yes,Allergies,NW1 1QA,51.5312672,-0.1341271, Breezometer Description,Moderate air quality,1,1,2,0
+1499,17-Jun-14,Female,5,Local Authority Children's And Family Services,,White - British,,,Yes,Other,N1 1NA,51.5437127,-0.1077311, Breezometer Description,Fair air quality,1,0,3,0
+1505,17-Jun-14,Female,4,Local Authority Children's And Family Services,,White - British,Yes,Progressive / chronic illness,Yes,Epilepsy,SE24 0AD,51.460936,-0.0960559,Loading...,,1,1,0,0
+1543,17-Jun-14,Female,4,Family Support Worker,,White - British,,,,,SW11 6RE,51.4537565,-0.1640608, Breezometer Description,Moderate air quality,0,0,2,0
+1543,17-Jun-14,Female,5,Family Support Worker,,White - British,,,,,W4 3SY,51.4810238,-0.2688331,Loading...,,0,0,0,0
+1331,18-Jun-14,Male,3,Social Worker,,White - British,,,,,SW11 3EQ,51.4725141,-0.1668788, Breezometer Description,Fair air quality,0,0,3,0
+1331,20-Jun-14,Male,3,Social Worker,,White - British,,,,,E11 4DZ,51.5638063,0.002007, Breezometer Description,Moderate air quality,0,0,2,0
+1081,20-Jun-14,Male,6,GP,,Asian/Asian British - Indian,Yes,Progressive / chronic illness; Mobility issues,,,E17 7AY,51.5830315,-0.039484,Loading...,,0,2,0,0
+1108,20-Jun-14,Male,6,GP,,Asian/Asian British - Indian,,,,,W6 6JF,51.4911405,-0.2261411,Loading...,,0,0,0,0
+1547,20-Jun-14,Female,5,Family Support Worker,,White - British,,,,,SW14 7SH,51.4679304,-0.2712436, Breezometer Description,Fair air quality,0,0,3,0
+1547,20-Jun-14,Female,5,Family Support Worker,,White - British,,,,,SW5 9AD,51.491747,-0.1928146, Breezometer Description,Moderate air quality,0,0,2,0
+1547,20-Jun-14,Male,4,Family Support Worker,,White - British,Yes,Progressive / chronic illness,Yes,Allergies,N16 7QY,51.5578123,-0.0685125, Breezometer Description,Fair air quality,1,1,3,0
+1389,23-Jun-14,Male,3,Social Worker,,White - British,,,Yes,Diabetes,SW18 3RS,51.450648,-0.1711513, Breezometer Description,Fair air quality,1,0,3,0
+1570,23-Jun-14,Male,4,Family Support Worker,,White - British,,,Yes,Other,SW13 8AJ,51.483122,-0.2280958, Breezometer Description,Fair air quality,1,0,3,0
+15,23-Jun-14,Male,4,Family Support Worker,,White - British,,,Yes,Other,W12 7RH,51.5122321,-0.2246319,Loading...,,1,0,0,0
+39,23-Jun-14,Male,4,Family Support Worker,,White - British,,,Yes,Epilepsy,E14 7NN,51.5154718,-0.0395759,Loading...,,1,0,0,0
+39,23-Jun-14,Male,4,Family Support Worker,,White - British,,,Yes,Eating disorder,E6 6LR,51.5189004,0.0630413,Loading...,,1,0,0,0
+1435,24-Jun-14,Male,3,Social Worker,,White - British,Yes,Progressive / chronic illness,,,NW1 1NJ,51.5339468,-0.1369445,Loading...,,0,1,0,0
+64,25-Jun-14,Female,4,Family Support Worker,,White - British,,,,,E2 0SD,51.5294986,-0.0443222, Breezometer Description,Moderate air quality,0,0,2,0
+64,26-Jun-14,Male,5,Family Support Worker,,White - British,,,,,NW1 8PR,51.5450089,-0.1421317, Breezometer Description,Fair air quality,0,0,3,0
+90,26-Jun-14,Male,5,Family Support Worker,,White - British,,,,,NW6 1NY,51.5513837,-0.2009384, Breezometer Description,Excellent air quality,0,0,4,0
+90,26-Jun-14,Male,5,Family Support Worker,,White - Irish,,,,,NW2 2HH,51.5607849,-0.1959364, Breezometer Description,Fair air quality,0,0,3,0
+1435,27-Jun-14,Male,3,Social Worker,,White - British,,,Yes,Fainting/blackouts,NW10 5XE,51.5324225,-0.2313438,Loading...,,1,0,0,0
+53,30-Jun-14,Male,3,Social Worker,,White - British,,,,,N11 2RS,51.612285,-0.1333054,Loading...,,0,0,0,0
+135,30-Jun-14,Male,3,Social Worker,,White - British,,,Yes,Asthma/other respiratory problems,W11 4SU,51.5072276,-0.2160219, Breezometer Description,Fair air quality,1,0,3,1
+107,1-Jul-14,Male,5,Family Support Worker,,White - Irish,Yes,Other,,,W13 8BD,51.52192,-0.3194632,Loading...,,0,1,0,0
+141,2-Jul-14,Male,3,Social Worker,,White - British,Yes,Progressive / chronic illness,Yes,Other,SE18 7JS,51.4831538,0.0742749, Breezometer Description,Excellent air quality,1,1,4,0
+107,4-Jul-14,Female,4,Family Support Worker,,White - Irish,,,Yes,Other,NW8 9UX,51.5337319,-0.1846063, Breezometer Description,Excellent air quality,1,0,4,0
+155,7-Jul-14,Male,3,Social Worker,,White - British,,,Yes,Other,SW19 1AW,51.4202431,-0.1872944,Loading...,,1,0,0,0
+279,7-Jul-14,Male,4,Social Worker,,White - British,,,Yes,Allergies,SW2 4RG,51.4418716,-0.1250669,Loading...,,1,0,0,0
+330,7-Jul-14,Female,4,Social Worker,,White - British,,,Yes,Allergies,N4 3QH,51.5682634,-0.1117189,Loading...,,1,0,0,0
+169,7-Jul-14,Male,5,Family Support Worker,,White - Irish,,,,,SE28 8AU,51.5013338,0.1152431,Loading...,,0,0,0,0
+796,8-Jul-14,Male,4,Family Support Worker,,White - British,,,,,W8 4QS,51.5045531,-0.1905357,Loading...,,0,0,0,0
+1108,8-Jul-14,Male,5,GP,,White - British,Yes,Autistic spectrum condition; Mobility issues,,,E10 7YQ,51.5708563,-0.0090834, Breezometer Description,Moderate air quality,0,2,2,0
+454,9-Jul-14,Male,4,Social Worker,,White - British,,,,,E14 6TB,51.5165701,-0.0198401, Breezometer Description,Moderate air quality,0,0,2,0
+519,9-Jul-14,Female,4,Social Worker,,White - British,,,,,E7 9DD,51.5511635,0.0166551,Loading...,,0,0,0,0
+522,9-Jul-14,Female,4,Social Worker,,White - British,,,,,NW7 1FG,51.6147069,-0.2419314,Loading...,,0,0,0,0
+522,9-Jul-14,Male,3,Social Worker,,White - British,,,,,E15 4PE,51.5408029,0.0041266, Breezometer Description,Moderate air quality,0,0,2,0
+538,11-Jul-14,Male,4,Social Worker,,White - British,,,,,E9 5RW,51.5476788,-0.0350042,Loading...,,0,0,0,0
+186,11-Jul-14,Male,5,Family Support Worker,,White - Irish,,,,,SW11 5UB,51.4679961,-0.1586084, Breezometer Description,Moderate air quality,0,0,2,0
+186,11-Jul-14,Male,5,Family Support Worker,,White - Irish,,,,,N6 5DA,51.5753104,-0.1374039, Breezometer Description,Fair air quality,0,0,3,0
+198,11-Jul-14,Female,5,Family Support Worker,,White - Irish,,,,,SW8 3QR,51.471804,-0.1508668, Breezometer Description,Fair air quality,0,0,3,0
+1144,14-Jul-14,Female,5,GP,,White - British,,,,,SE5 7NL,51.4776572,-0.0907658, Breezometer Description,Fair air quality,0,0,3,0
+207,14-Jul-14,Female,4,Family Support Worker,,White - Irish,,,Yes,Eating disorder,E14 5SG,51.5049672,-0.009608, Breezometer Description,Fair air quality,1,0,3,0
+538,15-Jul-14,Male,4,Social Worker,,White - British,,,Yes,Other,W14 9TS,51.4848722,-0.2101107,Loading...,,1,0,0,0
+207,15-Jul-14,Male,5,Family Support Worker,,White - Irish,,,,,SW2 1PB,51.455199,-0.1161149,Loading...,,0,0,0,0
+284,15-Jul-14,Female,5,Family Support Worker,,White - British,,,Yes,Fainting/blackouts,E17 3HS,51.5911495,-0.0057275, Breezometer Description,Moderate air quality,1,0,2,0
+579,16-Jul-14,Male,4,Social Worker,,White - British,,,,,SW18 5LN,51.4452535,-0.201443,Loading...,,0,0,0,0
+602,17-Jul-14,Male,4,Social Worker,,White - British,Yes,Other,Yes,Other,E5 9WR,51.5600144,-0.0575557, Breezometer Description,Fair air quality,1,1,3,0
+605,17-Jul-14,Male,4,Social Worker,,White - British,,,Yes,Asthma/other respiratory problems,W12 6WF,51.5110583,-0.2207577, Breezometer Description,Fair air quality,1,0,3,1
+326,17-Jul-14,Male,3,Health Visitor,,White - British,,,,,SW7 4RX,51.4963198,-0.1855457, Breezometer Description,Moderate air quality,0,0,2,0
+678,21-Jul-14,Male,4,Social Worker,,White - British,,,,,NW10 5NX,51.5299145,-0.2290189, Breezometer Description,Fair air quality,0,0,3,0
+678,21-Jul-14,Male,4,Social Worker,,White - British,,,,,N19 5XE,51.563468,-0.1368779, Breezometer Description,Fair air quality,0,0,3,0
+284,21-Jul-14,Female,5,School,,White - British,,,,,SW3 3TR,51.4884784,-0.1681975,Loading...,,0,0,0,0
+622,21-Jul-14,Female,4,School,,White - British,,,Yes,Other,SW5 0JR,51.4921245,-0.1834939, Breezometer Description,Fair air quality,1,0,3,0
+1200,22-Jul-14,Female,5,GP,,White - British,,,,,W10 6BN,51.523792,-0.2195983,Loading...,,0,0,0,0
+794,24-Jul-14,Male,4,Social Worker,,White - British,Yes,Progressive / chronic illness,,,SE27 9AX,51.4398388,-0.1071352, Breezometer Description,Fair air quality,0,1,3,0
+633,24-Jul-14,Female,5,School,,White - British,,,,,SW19 8FU,51.4283309,-0.1898514,Loading...,,0,0,0,0
+675,24-Jul-14,Female,5,School,,White - British,,,,,N9 0DX,51.619419,-0.0591948,Loading...,,0,0,0,0
+798,25-Jul-14,Male,4,School Nurse,,White - British,,,,,N19 3UL,51.5672534,-0.1340249,Loading...,,0,0,0,0
+815,25-Jul-14,Male,4,School Nurse,,White - British,,,Yes,Allergies,NW1 4GF,51.5307843,-0.13543, Breezometer Description,Moderate air quality,1,0,2,0
+675,28-Jul-14,Female,5,School,,White - British,,,Yes,Allergies,N14 5HS,51.6352379,-0.1347185,Loading...,,1,0,0,0
+895,28-Jul-14,Female,4,School,,White - British,,,Yes,Allergies,SW13 0NL,51.4726509,-0.252404,Loading...,,1,0,0,0
+989,28-Jul-14,Female,4,School,,White - British,,,,,SE25 6UX,51.4003516,-0.0849727,Loading...,,0,0,0,0
+815,30-Jul-14,Male,4,School Nurse,,White - British,,,,,E11 3QU,51.5639826,0.0226618, Breezometer Description,Fair air quality,0,0,3,0
+1016,30-Jul-14,Female,4,School,,White - British,,,,,W13 8BU,51.5238285,-0.317101,Loading...,,0,0,0,0
+1102,31-Jul-14,Female,4,School,,White - British,,,,,N17 9TL,51.5971228,-0.0671339, Breezometer Description,Fair air quality,0,0,3,0
+872,1-Aug-14,Female,4,School Nurse,,White - British,,,,,N17 6FH,51.5909064,-0.0708048,Loading...,,0,0,0,0
+1102,1-Aug-14,Male,5,School,,Black/Black British - Other Black Background,,,Yes,Eating disorder,NW1 1YF,51.5307843,-0.13543, Breezometer Description,Moderate air quality,1,0,2,0
+1145,1-Aug-14,Male,5,School,,White - British,,,,,N1 2QB,51.5435281,-0.0941103, Breezometer Description,Moderate air quality,0,0,2,0
+1145,1-Aug-14,Male,4,School,,White - British,,,,,SW13 0NY,51.4703267,-0.2557468, Breezometer Description,Fair air quality,0,0,3,0
+1226,1-Aug-14,Male,4,School,,White - British,,,,,E1 8QL,51.5176228,-0.0557553, Breezometer Description,Moderate air quality,0,0,2,0
+885,5-Aug-14,Female,3,School Nurse,,White - British,,,,,N11 2RU,51.6113891,-0.1335154,Loading...,,0,0,0,0
+1226,6-Aug-14,Male,4,School,,White - British,,,,,N7 0DZ,51.5576836,-0.1310842, Breezometer Description,Fair air quality,0,0,3,0
+1296,8-Aug-14,Male,4,School,,White - British,,,,,SW17 9BQ,51.4268085,-0.1505117, Breezometer Description,Fair air quality,0,0,3,0
+1296,8-Aug-14,Male,4,School,,White - British,,,,,SW17 8BB,51.4349756,-0.1580518,Loading...,,0,0,0,0
+1394,11-Aug-14,Male,4,GP,,White - British,,,,,SE6 1TG,51.4364415,-0.0031929,Loading...,,0,0,0,0
+1428,11-Aug-14,Female,4,GP,,White - British,,,,,NW5 9GA,51.5509198,-0.1434487, Breezometer Description,Excellent air quality,0,0,4,0
+972,12-Aug-14,Male,4,School Nurse,,White - British,,,,,E14 8PF,51.4961314,-0.0204668,Loading...,,0,0,0,0
+1567,12-Aug-14,Female,4,GP,,White - British,,,,,W6 8DF,51.4912906,-0.2170474, Breezometer Description,Fair air quality,0,0,3,0
+83,12-Aug-14,Female,4,GP,,White - British,Yes,Visual impairment,,,SW19 7QQ,51.4244831,-0.205121,Loading...,,0,1,0,0
+182,12-Aug-14,Female,4,GP,,White - British,Yes,Autistic spectrum condition; Learning disability,Yes,Eating disorder,SW8 4AR,51.4774896,-0.144747, Breezometer Description,Moderate air quality,1,2,2,0
+982,13-Aug-14,Male,3,School Nurse,,White - British,Yes,Progressive / chronic illness,Yes,Other,SE23 2LX,51.4367599,-0.0531203,Loading...,,1,1,0,0
+262,13-Aug-14,Female,4,GP,,White - British,Yes,Autistic spectrum condition; Other,Yes,Asthma/other respiratory problems,E9 7HE,51.5382274,-0.0436019, Breezometer Description,Fair air quality,1,2,3,1
+262,13-Aug-14,Female,4,GP,,White - British,Yes,Autistic spectrum condition,,,E8 3WJ,51.5327244,-0.060419, Breezometer Description,Moderate air quality,0,1,2,0
+272,13-Aug-14,Female,5,GP,,White - British,Yes,Learning disability,,,SE15 5NG,51.4728188,-0.0753445, Breezometer Description,Moderate air quality,0,1,2,0
+982,14-Aug-14,Male,4,School Nurse,,White - British,,,,,NW10 4NX,51.5363346,-0.2457411,Loading...,,0,0,0,0
+319,15-Aug-14,Male,5,GP,,White - British,Yes,Other,,,NW1 6DB,51.5247659,-0.1614799, Breezometer Description,Moderate air quality,0,1,2,0
+319,15-Aug-14,Female,5,GP,,White - British,,,,,NW4 3AL,51.5840688,-0.2279823, Breezometer Description,Moderate air quality,0,0,2,0
+334,15-Aug-14,Female,4,School,,White - British,,,,,N12 0AN,51.6033919,-0.1727607, Breezometer Description,Fair air quality,0,0,3,0
+396,15-Aug-14,Female,5,School,,White - British,,,,,SW11 1QE,51.4620666,-0.1687226, Breezometer Description,Moderate air quality,0,0,2,0
+1040,18-Aug-14,Female,3,School Nurse,,White - British,,,,,NW10 8HP,51.5465276,-0.2605503, Breezometer Description,Moderate air quality,0,0,2,0
+1436,18-Aug-14,Female,5,GP,,White - British,,,,,SE1 2LT,51.5018822,-0.0758492,Loading...,,0,0,0,0
+402,18-Aug-14,Male,4,School,,White - British,,,,,NW4 1QW,51.5912715,-0.2226204,Loading...,,0,0,0,0
+1470,19-Aug-14,Female,6,GP,,White - British,,,,,W10 5SY,51.5207968,-0.2095098,Loading...,,0,0,0,0
+510,19-Aug-14,Male,5,School,,White - British,,,,,SW6 2PY,51.474458,-0.1837349, Breezometer Description,Fair air quality,0,0,3,0
+529,19-Aug-14,Male,4,School,,White - British,,,,,SW6 6HE,51.475923,-0.2170851, Breezometer Description,Fair air quality,0,0,3,0
+673,20-Aug-14,Male,5,School,,White - British,,,,,E8 1BN,51.5455241,-0.0578988,Loading...,,0,0,0,0
+673,20-Aug-14,Female,4,School,,White - British,Yes,Hearing impairment,,,E4 6XS,51.6199028,-0.0043804, Breezometer Description,Moderate air quality,0,1,2,0
+730,21-Aug-14,Female,5,School,,White - British,Yes,Learning disability,,,W13 8BG,51.5218832,-0.3200267,Loading...,,0,1,0,0
+735,21-Aug-14,Male,5,School,,White - British,Yes,Learning disability,,,E2 9QH,51.5275188,-0.0572235, Breezometer Description,Moderate air quality,0,1,2,0
+743,22-Aug-14,Male,4,School,,White - British,,,,,SE1 5LL,51.4927623,-0.0801516,Loading...,,0,0,0,0
+779,22-Aug-14,Male,5,School,,White - British,,,Yes,Other,SE21 7BE,51.4445348,-0.0862044, Breezometer Description,Moderate air quality,1,0,2,0
+1094,26-Aug-14,Female,4,School Nurse,,White - British,,,Yes,Other,SW11 3PH,51.4758846,-0.1731085, Breezometer Description,Fair air quality,1,0,3,0
+1470,26-Aug-14,Female,6,GP,,White - British,,,Yes,Other,E3 2LQ,51.5378927,-0.0284464,Loading...,,1,0,0,0
+779,26-Aug-14,Male,5,School,,White - British,,,,,N11 2HT,51.6126888,-0.1231061, Breezometer Description,Fair air quality,0,0,3,0
+802,26-Aug-14,Male,5,School,,White - British,,,Yes,Asthma/other respiratory problems,SW5 0HJ,51.4921233,-0.1892272, Breezometer Description,Moderate air quality,1,0,2,1
+802,26-Aug-14,Male,4,School,,White - British,,,,,N2 9NS,51.5936665,-0.1552197, Breezometer Description,Fair air quality,0,0,3,0
+802,26-Aug-14,Female,4,School,,White - British,Yes,Other,Yes,Asthma/other respiratory problems,SW4 8DR,51.4503056,-0.1340188, Breezometer Description,Fair air quality,1,1,3,1
+1135,27-Aug-14,Female,4,School Nurse,,White - British,,,,,SW16 3LJ,51.4148547,-0.1226348, Breezometer Description,Moderate air quality,0,0,2,0
+905,27-Aug-14,Female,4,School,,White - British,,,,,N22 5QG,51.6022538,-0.0977316, Breezometer Description,Fair air quality,0,0,3,0
+1135,28-Aug-14,Female,3,School Nurse,,White - British,,,Yes,Diabetes,N12 9BN,51.6159916,-0.176328,Loading...,,1,0,0,0
+1197,28-Aug-14,Female,4,School Nurse,,White - British,Yes,Progressive / chronic illness,,,SW4 0ED,51.4663697,-0.1410229, Breezometer Description,Moderate air quality,0,1,2,0
+6,28-Aug-14,Male,6,GP,,White - British,,,,,SE5 7DF,51.4747285,-0.0799297, Breezometer Description,Moderate air quality,0,0,2,0
+1197,2-Sep-14,Female,3,School Nurse,,White - British,,,,,SE23 3PP,51.4397037,-0.0641754,Loading...,,0,0,0,0
+1197,2-Sep-14,Male,3,School Nurse,,White - British,,,,,W8 9DD,51.4984452,-0.1985863, Breezometer Description,Fair air quality,0,0,3,0
+69,17-Sep-14,Male,5,GP,,White - British,,,,,E14 3SF,51.4921959,-0.0249301, Breezometer Description,Fair air quality,0,0,3,0
+1197,19-Sep-14,Male,3,School Nurse,,White - British,,,,,SE25 5QR,51.3945438,-0.0719042, Breezometer Description,Fair air quality,0,0,3,0
+1300,24-Sep-14,Male,3,School Nurse,,White - British,,,,,SE2 9QP,51.4922958,0.1127646, Breezometer Description,Excellent air quality,0,0,4,0
+1300,25-Sep-14,Male,3,School Nurse,,White - British,Yes,Progressive / chronic illness; Mobility issues,,,SW10 9YF,51.4847528,-0.1836284, Breezometer Description,Moderate air quality,0,2,2,0
+1337,26-Sep-14,Female,3,School Nurse,,White - British,,,,,W13 9UN,51.5010371,-0.323041,Loading...,,0,0,0,0
+247,26-Sep-14,Male,5,GP,,White - British,,,,,N10 3PL,51.5901017,-0.1401626, Breezometer Description,Fair air quality,0,0,3,0
+1342,29-Sep-14,Female,3,School Nurse,,White - British,,,Yes,Asthma/other respiratory problems,E12 6HT,51.5499667,0.0647783,Loading...,,1,0,0,1
+247,29-Sep-14,Male,5,GP,,White - British,Yes,Learning disability; Mobility issues,,,E1 2DL,51.5154208,-0.0603038,Loading...,,0,2,0,0
+300,29-Sep-14,Male,5,GP,,White - British,Yes,Learning disability,,,N1 5BB,51.5376344,-0.0779034, Breezometer Description,Moderate air quality,0,1,2,0
+1480,30-Sep-14,Female,4,School Nurse,,White - British,Yes,Autistic spectrum condition,,,N20 0AS,51.6308566,-0.1527865,Loading...,,0,1,0,0
+1480,1-Oct-14,Female,3,School Nurse,,White - British,,,,,NW11 0NE,51.5788336,-0.2001, Breezometer Description,Moderate air quality,0,0,2,0
+377,3-Oct-14,Female,4,School Nurse,,White - British,,,,,NW6 3PP,51.5433387,-0.1900359,Loading...,,0,0,0,0
+381,7-Oct-14,Female,4,School Nurse,,White - British,,,Yes,Asthma/other respiratory problems; Other,NW8 9QS,51.5338202,-0.1856698, Breezometer Description,Excellent air quality,2,0,4,1
+300,7-Oct-14,Male,5,Local Authority Children's And Family Services,,White - Other White Background,,,Yes,Diabetes,N9 8ED,51.6381599,-0.04244,Loading...,,1,0,0,0
+381,8-Oct-14,Male,3,School Nurse,,White - British,,,Yes,Other,N1 6WG,51.5384251,-0.1032783, Breezometer Description,Fair air quality,1,0,3,0
+401,9-Oct-14,Male,4,School Nurse,,White - British,,,Yes,Eating disorder,NW7 3QD,51.6139257,-0.2606181,Loading...,,1,0,0,0
+417,9-Oct-14,Female,3,School Nurse,,White - British,,,Yes,Asthma/other respiratory problems; Other,SW19 2FJ,51.4255297,-0.2050566,Loading...,,2,0,0,1
+472,14-Oct-14,Female,4,School Nurse,,White - British,,,Yes,Asthma/other respiratory problems; Other,NW10 1PN,51.5563575,-0.2521691, Breezometer Description,Moderate air quality,2,0,2,1
+472,14-Oct-14,Female,3,School Nurse,,White - British,,,Yes,Other,E16 9DL,51.5191001,-0.005691, Breezometer Description,Moderate air quality,1,0,2,0
+472,17-Oct-14,Female,3,Unknown,,White - British,Yes,Progressive / chronic illness,,,W4 1HS,51.4996932,-0.2561675, Breezometer Description,Fair air quality,0,1,3,0
+472,23-Oct-14,Female,3,Unknown,,White - British,Yes,Progressive / chronic illness,,,N11 2BS,51.6100611,-0.1224201, Breezometer Description,Fair air quality,0,1,3,0
+533,24-Oct-14,Female,3,Unknown,,White - British,Yes,Learning disability,,,SW15 5LB,51.4643945,-0.2474935, Breezometer Description,Fair air quality,0,1,3,0
+546,24-Oct-14,Female,4,Unknown,,White - British,Yes,Autistic spectrum condition,Yes,Asthma/other respiratory problems; Other,E1 3DB,51.5188708,-0.0476459,Loading...,,2,1,0,1
+523,28-Oct-14,Male,5,Local Authority Children's And Family Services,,White - Other White Background,,Progressive / chronic illness,Yes,Diabetes,SE24 0PQ,51.4564645,-0.1048066, Breezometer Description,Moderate air quality,1,1,2,0
+546,29-Oct-14,Female,4,Unknown,,Black/Black British - Other Black Background,Yes,Learning disability,Yes,Other,SW18 4AE,51.4558592,-0.1923179,Loading...,,1,1,0,0
+546,3-Nov-14,Female,4,Unknown,,Black/Black British - Other Black Background,Yes,Learning disability,Yes,Eating disorder,E11 4PF,51.5612087,0.0035088,Loading...,,1,1,0,0
+523,3-Nov-14,Male,5,Local Authority Children's And Family Services,,White - British,,Progressive / chronic illness,Yes,Asthma/other respiratory problems; Other,SE5 8EL,51.4650768,-0.0907871,Loading...,,2,1,0,1
+805,10-Nov-14,Female,3,Unknown,,Black/Black British - Other Black Background,Yes,Autistic spectrum condition; Mobility issues,Yes,Asthma/other respiratory problems; Other,N21 2PB,51.636004,-0.0917388, Breezometer Description,Fair air quality,2,2,3,1
+562,10-Nov-14,Male,5,Local Authority Children's And Family Services,,White - British,,Progressive / chronic illness,,,SW18 1AW,51.460621,-0.1856375, Breezometer Description,Moderate air quality,0,1,2,0
+805,20-Nov-14,Male,4,Unknown,,Black/Black British - Other Black Background,Yes,Hearing impairment,,,NW6 3DG,51.5457957,-0.1831888,Loading...,,0,1,0,0
+809,20-Nov-14,Female,4,Unknown,,Black/Black British - Other Black Background,Yes,Learning disability,Yes,Diabetes,SE18 1BZ,51.4893366,0.0902137, Breezometer Description,Fair air quality,1,1,3,0
+846,20-Nov-14,Female,4,Unknown,,Black/Black British - Other Black Background,Yes,Learning disability,Yes,Other,SE4 2FJ,51.4656233,-0.0398442, Breezometer Description,Fair air quality,1,1,3,0
+915,20-Nov-14,Male,4,Unknown,,Black/Black British - Other Black Background,Yes,Progressive / chronic illness; Other,Yes,Other,NW10 7HD,51.5304472,-0.290387,Loading...,,1,2,0,0
+923,24-Nov-14,Male,5,Local Authority Children's And Family Services,,White - British,,Progressive / chronic illness,Yes,Other,NW1 2NU,51.5266665,-0.1383085,Loading...,,1,1,0,0
+1044,24-Nov-14,Male,5,Local Authority Children's And Family Services,,White - British,,Progressive / chronic illness,Yes,Fainting/blackouts,SE18 1PT,51.4829392,0.0904108, Breezometer Description,Excellent air quality,1,1,4,0
+964,26-Nov-14,Female,4,Unknown,,Black/Black British - Other Black Background,Yes,Autistic spectrum condition; Learning disability,Yes,Diabetes,N8 7HL,51.5888201,-0.1319432,Loading...,,1,2,0,0
+968,5-Dec-14,Female,4,Unknown,,Black/Black British - Other Black Background,Yes,Learning disability,Yes,Eating disorder,SE2 9NS,51.4914104,0.1184715,Loading...,,1,1,0,0
+968,5-Dec-14,Female,4,Unknown,,Black/Black British - Other Black Background,Yes,Autistic spectrum condition,Yes,Asthma/other respiratory problems,E17 3NE,51.5845944,-0.0015253,Loading...,,1,1,0,1
+1133,5-Dec-14,Male,4,Unknown,,Black/Black British - Other Black Background,Yes,Learning disability,,,W11 3SB,51.5055664,-0.2090982, Breezometer Description,Fair air quality,0,1,3,0
+1133,9-Dec-14,Male,3,Unknown,,White - British,Yes,Learning disability; Mobility issues,Yes,Urinary problems/infections,SE26 5RH,51.4253387,-0.0460683, Breezometer Description,Fair air quality,1,2,3,0
+1180,10-Dec-14,Male,4,Unknown,,White - British,Yes,Learning disability,Yes,Other,NW10 5HJ,51.5352594,-0.2244858,Loading...,,1,1,0,0
+1180,12-Dec-14,Male,4,Unknown,,White - British,Yes,Autistic spectrum condition,Yes,Epilepsy,SW20 8WF,51.4170137,-0.2135824,Loading...,,1,1,0,0
+816,12-Dec-14,Male,4,Family Support Worker,,White - British,,,,,W6 8HF,51.4875787,-0.2159967,Loading...,,0,0,0,0
+1400,15-Dec-14,Female,4,Unknown,,White - British,Yes,Autistic spectrum condition; Learning disability,,,N1 0YX,51.5371305,-0.1044136, Breezometer Description,Fair air quality,0,2,3,0
+1439,15-Dec-14,Male,4,School Nurse,,White - British,Yes,Learning disability,,,SW12 8BS,51.4498467,-0.1515958, Breezometer Description,Fair air quality,0,1,3,0
+1454,15-Dec-14,Male,4,School Nurse,,White - British,Yes,Learning disability; Other,,,N17 7LA,51.6053079,-0.0903256, Breezometer Description,Fair air quality,0,2,3,0
+1454,16-Dec-14,Male,3,School Nurse,,White - British,Yes,Learning disability,,,NW4 1DA,51.5909476,-0.2131338, Breezometer Description,Moderate air quality,0,1,2,0
+1118,17-Dec-14,Male,5,Local Authority Children's And Family Services,,White - British,,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,E2 0RB,51.53015,-0.0456351,Loading...,,1,2,0,1
+1118,17-Dec-14,Female,5,Local Authority Children's And Family Services,,White - British,,Progressive / chronic illness; Other,Yes,Diabetes,SE27 9SL,51.4284496,-0.0902284,Loading...,,1,2,0,0
+1147,17-Dec-14,Male,5,Local Authority Children's And Family Services,,White - British,,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,W5 4PD,51.5028953,-0.2972249,Loading...,,1,2,0,1
+242,17-Dec-14,Male,3,Health Visitor,,White - British,,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,SE1 7UR,51.4994531,-0.1123023, Breezometer Description,Moderate air quality,1,2,2,1
+282,17-Dec-14,Male,3,Health Visitor,,White - British,,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,W4 4DT,51.491832,-0.2785648, Breezometer Description,Fair air quality,1,2,3,1
+1193,18-Dec-14,Male,6,Local Authority Children's And Family Services,,White - British,,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,SW17 0BH,51.4314687,-0.1845771, Breezometer Description,Moderate air quality,1,2,2,1
+1537,22-Dec-14,Male,3,School Nurse,,White - British,Yes,Learning disability,Yes,Asthma/other respiratory problems,N12 9DT,51.6151011,-0.1745727, Breezometer Description,Fair air quality,1,1,3,1
+1537,23-Dec-14,Male,3,School Nurse,,Mixed - Other Mixed Background,Yes,Learning disability; Mobility issues,Yes,Allergies,NW11 7AH,51.5801963,-0.1893079,Loading...,,1,2,0,0
+1537,23-Dec-14,Male,3,School Nurse,,Mixed - Other Mixed Background,Yes,Learning disability,Yes,Allergies,SW18 3NR,51.4472081,-0.1783548,Loading...,,1,1,0,0
+1390,23-Dec-14,Male,5,Local Authority Children's And Family Services,,White - British,,,Yes,Allergies,W14 9YB,51.4921564,-0.2142623,Loading...,,1,0,0,0
+23,30-Dec-14,Male,3,School Nurse,,Mixed - Other Mixed Background,Yes,Hearing impairment,Yes,Allergies,SE1 4PR,51.4983568,-0.0829709, Breezometer Description,Moderate air quality,1,1,2,0
+254,30-Dec-14,Male,3,School Nurse,,Mixed - Other Mixed Background,Yes,Autistic spectrum condition; Learning disability,Yes,Other,SE18 6LE,51.4907109,0.0679915, Breezometer Description,Fair air quality,1,2,3,0
+281,31-Dec-14,Male,3,School Nurse,,Mixed - Other Mixed Background,Yes,Mobility issues,,,SW3 3AD,51.493571,-0.1672299, Breezometer Description,Moderate air quality,0,1,2,0
+281,2-Jan-15,Male,3,School Nurse,,Mixed - Other Mixed Background,Yes,Learning disability,,,NW3 5BJ,51.5489783,-0.1721436, Breezometer Description,Fair air quality,0,1,3,0
+328,6-Jan-15,Female,3,School Nurse,,Mixed - Other Mixed Background,Yes,Learning disability,,,NW2 5HD,51.5427721,-0.2259384, Breezometer Description,Fair air quality,0,1,3,0
+341,9-Jan-15,Female,3,School Nurse,,Mixed - Other Mixed Background,Yes,Other,,,SW10 0BX,51.4831917,-0.1763307, Breezometer Description,Moderate air quality,0,1,2,0
+387,9-Jan-15,Female,4,School Nurse,,White - British,Yes,Autistic spectrum condition,,,E15 3QS,51.5350364,0.0189414,Loading...,,0,1,0,0
+387,12-Jan-15,Female,4,School Nurse,,White - British,Yes,,,,W8 6ET,51.4978402,-0.1984229,Loading...,,0,0,0,0
+438,13-Jan-15,Female,4,School Nurse,,White - British,Yes,Autistic spectrum condition,,,N11 2RR,51.6120777,-0.1304541,Loading...,,0,1,0,0
+649,16-Jan-15,Female,4,School Nurse,,White - British,Yes,Mental health,,,N3 1EX,51.6067326,-0.1963107,Loading...,,0,1,0,0
+649,20-Jan-15,Male,4,School Nurse,,White - British,Yes,Autistic spectrum condition,,,W5 4XB,51.4973553,-0.3127313, Breezometer Description,Fair air quality,0,1,3,0
+662,23-Jan-15,Male,4,School Nurse,,White - British,Yes,Mental health,,,SE3 9EX,51.4611542,0.024043,Loading...,,0,1,0,0
+662,27-Jan-15,Male,4,School Nurse,,White - British,Yes,Hearing impairment; Learning disability,,,SE13 5PB,51.4590124,-0.002611,Loading...,,0,2,0,0
+1417,30-Jan-15,Male,5,Local Authority Children's And Family Services,,White - British,,,Yes,Diabetes,W13 8BB,51.5236242,-0.3191554,Loading...,,1,0,0,0
+717,3-Feb-15,Female,4,School Nurse,,White - British,Yes,Autistic spectrum condition,Yes,Client did not wish to disclose,SE1 4NN,51.5009418,-0.091493, Breezometer Description,Moderate air quality,1,1,2,0
+734,3-Feb-15,Female,4,School Nurse,,White - British,Yes,Learning disability,Yes,Diabetes,SW2 5EA,51.45697,-0.1284355,Loading...,,1,1,0,0
+899,3-Feb-15,Female,3,School Nurse,,White - British,Yes,Visual impairment,Yes,Client did not wish to disclose,SE6 3TQ,51.4329233,-0.0232291, Breezometer Description,Excellent air quality,1,1,4,0
+899,4-Feb-15,Male,3,School Nurse,,White - British,Yes,Autistic spectrum condition; Learning disability,,,W3 8NJ,51.5043198,-0.2692184,Loading...,,0,2,0,0
+899,4-Feb-15,Male,4,School Nurse,,White - British,Yes,Progressive / chronic illness,,,SW15 3RH,51.4320125,-0.2656224,Loading...,,0,1,0,0
+911,6-Feb-15,Male,3,School Nurse,,White - British,Yes,Autistic spectrum condition; Other,,,NW7 1QT,51.6219275,-0.231044, Breezometer Description,Fair air quality,0,2,3,0
+911,9-Feb-15,Female,4,School Nurse,,White - British,Yes,Autistic spectrum condition,,,E1 6FQ,51.5188402,-0.0773687, Breezometer Description,Moderate air quality,0,1,2,0
+1004,10-Feb-15,Female,4,School Nurse,,Mixed - Other Mixed Background,Yes,Learning disability,,,N2 0EA,51.584827,-0.176508, Breezometer Description,Excellent air quality,0,1,4,0
+1004,10-Feb-15,Male,4,School Nurse,,Mixed - Other Mixed Background,Yes,Autistic spectrum condition; Learning disability; Other,,,E1 6AZ,51.5209468,-0.0747719,Loading...,,0,3,0,0
+1417,10-Feb-15,Male,5,Local Authority Children's And Family Services,,White - British,,,,,SW11 2DW,51.4654278,-0.1730626,Loading...,,0,0,0,0
+1455,10-Feb-15,Male,6,Local Authority Children's And Family Services,,White - British,,,,,W7 9BE,51.504638,-0.332779,Loading...,,0,0,0,0
+1023,12-Feb-15,Male,4,School Nurse,,Mixed - Other Mixed Background,Yes,Mental health,,,E2 6BF,51.5248022,-0.0560849, Breezometer Description,Moderate air quality,0,1,2,0
+1464,17-Feb-15,Female,6,Local Authority Children's And Family Services,,White - British,,,Yes,Asthma/other respiratory problems,E6 3DN,51.528493,0.0431611, Breezometer Description,Fair air quality,1,0,3,1
+1076,18-Feb-15,Male,4,School Nurse,,White - British,Yes,Learning disability; Other (disability type),Yes,Client did not wish to disclose,SW19 8EP,51.4393951,-0.1941479, Breezometer Description,Fair air quality,1,2,3,0
+1076,19-Feb-15,Female,5,School Nurse,,White - British,Yes,Mobility issues,,,N21 2QU,51.6344545,-0.0959944, Breezometer Description,Fair air quality,0,1,3,0
+1099,19-Feb-15,Female,4,School Nurse,,White - British,Yes,Other,,,W11 2DY,51.5141761,-0.2040622,Loading...,,0,1,0,0
+1464,23-Feb-15,Female,5,Local Authority Children's And Family Services,,White - British,,,,,E14 7SU,51.5170087,-0.0357624, Breezometer Description,Moderate air quality,0,0,2,0
+1099,24-Feb-15,Male,4,School Nurse,,White - British,Yes,Other,,,SE1 9GB,51.4927623,-0.0801516,Loading...,,0,1,0,0
+1099,24-Feb-15,Male,5,School Nurse,,White - British,Yes,Mobility issues,Yes,Eating disorder,SW6 7RY,51.4841652,-0.2044493,Loading...,,1,1,0,0
+1119,25-Feb-15,Female,5,School Nurse,,White - British,Yes,Other,Yes,Client did not wish to disclose,SE3 8EQ,51.4722661,0.0449532,Loading...,,1,1,0,0
+1210,26-Feb-15,Male,5,School Nurse,,White - British,Yes,Mental health,,,W10 4AT,51.5318376,-0.2111528, Breezometer Description,Fair air quality,0,1,3,0
+1302,26-Feb-15,Male,5,School Nurse,,Asian/Asian British - Indian,Yes,Visual impairment; Other,,,W12 7DR,51.5056529,-0.2248444,Loading...,,0,2,0,0
+1578,26-Feb-15,Male,5,Health Visitor,,White - British,,,,,SW12 9AH,51.4479859,-0.1487927, Breezometer Description,Moderate air quality,0,0,2,0
+9,2-Mar-15,Male,5,Health Visitor,,White - British,,,,,SE20 8TZ,51.4092483,-0.0632619, Breezometer Description,Moderate air quality,0,0,2,0
+42,3-Mar-15,Female,5,Health Visitor,,White - British,,,Yes,Diabetes,SE16 7TH,51.4966831,-0.0329481, Breezometer Description,Fair air quality,1,0,3,0
+1302,9-Mar-15,Male,4,School Nurse,,Asian/Asian British - Indian,Yes,Learning disability; Other,Yes,Asthma/other respiratory problems,N7 6DT,51.5581624,-0.114359, Breezometer Description,Fair air quality,1,2,3,1
+376,13-Mar-15,Female,5,Health Visitor,,White - British,,,Yes,Fainting/blackouts,N8 8AQ,51.5812974,-0.1265504, Breezometer Description,Fair air quality,1,0,3,0
+1334,17-Mar-15,Male,5,School Nurse,,Asian/Asian British - Indian,Yes,Learning disability,,,E13 0PG,51.5370707,0.0256069, Breezometer Description,Moderate air quality,0,1,2,0
+1386,31-Mar-15,Male,4,School Nurse,,Asian/Asian British - Indian,Yes,Autistic spectrum condition,,,NW4 9SA,51.5831523,-0.2298416, Breezometer Description,Moderate air quality,0,1,2,0
+1426,2-Apr-15,Male,4,School Nurse,,Asian/Asian British - Indian,Yes,Learning disability,,,W2 1HL,51.5153833,-0.1744976, Breezometer Description,Moderate air quality,0,1,2,0
+1426,16-Apr-15,Female,5,School Nurse,,Asian/Asian British - Indian,Yes,Learning disability; Other,,,SW5 9RL,51.4938183,-0.1947639, Breezometer Description,Moderate air quality,0,2,2,0
+1513,17-Apr-15,Female,5,School Nurse,,Asian/Asian British - Indian,Yes,Mobility issues; Other,,,SE5 7UW,51.4760717,-0.0911488, Breezometer Description,Moderate air quality,0,2,2,0
+1534,21-Apr-15,Female,5,School Nurse,,Asian/Asian British - Indian,Yes,Learning disability,,,NW10 5AF,51.5339538,-0.2482982,Loading...,,0,1,0,0
+67,21-Apr-15,Female,4,School Nurse,,Asian/Asian British - Indian,Yes,Other,,,SW7 1HB,51.4996034,-0.165403,Loading...,,0,1,0,0
+73,24-Apr-15,Male,4,School Nurse,,Asian/Asian British - Indian,Yes,Other,Yes,Eating disorder,E3 4XL,51.5240735,-0.0237817,Loading...,,1,1,0,0
+409,29-Apr-15,Female,6,Health Visitor,,White - British,,,,,SE13 6NZ,51.4511098,-0.0164995, Breezometer Description,Excellent air quality,0,0,4,0
+194,6-May-15,Male,4,School Nurse,,Asian/Asian British - Indian,Yes,Learning disability,,,SW18 1PU,51.4559856,-0.2034682, Breezometer Description,Moderate air quality,0,1,2,0
+409,6-May-15,Female,5,Health Visitor,,White - British,,Progressive / chronic illness; Other,,,SE1 2NN,51.5028833,-0.0732855, Breezometer Description,Moderate air quality,0,2,2,0
+540,14-May-15,Female,5,Health Visitor,,White - British,,Progressive / chronic illness; Other,,,SW18 5UB,51.4490098,-0.2047926, Breezometer Description,Fair air quality,0,2,3,0
+540,14-May-15,Female,5,Health Visitor,,White - British,,Progressive / chronic illness; Other,,,SW11 8NH,51.4675936,-0.1700978,Loading...,,0,2,0,0
+201,20-May-15,Male,4,School Nurse,,Asian/Asian British - Indian,Yes,Learning disability; Mobility issues,,,W2 6BA,51.5172255,-0.1825242, Breezometer Description,Fair air quality,0,2,3,0
+253,28-May-15,Male,4,School Nurse,,Asian/Asian British - Indian,Yes,Other,,,SE3 0NL,51.4715551,0.015907,Loading...,,0,1,0,0
+253,28-May-15,Female,4,School Nurse,,White - British,Yes,Other (disability type); Mental health,,,E98 1AD,51.5080245,-0.0643935,Loading...,,0,2,0,0
+253,1-Jun-15,Female,4,School Nurse,,White - British,Yes,Learning disability,,,SW15 9AH,51.4603621,-0.2185985, Breezometer Description,Fair air quality,0,1,3,0
+540,1-Jun-15,Female,5,Health Visitor,,White - British,,,Yes,Client did not wish to disclose,N1 5PB,51.535352,-0.0796578,Loading...,,1,0,0,0
+578,3-Jun-15,Female,5,Health Visitor,,White - British,,,Yes,Client did not wish to disclose,SW11 2LQ,51.4680725,-0.1715345,Loading...,,1,0,0,0
+253,8-Jun-15,Female,4,School Nurse,,White - Other White Background,Yes,Autistic spectrum condition,,,E17 7NF,51.5783444,-0.0280962, Breezometer Description,Moderate air quality,0,1,2,0
+639,15-Jun-15,Female,5,Health Visitor,,White - British,,,,,SE7 7LH,51.4831058,0.0235025,Loading...,,0,0,0,0
+268,19-Jun-15,Female,4,School Nurse,,White - British,Yes,Autistic spectrum condition; Learning disability,,,E2 7EF,51.5252004,-0.0725887,Loading...,,0,2,0,0
+273,22-Jun-15,Female,4,School Nurse,,White - British,Yes,Other,,,E17 5FX,51.5901769,-0.0173437,Loading...,,0,1,0,0
+651,23-Jun-15,Female,5,Health Visitor,,White - British,,Progressive / chronic illness; Other,,,W11 1BP,51.5186203,-0.2000822, Breezometer Description,Moderate air quality,0,2,2,0
+288,29-Jun-15,Female,4,School Nurse,,Asian/Asian British - Pakistani,Yes,Autistic spectrum condition,Yes,Other,SW15 5QH,51.4632756,-0.2394314,Loading...,,1,1,0,0
+306,2-Jul-15,Female,4,School Nurse,,Asian/Asian British - Pakistani,Yes,Progressive / chronic illness; Other,Yes,Fainting/blackouts,SW95 9AZ,51.4810347,-0.1358036, Breezometer Description,Moderate air quality,1,2,2,0
+441,10-Jul-15,Female,4,School Nurse,,White - British,Yes,Autistic spectrum condition,Yes,Eating disorder,SW17 0DP,51.4295985,-0.1666836, Breezometer Description,Moderate air quality,1,1,2,0
+441,21-Jul-15,Female,5,School Nurse,,White - British,Yes,Autistic spectrum condition; Other,Yes,Diabetes,N3 1AD,51.6074458,-0.1929897, Breezometer Description,Fair air quality,1,2,3,0
+453,23-Jul-15,Male,4,School Nurse,,White - British,Yes,Learning disability; Other,Yes,Diabetes,NW1 3FG,51.525908,-0.1385997,Loading...,,1,2,0,0
+859,27-Jul-15,Male,4,School Nurse,,White - British,Yes,Learning disability,Yes,Diabetes,NW3 2JX,51.5551651,-0.1554796, Breezometer Description,Fair air quality,1,1,3,0
+897,30-Jul-15,Male,4,School Nurse,,White - British,Yes,Learning disability,,,N20 0RT,51.6242525,-0.1542683, Breezometer Description,Fair air quality,0,1,3,0
+976,30-Jul-15,Male,4,School Nurse,,White - British,Yes,Learning disability,,,SE21 7EB,51.4474276,-0.076139,Loading...,,0,1,0,0
+1010,13-Aug-15,Female,5,School Nurse,,White - British,Yes,Learning disability,Yes,Epilepsy,SW6 1WD,51.4792139,-0.1982353,Loading...,,1,1,0,0
+1012,14-Aug-15,Female,5,School Nurse,,White - British,Yes,Other,Yes,Client did not wish to disclose,NW1 9LP,51.541026,-0.1416162, Breezometer Description,Moderate air quality,1,1,2,0
+1078,18-Aug-15,Female,4,School Nurse,,White - British,Yes,Autistic spectrum condition,Yes,Asthma/other respiratory problems,SW19 2TH,51.4148382,-0.191348,Loading...,,1,1,0,1
+1078,20-Aug-15,Female,4,School Nurse,,White - British,Yes,Learning disability,Yes,Client did not wish to disclose,E11 4FZ,51.5640319,0.0087983, Breezometer Description,Fair air quality,1,1,3,0
+1082,24-Aug-15,Female,4,School Nurse,,White - British,Yes,Mobility issues,Yes,Allergies,W13 0AQ,51.5270758,-0.3310225,Loading...,,1,1,0,0
+1138,25-Aug-15,Male,4,School Nurse,,White - British,Yes,Learning disability,,,NW6 5UT,51.537214,-0.189976, Breezometer Description,Fair air quality,0,1,3,0
+1205,28-Aug-15,Male,5,School Nurse,,White - British,Yes,Hearing impairment,,,N22 7AX,51.5971638,-0.1205986,Loading...,,0,1,0,0
+1205,3-Sep-15,Male,5,School Nurse,,White - British,Yes,Autistic spectrum condition,,,SE18 1NS,51.4853161,0.0973037, Breezometer Description,Excellent air quality,0,1,4,0
+1205,7-Sep-15,Female,5,School Nurse,,White - British,Yes,Learning disability; Mobility issues; Other,,,N3 3QR,51.5954245,-0.1942465, Breezometer Description,Excellent air quality,0,3,4,0
+663,8-Sep-15,Female,5,Health Visitor,,Mixed - Other Mixed Background,,,,,W6 9TY,51.4900838,-0.243743,Loading...,,0,0,0,0
+1206,9-Sep-15,Female,4,School Nurse,,White - British,Yes,Autistic spectrum condition; Learning disability,,,NW5 1LG,51.5560892,-0.1467869, Breezometer Description,Fair air quality,0,2,3,0
+1214,10-Sep-15,Male,5,School Nurse,,White - British,Yes,Mobility issues,,,SE25 4LH,51.3976561,-0.0659511,Loading...,,0,1,0,0
+1214,15-Sep-15,Male,5,School Nurse,,White - British,Yes,,,,SW2 1JT,51.4607271,-0.1142894, Breezometer Description,Moderate air quality,0,0,2,0
+1256,18-Sep-15,Male,5,School Nurse,,White - British,Yes,Progressive / chronic illness; Other,,,E1 5DX,51.522669,-0.058684, Breezometer Description,Fair air quality,0,2,3,0
+864,24-Sep-15,Female,5,Health Visitor,,White - British,,,Yes,Eating disorder,N6 5UL,51.5801164,-0.1467477,Loading...,,1,0,0,0
+1256,25-Sep-15,Male,5,School Nurse,,White - British,Yes,Learning disability,Yes,Eating disorder,N15 6TX,51.5788875,-0.065584, Breezometer Description,Fair air quality,1,1,3,0
+1277,29-Sep-15,Male,4,School Nurse,,White - British,Yes,Learning disability,Yes,Eating disorder,E3 3LB,51.5210159,-0.0099462,Loading...,,1,1,0,0
+1303,5-Oct-15,Male,5,School Nurse,,White - British,Yes,Learning disability; Other,Yes,Eating disorder,N1 1YE,51.5384251,-0.1032783,Loading...,,1,2,0,0
+1332,7-Oct-15,Male,4,School Nurse,,White - British,Yes,Learning disability,,,SW19 1PE,51.4159445,-0.1983655, Breezometer Description,Moderate air quality,0,1,2,0
+873,7-Oct-15,Male,5,Health Visitor,,White - British,,,Yes,Other,N16 5AJ,51.5750893,-0.0790657, Breezometer Description,Fair air quality,1,0,3,0
+1401,16-Oct-15,Male,4,School Nurse,,White - British,Yes,Hearing impairment,,,SE13 7AQ,51.4623097,-0.017799,Loading...,,0,1,0,0
+1518,23-Oct-15,Male,4,School Nurse,,White - British,Yes,Visual impairment,,,W7 3DR,51.523722,-0.3450123,Loading...,,0,1,0,0
+1518,3-Nov-15,Male,4,School Nurse,,White - British,Yes,Learning disability,,,E5 9HJ,51.5682238,-0.0542477, Breezometer Description,Fair air quality,0,1,3,0
+1518,10-Nov-15,Male,4,School Nurse,,White - British,,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,SE3 9SQ,51.465017,0.0154028, Breezometer Description,Fair air quality,1,2,3,1
+1518,20-Nov-15,Male,4,School Nurse,,Mixed - Other Mixed Background,Yes,Autistic spectrum condition,Yes,Diabetes,SE17 2HH,51.4861695,-0.0933054,Loading...,,1,1,0,0
+919,20-Nov-15,Male,5,Health Visitor,,White - British,,,Yes,Allergies,N4 1PD,51.5778405,-0.0894999,Loading...,,1,0,0,0
+1548,23-Nov-15,Female,4,School Nurse,,Mixed - Other Mixed Background,,,Yes,Fainting/blackouts,SE18 3DY,51.4745489,0.069118, Breezometer Description,Excellent air quality,1,0,4,0
+919,23-Nov-15,Male,5,Health Visitor,,White - British,Yes,Progressive / chronic illness,Yes,Asthma/other respiratory problems,E5 9DP,51.5639337,-0.0580091, Breezometer Description,Moderate air quality,1,1,2,1
+1560,24-Nov-15,Female,4,School Nurse,,Mixed - Other Mixed Background,,,Yes,Asthma/other respiratory problems,SE8 4AY,51.4771484,-0.0279708, Breezometer Description,Moderate air quality,1,0,2,1
+1560,24-Nov-15,Female,5,School Nurse,,Mixed - Other Mixed Background,Yes,Autistic spectrum condition,Yes,Client did not wish to disclose,E3 3DT,51.5233818,-0.0147731,Loading...,,1,1,0,0
+1560,24-Nov-15,Female,5,School Nurse,,Mixed - Other Mixed Background,,,Yes,Client did not wish to disclose,NW7 1QE,51.6150716,-0.2355716, Breezometer Description,Moderate air quality,1,0,2,0
+12,26-Nov-15,Female,4,School Nurse,,Mixed - Other Mixed Background,Yes,Progressive / chronic illness; Other,Yes,Client did not wish to disclose,N14 6NU,51.627511,-0.1187812, Breezometer Description,Fair air quality,1,2,3,0
+33,30-Nov-15,Male,4,School Nurse,,Mixed - Other Mixed Background,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,SW6 1HS,51.481124,-0.1902966, Breezometer Description,Moderate air quality,1,2,2,1
+108,2-Dec-15,Female,4,School Nurse,,Mixed - Other Mixed Background,,,,,SE7 8SX,51.4879124,0.03364,Loading...,,0,0,0,0
+108,2-Dec-15,Female,5,School Nurse,,Mixed - Other Mixed Background,Yes,Autistic spectrum condition,Yes,Other,E8 3EE,51.5450945,-0.0672772, Breezometer Description,Moderate air quality,1,1,2,0
+147,2-Dec-15,Female,4,School Nurse,,Mixed - Other Mixed Background,Yes,Learning disability,Yes,Other,SW16 5LW,51.4165609,-0.1303597,Loading...,,1,1,0,0
+973,2-Dec-15,Male,6,Health Visitor,,White - British,Yes,Progressive / chronic illness,Yes,Asthma/other respiratory problems,E14 0SR,51.5170672,-0.0109543,Loading...,,1,1,0,1
+149,7-Dec-15,Female,4,School Nurse,,Mixed - Other Mixed Background,Yes,Progressive / chronic illness,,,N2 9BP,51.5939287,-0.1639149, Breezometer Description,Fair air quality,0,1,3,0
+149,9-Dec-15,Female,5,School Nurse,,Mixed - Other Mixed Background,Yes,Progressive / chronic illness,,,SE3 0LS,51.4728081,0.0219956, Breezometer Description,Moderate air quality,0,1,2,0
+149,10-Dec-15,Female,5,School Nurse,,Mixed - Other Mixed Background,Yes,Progressive / chronic illness,Yes,Asthma/other respiratory problems,SW2 5BE,51.4557879,-0.1236763,Loading...,,1,1,0,1
+222,14-Dec-15,Female,5,School Nurse,,Mixed - Other Mixed Background,Yes,Progressive / chronic illness,Yes,Asthma/other respiratory problems,E17 7HB,51.5812959,-0.0362534,Loading...,,1,1,0,1
+374,16-Dec-15,Female,4,School Nurse,,Mixed - Other Mixed Background,Yes,Progressive / chronic illness,Yes,Diabetes,NW10 7FB,51.5328591,-0.2849764,Loading...,,1,1,0,0
+374,22-Dec-15,Female,4,School Nurse,,Mixed - Other Mixed Background,Yes,Autistic spectrum condition,,,W10 4LU,51.5312704,-0.2081617,Loading...,,0,1,0,0
+374,22-Dec-15,Female,4,School Nurse,,White - British,Yes,Autistic spectrum condition,,,SW7 1AQ,51.4991782,-0.1692669,Loading...,,0,1,0,0
+374,22-Dec-15,Female,4,School Nurse,,White - British,Yes,Autistic spectrum condition,,,N1 2HB,51.5384251,-0.1032783, Breezometer Description,Fair air quality,0,1,3,0
+476,23-Dec-15,Female,4,School Nurse,,White - British,,,,,N1 1FD,51.5384251,-0.1032783,Loading...,,0,0,0,0
+476,6-Jan-16,Female,4,School Nurse,,White - British,Yes,Progressive / chronic illness,Yes,Asthma/other respiratory problems,SE3 0TA,51.4668579,0.0087458,Loading...,,1,1,0,1
+631,12-Jan-16,Female,5,School Nurse,,White - British,,,,,E4 8YP,51.607859,-0.0265575,Loading...,,0,0,0,0
+973,12-Jan-16,Male,5,Health Visitor,,White - British,,,,,N21 2HU,51.6344629,-0.0893179, Breezometer Description,Fair air quality,0,0,3,0
+652,13-Jan-16,Female,5,School Nurse,,White - British,Yes,Progressive / chronic illness,Yes,Asthma/other respiratory problems,W6 0AS,51.5007669,-0.2293999, Breezometer Description,Fair air quality,1,1,3,1
+652,18-Jan-16,Female,5,School Nurse,,White - British,,,Yes,Diabetes,NW7 1HL,51.6070927,-0.2128032,Loading...,,1,0,0,0
+657,20-Jan-16,Female,5,School Nurse,,White - British,,,Yes,Fainting/blackouts,SW12 9JR,51.4397561,-0.1469815,Loading...,,1,0,0,0
+855,20-Jan-16,Female,4,School Nurse,,White - British,,,Yes,Other,SW17 0EF,51.4304965,-0.1666045, Breezometer Description,Moderate air quality,1,0,2,0
+861,21-Jan-16,Female,5,School Nurse,,White - British,,,Yes,Other,W13 0JF,51.5161412,-0.3259742, Breezometer Description,Fair air quality,1,0,3,0
+839,21-Jan-16,Male,5,Family Support Worker,,White - British,Yes,Progressive / chronic illness,Yes,Other,W13 0HQ,51.521029,-0.3238058,Loading...,,1,1,0,0
+907,21-Jan-16,Male,5,Family Support Worker,,White - British,,,Yes,Allergies,W5 2EG,51.5143355,-0.2967407,Loading...,,1,0,0,0
+867,29-Jan-16,Female,5,School Nurse,,White - British,Yes,Progressive / chronic illness,Yes,Asthma/other respiratory problems,N4 3PQ,51.5643948,-0.1110423,Loading...,,1,1,0,1
+867,2-Feb-16,Female,5,School Nurse,,White - British,,,,,N7 7LB,51.5598563,-0.1106533, Breezometer Description,Moderate air quality,0,0,2,0
+955,4-Feb-16,Female,5,School Nurse,,White - British,,,Yes,Eating disorder,NW3 2DR,51.5450629,-0.1558161, Breezometer Description,Fair air quality,1,0,3,0
+993,11-Feb-16,Male,4,School Nurse,,White - British,,,Yes,Eating disorder,NW9 5PL,51.5996156,-0.2422785, Breezometer Description,Moderate air quality,1,0,2,0
+1036,19-Feb-16,Male,5,School Nurse,,White - British,Yes,Autistic spectrum condition,,,N17 0QY,51.6045982,-0.0547725, Breezometer Description,Moderate air quality,0,1,2,0
+1036,24-Feb-16,Male,5,School Nurse,,Black/Black British - Other Black Background,,,,,SE16 5HH,51.5030378,-0.035441, Breezometer Description,Fair air quality,0,0,3,0
+1036,24-Feb-16,Male,5,School Nurse,,Black/Black British - Other Black Background,,,Yes,Other,NW8 9FP,51.5289741,-0.1695136, Breezometer Description,Moderate air quality,1,0,2,0
+1183,26-Feb-16,Male,5,Health Visitor,,White - British,,,Yes,Client did not wish to disclose,N21 3PZ,51.6327233,-0.1040433,Loading...,,1,0,0,0
+1036,29-Feb-16,Male,4,School Nurse,,Black/Black British - Other Black Background,Yes,Autistic spectrum condition,Yes,Other,SE24 0BF,51.4554567,-0.1053233, Breezometer Description,Moderate air quality,1,1,2,0
+1036,3-Mar-16,Female,5,School Nurse,,Black/Black British - Other Black Background,,,Yes,Client did not wish to disclose,W4 4QQ,51.4879018,-0.2620621,Loading...,,1,0,0,0
+1233,4-Mar-16,Female,6,Health Visitor,,White - British,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,W3 6QY,51.5097667,-0.2714906, Breezometer Description,Fair air quality,1,2,3,1
+1036,10-Mar-16,Female,5,School Nurse,,Black/Black British - Other Black Background,,,Yes,Eating disorder,SE23 3PY,51.4416692,-0.0552426, Breezometer Description,Fair air quality,1,0,3,0
+1274,10-Mar-16,Male,6,Health Visitor,,White - British,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,SW17 6DA,51.4292374,-0.1528448,Loading...,,1,2,0,1
+1347,17-Mar-16,Female,6,Health Visitor,,White - British,Yes,Progressive / chronic illness; Other,Yes,Allergies,SE18 5ET,51.4887088,0.0529632,Loading...,,1,2,0,0
+1178,21-Mar-16,Female,5,School Nurse,,Black/Black British - Other Black Background,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,N8 8JG,51.5871927,-0.1342185, Breezometer Description,Fair air quality,1,2,3,1
+1476,22-Mar-16,Female,7,Health Visitor,,White - British,,,,,NW10 5SU,51.5326418,-0.229187,Loading...,,0,0,0,0
+1178,23-Mar-16,Female,4,School Nurse,,White - British,,,Yes,Eating disorder,SW5 0LS,51.4926607,-0.1873476, Breezometer Description,Moderate air quality,1,0,2,0
+1178,23-Mar-16,Male,4,School Nurse,,White - British,,,,,N16 0PT,51.563034,-0.0825893, Breezometer Description,Fair air quality,0,0,3,0
+1207,24-Mar-16,Male,4,School Nurse,,White - British,Yes,Hearing impairment,Yes,Diabetes,SW6 6LF,51.4806561,-0.222618, Breezometer Description,Fair air quality,1,1,3,0
+1476,24-Mar-16,Female,7,Health Visitor,,White - British,,,,,SE2 0XW,51.482984,0.1014887, Breezometer Description,Fair air quality,0,0,3,0
+1308,29-Mar-16,Male,4,School Nurse,,White - British,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,N10 2QR,51.5912469,-0.1415018,Loading...,,1,2,0,1
+1476,31-Mar-16,Female,7,Health Visitor,,White - British,,,Yes,Allergies,SE20 7ED,51.4183735,-0.0538873, Breezometer Description,Moderate air quality,1,0,2,0
+1308,1-Apr-16,Male,5,School Nurse,,White - British,Yes,Hearing impairment,Yes,Other,NW3 6ES,51.5490799,-0.1856397, Breezometer Description,Excellent air quality,1,1,4,0
+1573,5-Apr-16,Male,7,Health Visitor,,White - British,Yes,Progressive / chronic illness; Other,,,NW6 4RH,51.5439864,-0.1778527, Breezometer Description,Fair air quality,0,2,3,0
+1316,6-Apr-16,Male,5,School Nurse,,White - British,Yes,Hearing impairment,,,SE7 8NR,51.4907248,0.038951, Breezometer Description,Moderate air quality,0,1,2,0
+1573,7-Apr-16,Male,7,Health Visitor,,White - British,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,SW16 6TD,51.4271085,-0.1478672, Breezometer Description,Fair air quality,1,2,3,1
+1333,11-Apr-16,Male,4,School Nurse,,White - British,Yes,Learning disability,Yes,Client did not wish to disclose,E8 2FG,51.553322,-0.0683277, Breezometer Description,Fair air quality,1,1,3,0
+1369,12-Apr-16,Female,4,School Nurse,,White - British,,,Yes,Client did not wish to disclose,SW9 6TG,51.4721434,-0.1056544, Breezometer Description,Moderate air quality,1,0,2,0
+1369,12-Apr-16,Female,4,School Nurse,,White - British,,,Yes,Epilepsy,SE6 3NT,51.4246605,-0.0111001, Breezometer Description,Fair air quality,1,0,3,0
+370,20-Apr-16,Male,3,Health Visitor,,White - British,,,Yes,Other,N19 4DD,51.5610307,-0.1244403,Loading...,,1,0,0,0
+81,22-Apr-16,Male,7,Health Visitor,,White - British,Yes,Learning disability,Yes,Urinary problems/infections,N9 8RD,51.6305268,-0.0533456,Loading...,,1,1,0,0
+1489,26-Apr-16,Male,4,School Nurse,,White - British,Yes,Autistic spectrum condition,,,E20 1AN,51.5472953,-0.0077028,Loading...,,0,1,0,0
+167,27-Apr-16,Male,7,Health Visitor,,White - British,Yes,Autistic spectrum condition,,,E12 5HX,51.5540225,0.0514455,Loading...,,0,1,0,0
+1489,29-Apr-16,Female,4,School Nurse,,White - British,Yes,Hearing impairment,,,N7 6EF,51.5553972,-0.1129587, Breezometer Description,Fair air quality,0,1,3,0
+287,3-May-16,Male,7,Health Visitor,,White - British,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,N6 6JA,51.5668965,-0.1575299, Breezometer Description,Excellent air quality,1,2,4,1
+1489,5-May-16,Female,4,School Nurse,,White - British,,,Yes,Client did not wish to disclose,N1 4JS,51.5437328,-0.0779926,Loading...,,1,0,0,0
+395,5-May-16,Male,3,Health Visitor,,White - British,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,E16 2RX,51.5007671,0.0729566,Loading...,,1,2,0,1
+1510,9-May-16,Male,4,School Nurse,,White - British,,,,,SE13 7BD,51.4623167,-0.0144876,Loading...,,0,0,0,0
+1535,10-May-16,Male,4,School Nurse,,White - British,,,,,W5 2RP,51.5177362,-0.3030565, Breezometer Description,Fair air quality,0,0,3,0
+1535,16-May-16,Male,4,School Nurse,,White - British,Yes,Autistic spectrum condition,,,SW3 5HE,51.4843222,-0.1686665, Breezometer Description,Moderate air quality,0,1,2,0
+398,18-May-16,Male,3,Health Visitor,,White - British,Yes,Autistic spectrum condition,,,SW17 6LD,51.4296707,-0.1506695, Breezometer Description,Moderate air quality,0,1,2,0
+5,19-May-16,Female,4,School Nurse,,White - British,,,Yes,Allergies,SW4 6LU,51.466537,-0.1317442,Loading...,,1,0,0,0
+8,20-May-16,Female,4,School Nurse,,White - British,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,SW19 8GU,51.4289713,-0.1909725, Breezometer Description,Moderate air quality,1,2,2,1
+20,25-May-16,Male,4,School Nurse,,White - British,,,Yes,Eating disorder,SW11 4PE,51.4804744,-0.16643, Breezometer Description,Moderate air quality,1,0,2,0
+43,27-May-16,Male,5,School Nurse,,White - British,,,Yes,Eating disorder,E14 4HA,51.5065768,-0.0260951, Breezometer Description,Fair air quality,1,0,3,0
+368,27-May-16,Male,7,Health Visitor,,White - British,Yes,Hearing impairment,Yes,Other,N11 9DS,51.6145854,-0.137732, Breezometer Description,Fair air quality,1,1,3,0
+494,27-May-16,Male,3,Health Visitor,,White - British,Yes,Progressive / chronic illness; Other,Yes,Other,SW6 4UF,51.4728848,-0.201854, Breezometer Description,Fair air quality,1,2,3,0
+206,2-Jun-16,Male,5,School Nurse,,White - British,,,Yes,Diabetes,NW8 9QD,51.5316736,-0.1800313, Breezometer Description,Excellent air quality,1,0,4,0
+206,2-Jun-16,Male,5,School Nurse,,White - British,Yes,Learning disability,Yes,Client did not wish to disclose,E2 0HB,51.5271887,-0.051961, Breezometer Description,Moderate air quality,1,1,2,0
+494,6-Jun-16,Male,3,Health Visitor,,White - British,,,,,SW8 2LU,51.4858504,-0.1259425, Breezometer Description,Moderate air quality,0,0,2,0
+318,8-Jun-16,Male,4,School Nurse,,Asian/Asian British - Pakistani,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,SW11 2SF,51.4667087,-0.1723089,Loading...,,1,2,0,1
+318,13-Jun-16,Female,5,School Nurse,,Asian/Asian British - Pakistani,Yes,Autistic spectrum condition,Yes,Allergies,NW1 4TG,51.5307843,-0.13543, Breezometer Description,Moderate air quality,1,1,2,0
+420,13-Jun-16,Male,6,Health Visitor,,White - British,,,Yes,Allergies,SW6 2BE,51.4736618,-0.1909807,Loading...,,1,0,0,0
+502,16-Jun-16,Male,3,Health Visitor,,White - British,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,NW4 1NP,51.5965315,-0.2107489,Loading...,,1,2,0,1
+408,22-Jun-16,Female,4,School Nurse,,Asian/Asian British - Pakistani,Yes,Learning disability,Yes,Other,E14 9HZ,51.4975142,-0.0202442, Breezometer Description,Fair air quality,1,1,3,0
+535,24-Jun-16,Male,3,Health Visitor,,White - British,Yes,Hearing impairment,Yes,Eating disorder,W6 8HN,51.4869448,-0.2139329,Loading...,,1,1,0,0
+455,27-Jun-16,Male,7,Attendance And Pupil Support Service,,White - British,Yes,Autistic spectrum condition,Yes,Other,N15 4QD,51.5876009,-0.0622979,Loading...,,1,1,0,0
+482,30-Jun-16,Female,5,School Nurse,,Asian/Asian British - Pakistani,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,NW1 4UW,51.5307843,-0.13543,Loading...,,1,2,0,1
+482,1-Jul-16,Female,4,School Nurse,,White - British,Yes,Autistic spectrum condition,Yes,Other,SW6 4ND,51.4709826,-0.208005, Breezometer Description,Moderate air quality,1,1,2,0
+482,11-Jul-16,Male,5,Family Support Worker,,White - British,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,W9 3LR,51.5260039,-0.1983782,Loading...,,1,2,0,1
+482,18-Jul-16,Male,4,Family Support Worker,,White - British,,,,,W9 2RF,51.5228999,-0.1883526, Breezometer Description,Moderate air quality,0,0,2,0
+513,18-Jul-16,Male,5,Family Support Worker,,White - British,Yes,Hearing impairment,,,N7 0EW,51.5553063,-0.1269262, Breezometer Description,Fair air quality,0,1,3,0
+564,21-Jul-16,Male,5,Family Support Worker,,White - British,,,Yes,Eating disorder,W9 1NZ,51.5305012,-0.1856143,Loading...,,1,0,0,0
+564,21-Jul-16,Male,4,Family Support Worker,,White - British,,,Yes,Eating disorder,N1 0NE,51.5388601,-0.1157625,Loading...,,1,0,0,0
+606,26-Jul-16,Male,5,Family Support Worker,,White - British,Yes,Autistic spectrum condition,Yes,Diabetes,SW12 9DN,51.4493082,-0.1476742,Loading...,,1,1,0,0
+700,26-Jul-16,Female,5,Family Support Worker,,White - British,Yes,Learning disability,Yes,Fainting/blackouts,NW3 7HW,51.5680721,-0.182171,Loading...,,1,1,0,0
+700,27-Jul-16,Female,5,Family Support Worker,,White - British,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,SW3 5HW,51.4842499,-0.170369,Loading...,,1,2,0,1
+796,28-Jul-16,Male,4,Family Support Worker,,White - British,,,,,N12 8AN,51.6185555,-0.1816134,Loading...,,0,0,0,0
+590,28-Jul-16,Male,7,Attendance And Pupil Support Service,,White - British,,,,,E1 2PH,51.5117246,-0.0586593,Loading...,,0,0,0,0

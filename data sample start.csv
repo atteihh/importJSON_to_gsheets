@@ -1,0 +1,745 @@
+ClientId,Intake_Date,Gender,Family_Size,Referral_Agency,Address_Locality,Ethnicity,Disability,Disability_type,Physical_health_issue,Physica_health_type,Postcode
+59,2-Jan-14,Female,3,Surestart (Local Children's Centres),,Black/Black British - African,Yes,Learning disability,Yes,Other,SE6 9SU
+134,3-Jan-14,Female,2,Surestart (Local Children's Centres),,Black/Black British - African,Yes,Autistic spectrum condition,Yes,Other,NW4 4JP
+590,6-Jan-14,Male,7,Attendance And Pupil Support Service,,White - British,,,Yes,Client did not wish to disclose,SW16 5SH
+590,6-Jan-14,Female,7,Attendance And Pupil Support Service,,White - British,,,Yes,Other,SE10 8UL
+535,6-Jan-14,Male,3,Health Visitor,,White - British,,,Yes,Epilepsy,NW5 4AS
+643,6-Jan-14,Male,3,Health Visitor,,White - British,,,Yes,Asthma/other respiratory problems; Urinary problems/infections; Other,N2 0DS
+669,6-Jan-14,Male,3,Health Visitor,,White - British,,,Yes,Other,W3 7TX
+765,6-Jan-14,Male,3,Health Visitor,,White - British,,,Yes,,NW6 7RN
+170,7-Jan-14,Female,3,Surestart (Local Children's Centres),,Black/Black British - African,Yes,Learning disability,,,SE13 7FB
+632,7-Jan-14,Female,7,Attendance And Pupil Support Service,,White - British,,,Yes,Other,SW15 2HB
+765,7-Jan-14,Male,3,Health Visitor,,White - British,,,,,E10 5BQ
+812,7-Jan-14,Male,3,Health Visitor,,White - British,,,Yes,Epilepsy,W13 0BU
+836,7-Jan-14,Female,3,Health Visitor,,White - British,,,,,NW1 9UJ
+836,8-Jan-14,Female,3,Citizens Advice Bureau (CAB),,White - British,,,Yes,Other,SE10 9FT
+836,8-Jan-14,Male,2,Citizens Advice Bureau (CAB),,White - British,,,Yes,Asthma/other respiratory problems,E3 4LR
+836,8-Jan-14,Male,2,Citizens Advice Bureau (CAB),,White - British,,,Yes,Fainting/blackouts,SE16 4EN
+849,8-Jan-14,Female,3,Citizens Advice Bureau (CAB),,White - British,,,Yes,Other,E13 8JT
+987,8-Jan-14,Male,3,Citizens Advice Bureau (CAB),,White - British,,,Yes,Asthma/other respiratory problems,SW8 1DQ
+987,8-Jan-14,Female,3,Citizens Advice Bureau (CAB),,White - British,,,Yes,Other,E16 2QY
+1045,9-Jan-14,Female,2,Asylum Support,,White - British,,,Yes,Asthma/other respiratory problems; Other,NW10 5DG
+177,10-Jan-14,Female,3,Surestart (Local Children's Centres),,Black/Black British - African,Yes,Learning disability,,,N1 0DH
+1046,10-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Eating disorder,NW6 6TA
+1046,10-Jan-14,Female,3,Family Nurse,,White - British,,,,,SE15 3HS
+1166,10-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Eating disorder,E17 4GE
+263,13-Jan-14,Female,2,Surestart (Local Children's Centres),,Black/Black British - African,Yes,Autistic spectrum condition; Mobility issues,,,NW2 1RD
+907,13-Jan-14,Female,6,Family Support Worker,,White - British,,,Yes,Client did not wish to disclose,E11 4LR
+1195,13-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Other,SE18 5LH
+1195,13-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Obesity,N3 3PA
+1238,13-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Other,N3 3RX
+1317,13-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Obesity,NW9 8ET
+1353,13-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Asthma/other respiratory problems,NW10 0DE
+1368,13-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Obesity,NW10 8TT
+1418,13-Jan-14,Male,2,Family Nurse,,White - British,Yes,Other,Yes,Obesity,SE1 5LW
+1440,13-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Fainting/blackouts,SW3 4EX
+63,13-Jan-14,Male,3,Family Nurse,,White - British,,,,,W2 4RJ
+677,14-Jan-14,Male,6,Attendance And Pupil Support Service,,White - British,,,Yes,Asthma/other respiratory problems; Urinary problems/infections,W2 5LX
+677,14-Jan-14,Male,7,Attendance And Pupil Support Service,,White - British,,,Yes,Other,SW9 0FG
+77,14-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Diabetes,N2 9BT
+122,14-Jan-14,Male,2,Family Nurse,,White - British,,,Yes,Asthma/other respiratory problems,SE16 7BJ
+271,15-Jan-14,Male,3,Surestart (Local Children's Centres),,Black/Black British - African,Yes,Hearing impairment,Yes,Other,N10 2LP
+142,15-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,,E5 9WZ
+192,16-Jan-14,Male,3,Family Nurse,,White - British,,,,,N1 4QA
+196,16-Jan-14,Male,3,Family Nurse,,White - British,,,,,E5 8LW
+196,16-Jan-14,Male,3,Family Nurse,,White - British,,,,,NW11 6AR
+213,17-Jan-14,Male,3,Family Nurse,,White - British,,,,,E3 4ED
+237,17-Jan-14,Male,3,Family Nurse,,White - British,,,,,N4 3BL
+274,17-Jan-14,Male,3,Family Nurse,,White - British,,,,,NW4 3DL
+315,20-Jan-14,Male,3,Surestart (Local Children's Centres),,Black/Black British - African,Yes,Learning disability,,,SW15 2LJ
+321,20-Jan-14,Female,2,Surestart (Local Children's Centres),,Asian/Asian British - Other Asian Background,Yes,Learning disability,Yes,Other,NW6 4EJ
+388,20-Jan-14,Male,2,Family Nurse,,White - British,,,,,E11 2UA
+410,20-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Other,SW18 1NG
+428,20-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Asthma/other respiratory problems,SE28 0GW
+431,20-Jan-14,Female,2,Family Nurse,,White - British,,,Yes,Other,SW6 1LH
+431,20-Jan-14,Female,2,Family Nurse,,White - British,,,Yes,Asthma/other respiratory problems; Other,N20 2AU
+961,21-Jan-14,Female,5,Family Support Worker,,White - British,,,Yes,Other,NW6 6LT
+499,21-Jan-14,Male,2,Family Nurse,,White - British,,,,,N17 0AB
+499,21-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Other,SE26 6NE
+528,21-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Fainting/blackouts; Asthma/other respiratory problems,SE19 1HQ
+610,21-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Other,NW10 5NJ
+706,21-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Asthma/other respiratory problems,SE1 4PG
+437,22-Jan-14,Male,2,Surestart (Local Children's Centres),,Asian/Asian British - Other Asian Background,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,E5 0NB
+718,23-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Other,NW3 6QT
+718,23-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Asthma/other respiratory problems,N1 0BX
+1005,23-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Other,N3 3EB
+1120,24-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Urinary problems/infections,N1 5NP
+1222,27-Jan-14,Male,3,Family Nurse,,White - British,Yes,Autistic spectrum condition; Mobility issues,Yes,Epilepsy,NW10 8BW
+1387,27-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,,W12 0RJ
+1387,27-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Asthma/other respiratory problems,NW8 9AU
+1456,27-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Fainting/blackouts,SW7 9AZ
+1515,27-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Other,NW6 7DL
+1515,27-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,,SE9 9AN
+449,28-Jan-14,Male,3,Surestart (Local Children's Centres),,Black/Black British - African,Yes,Autistic spectrum condition; Learning disability,Yes,Other,E16 3JX
+574,28-Jan-14,Female,3,Surestart (Local Children's Centres),,Asian/Asian British - Other Asian Background,Yes,Learning disability,Yes,Asthma/other respiratory problems; Other,E14 2QT
+74,28-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Asthma/other respiratory problems; Other,SE18 7PX
+74,28-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Other,SW10 9QR
+589,29-Jan-14,Male,3,Surestart (Local Children's Centres),,Asian/Asian British - Other Asian Background,Yes,Autistic spectrum condition,Yes,Eating disorder,SE20 7WB
+740,29-Jan-14,Female,7,Attendance And Pupil Support Service,,White - British,,,,,N21 1JA
+74,29-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Epilepsy,N22 5SS
+100,29-Jan-14,Male,3,Family Nurse,,White - British,,,,,E3 4BL
+105,29-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Diabetes; Asthma/other respiratory problems,E4 0EX
+136,29-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Obesity,E1 8AE
+661,30-Jan-14,Male,3,Surestart (Local Children's Centres),,White - British,Yes,Learning disability,Yes,Other,SE4 1DJ
+753,30-Jan-14,Male,3,Surestart (Local Children's Centres),,White - British,Yes,Learning disability; Mobility issues,Yes,Epilepsy,W9 2LS
+753,30-Jan-14,Male,3,Surestart (Local Children's Centres),,White - British,Yes,Learning disability,Yes,Eating disorder,SE2 9DE
+857,30-Jan-14,Male,4,Surestart (Local Children's Centres),,White - British,Yes,Autistic spectrum condition,Yes,Other,N13 4YD
+979,30-Jan-14,Female,5,Family Support Worker,,White - British,,,Yes,Obesity,SW4 7LD
+173,30-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Obesity,SE25 6TA
+173,30-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Asthma/other respiratory problems,NW2 7TS
+231,30-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Diabetes,NW8 7RB
+351,30-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Diabetes; Asthma/other respiratory problems; Other,E17 6RP
+391,30-Jan-14,Male,2,Family Nurse,,White - British,,,Yes,Other,N1 2LT
+902,31-Jan-14,Male,4,Surestart (Local Children's Centres),,Mixed - Other Mixed Background,Yes,Autistic spectrum condition; Learning disability,Yes,Asthma/other respiratory problems,N3 1LF
+484,31-Jan-14,Male,2,Family Nurse,,White - British,,,Yes,Other,W7 2DY
+603,31-Jan-14,Male,3,Family Nurse,,White - British,,,Yes,Other,E2 0EJ
+696,31-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Asthma/other respiratory problems; Other,N20 9DA
+811,31-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Other,SW13 9JF
+811,31-Jan-14,Female,3,Family Nurse,,White - British,,,Yes,Fainting/blackouts,SW19 5NB
+979,3-Feb-14,Female,5,GP,,White - British,,,Yes,Epilepsy,E17 7EU
+852,3-Feb-14,Male,3,Family Nurse,,White - British,,,Yes,Epilepsy,SW18 3LQ
+882,3-Feb-14,Male,3,Family Nurse,,White - British,,,Yes,Asthma/other respiratory problems,SE18 1BW
+902,5-Feb-14,Female,4,Surestart (Local Children's Centres),,White - British,Yes,Learning disability,Yes,Urinary problems/infections,N1 2PA
+808,5-Feb-14,Female,7,Attendance And Pupil Support Service,,White - British,Yes,Autistic spectrum condition; Mobility issues,Yes,Epilepsy; Fainting/blackouts; Other,SW10 0TQ
+808,5-Feb-14,Female,7,Attendance And Pupil Support Service,,White - British,,,Yes,Fainting/blackouts; Other,W2 1PR
+946,6-Feb-14,Female,4,Surestart (Local Children's Centres),,White - British,Yes,Learning disability; Other,Yes,Other,N8 7JJ
+1146,6-Feb-14,Female,4,Surestart (Local Children's Centres),,White - British,Yes,Learning disability,Yes,Asthma/other respiratory problems,N12 8JH
+1146,6-Feb-14,Female,4,Stronger Families Program,,White - British,Yes,Learning disability,Yes,Other,SE13 5PR
+1177,6-Feb-14,Female,4,Stronger Families Program,,White - British,Yes,Learning disability; Mobility issues,Yes,Obesity,SE19 1UY
+988,6-Feb-14,Male,2,Family Nurse,,White - British,,,Yes,Epilepsy; Asthma/other respiratory problems; Other,N22 8YL
+1177,7-Feb-14,Male,4,Stronger Families Program,,Black/Black British - African,Yes,Learning disability,Yes,Diabetes; Other,NW4 4AG
+990,7-Feb-14,Female,5,GP,,White - British,,,Yes,Other,N15 4RJ
+1024,10-Feb-14,Female,3,Family Nurse,,White - British,,,Yes,Asthma/other respiratory problems; Other,SW2 2RP
+1203,11-Feb-14,Male,4,Stronger Families Program,,Black/Black British - African,Yes,Hearing impairment,Yes,Other,E12 6SA
+1026,11-Feb-14,Male,3,Family Nurse,,White - British,,,Yes,Eating disorder,NW3 1SJ
+1030,11-Feb-14,Male,2,Family Nurse,,White - British,,,,,E11 2PY
+1030,11-Feb-14,Male,3,Asylum Support,,White - British,,,Yes,Urinary problems/infections,SE1 7JH
+1058,11-Feb-14,Male,3,Youth Offending Team,,White - British,,,,,NW1 1HW
+1088,11-Feb-14,Male,2,Youth Offending Team,,White - British,,,,,NW9 7ZX
+1250,12-Feb-14,Male,4,Stronger Families Program,,Black/Black British - African,Yes,Autistic spectrum condition; Learning disability,Yes,Allergies,NW9 5RQ
+1088,12-Feb-14,Female,3,Youth Offending Team,,White - British,,,,,W2 5DU
+1110,12-Feb-14,Female,2,Youth Offending Team,,White - British,,,Yes,Diabetes,E9 5NZ
+1110,12-Feb-14,Female,3,Youth Offending Team,,White - British,,,Yes,Eating disorder,W8 7DR
+888,14-Feb-14,Male,7,Attendance And Pupil Support Service,,White - British,,,Yes,Other,SE24 0NQ
+1259,17-Feb-14,Male,4,Stronger Families Program,,Asian/Asian British - Pakistani,Yes,Mobility issues,Yes,Obesity,SE21 7LH
+1402,17-Feb-14,Male,3,Stronger Families Program,,White - British,Yes,Learning disability,Yes,Obesity,SW11 4LZ
+1161,17-Feb-14,Female,3,Youth Offending Team,,White - British,,,Yes,Asthma/other respiratory problems,SE9 9AF
+1429,18-Feb-14,Male,3,Stronger Families Program,,Asian/Asian British - Indian,Yes,Hearing impairment,Yes,Diabetes,N15 6LD
+910,18-Feb-14,Male,7,Attendance And Pupil Support Service,,White - British,,,Yes,Diabetes; Asthma/other respiratory problems; Other,N4 4BU
+1236,18-Feb-14,Male,2,Youth Offending Team,,White - British,,,Yes,Other,SW15 3RD
+1236,18-Feb-14,Male,3,Asylum Support,,White - British,,,Yes,Asthma/other respiratory problems,NW10 8BJ
+1512,18-Feb-14,Male,2,Asylum Support,,White - British,,,Yes,Other,NW2 6QD
+1554,18-Feb-14,Male,3,Asylum Support,,White - British,,,Yes,Other,NW9 0NB
+24,18-Feb-14,Male,2,Asylum Support,,White - British,,,Yes,Asthma/other respiratory problems; Other,E3 3HQ
+76,19-Feb-14,Male,3,Asylum Support,,White - British,,,Yes,Other,W14 8TF
+76,19-Feb-14,Male,3,Youth Offending Team,,White - British,,,Yes,Fainting/blackouts,SE19 3RY
+258,19-Feb-14,Male,3,Attendance And Pupil Support Service,,Black/Black British - Other Black Background,,,Yes,Epilepsy,N1 6JY
+277,19-Feb-14,Male,3,Attendance And Pupil Support Service,,Black/Black British - Other Black Background,,,Yes,Epilepsy,SE14 6BA
+1477,20-Feb-14,Male,3,Stronger Families Program,,Mixed - Other Mixed Background,Yes,Other,Yes,Asthma/other respiratory problems,NW2 2EG
+1492,20-Feb-14,Male,4,Stronger Families Program,,Mixed - Other Mixed Background,Yes,Mental health,Yes,Urinary problems/infections,E12 6AW
+1563,20-Feb-14,Male,4,Stronger Families Program,,Mixed - Other Mixed Background,Yes,,Yes,Epilepsy; Fainting/blackouts; Other,E2 0NT
+277,20-Feb-14,Male,2,Attendance And Pupil Support Service,,Black/Black British - Other Black Background,,,Yes,Fainting/blackouts; Other,N1 4ED
+353,20-Feb-14,Male,3,Attendance And Pupil Support Service,,Black/Black British - Other Black Background,,,Yes,Other,E3 2NN
+944,21-Feb-14,Male,7,Attendance And Pupil Support Service,,White - British,,,Yes,Asthma/other respiratory problems,SW18 4UJ
+4,24-Feb-14,Male,4,Stronger Families Program,,Mixed - Other Mixed Background,Yes,Autistic spectrum condition,Yes,Other,N19 5BE
+72,24-Feb-14,Male,4,Social Worker,,Mixed - Other Mixed Background,Yes,Mental health,Yes,Obesity,NW11 6BS
+990,24-Feb-14,Male,5,GP,,White - British,,,Yes,Epilepsy; Asthma/other respiratory problems; Other,SE23 3RA
+508,24-Feb-14,Female,2,Attendance And Pupil Support Service,,Black/Black British - Other Black Background,,,Yes,Diabetes; Other,NW3 3LJ
+511,24-Feb-14,Female,3,Attendance And Pupil Support Service,,White - British,Yes,Autistic spectrum condition; Mobility issues,Yes,Other,NW3 3PT
+524,24-Feb-14,Female,2,Attendance And Pupil Support Service,,White - British,,,Yes,Asthma/other respiratory problems; Other,NW10 0RH
+524,24-Feb-14,Female,3,Attendance And Pupil Support Service,,White - British,,,Yes,Other,SW4 6BT
+542,24-Feb-14,Male,3,Attendance And Pupil Support Service,,White - British,,,,,E3 2LY
+99,25-Feb-14,Male,4,Social Worker,,Asian/Asian British - Pakistani,Yes,Autistic spectrum condition,,,W8 4QX
+621,25-Feb-14,Male,2,Attendance And Pupil Support Service,,White - British,,,,,W14 8RZ
+664,25-Feb-14,Male,3,Attendance And Pupil Support Service,,White - British,,,,,E17 5PN
+664,25-Feb-14,Female,3,Attendance And Pupil Support Service,,White - British,,,,,SE14 6JW
+727,26-Feb-14,Male,2,Attendance And Pupil Support Service,,Mixed - Other Mixed Background,,,,,NW1 0JP
+99,27-Feb-14,Male,4,Social Worker,,White - British,Yes,Mental health,,,E4 7HW
+99,27-Feb-14,Male,4,Social Worker,,White - British,Yes,Hearing impairment; Learning disability,Yes,Allergies,SW19 8GW
+114,27-Feb-14,Male,4,Social Worker,,White - British,Yes,Autistic spectrum condition,Yes,Diabetes,SE9 5NX
+114,27-Feb-14,Male,4,Social Worker,,White - British,Yes,Learning disability,Yes,Other,E12 6EJ
+748,27-Feb-14,Male,3,Attendance And Pupil Support Service,,Mixed - Other Mixed Background,,,Yes,Other,N17 9BJ
+840,27-Feb-14,Male,3,Attendance And Pupil Support Service,,Mixed - Other Mixed Background,,,Yes,Urinary problems/infections,N16 0AP
+1015,28-Feb-14,Female,3,Attendance And Pupil Support Service,,Mixed - Other Mixed Background,,,,,SW20 8JD
+1032,28-Feb-14,Female,3,Attendance And Pupil Support Service,,Mixed - Other Mixed Background,,,,,N1 5JU
+1032,3-Mar-14,Female,2,Local Authority Children's And Family Services,,Mixed - Other Mixed Background,,,,,W11 3NL
+1052,3-Mar-14,Female,2,Local Authority Children's And Family Services,,Mixed - Other Mixed Background,Yes,Autistic spectrum condition; Mobility issues,,,E12 6TH
+1052,3-Mar-14,Male,2,Local Authority Children's And Family Services,,Mixed - Other Mixed Background,,,,,NW1 3HF
+1083,3-Mar-14,Male,2,Local Authority Children's And Family Services,,Mixed - Other Mixed Background,,,,,N13 5DW
+1284,4-Mar-14,Male,3,Local Authority Children's And Family Services,,Mixed - Other Mixed Background,,,,,SE12 8TQ
+1344,4-Mar-14,Male,2,Local Authority Children's And Family Services,,Mixed - Other Mixed Background,,,,,N7 8XL
+171,5-Mar-14,Male,4,Social Worker,,White - British,Yes,Visual impairment,,,NW1 7NW
+1395,5-Mar-14,Male,3,Local Authority Children's And Family Services,,Mixed - Other Mixed Background,,,Yes,Other,E17 3PW
+187,6-Mar-14,Male,4,Social Worker,,White - British,Yes,Autistic spectrum condition; Learning disability,Yes,Fainting/blackouts,W3 7DH
+1395,6-Mar-14,Male,3,Local Authority Children's And Family Services,,Mixed - Other Mixed Background,,,Yes,Allergies,SE6 1NS
+1416,6-Mar-14,Male,2,Local Authority Children's And Family Services,,Mixed - Other Mixed Background,,,Yes,Other,E16 2DA
+1448,6-Mar-14,Female,2,Local Authority Children's And Family Services,,White - British,,,Yes,Other,N19 3SN
+1448,6-Mar-14,Female,3,Local Authority Children's And Family Services,,White - British,,,Yes,Epilepsy,SW11 9JQ
+299,7-Mar-14,Male,4,Social Worker,,White - British,Yes,Progressive / chronic illness,Yes,Eating disorder,SE26 5AF
+1500,7-Mar-14,Female,2,Local Authority Children's And Family Services,,White - British,,,Yes,Allergies,E15 4DD
+1500,7-Mar-14,Female,3,Local Authority Children's And Family Services,,White - British,,,Yes,Urinary problems/infections,SE9 9BA
+1500,7-Mar-14,Female,3,Local Authority Children's And Family Services,,White - British,,,Yes,Other,SE7 7LW
+1571,7-Mar-14,Male,3,School,,White - British,,,Yes,Epilepsy,NW8 7HH
+82,10-Mar-14,Male,3,School,,White - British,,,Yes,Other,SE4 1XX
+261,10-Mar-14,Male,3,School,,White - British,,,,,SE15 3EH
+337,11-Mar-14,Male,4,Social Worker,,White - British,Yes,Autistic spectrum condition; Other,,,SW17 8JL
+452,11-Mar-14,Male,3,Social Worker,,White - British,Yes,Autistic spectrum condition,,,SW16 1RW
+367,13-Mar-14,Male,2,School,,White - British,,,,,SE1 8DH
+452,14-Mar-14,Male,3,Social Worker,,Mixed - Other Mixed Background,Yes,Learning disability,,,SW4 6SA
+452,14-Mar-14,Female,3,Social Worker,,White - British,Yes,Autistic spectrum condition; Learning disability; Other,Yes,Eating disorder,SE21 7EW
+609,14-Mar-14,Female,3,Social Worker,,White - British,Yes,Mental health,Yes,Diabetes,E12 5NS
+754,14-Mar-14,Female,3,Social Worker,,White - British,Yes,Learning disability; Other (disability type),Yes,Other,E16 3LR
+754,14-Mar-14,Female,3,Social Worker,,Mixed - White & Black Caribbean,Yes,Mobility issues,Yes,Allergies,SE15 4NW
+754,14-Mar-14,Female,3,Stronger Families Program,,Black/Black British - Other Black Background,Yes,Other,Yes,Other,SE13 6DT
+887,14-Mar-14,Male,3,Stronger Families Program,,Black/Black British - Other Black Background,Yes,Other,Yes,Other,E4 6LZ
+444,17-Mar-14,Male,3,School,,White - British,,,Yes,Other,N3 3JG
+591,17-Mar-14,Male,2,School,,White - British,,,Yes,Fainting/blackouts,NW3 6UX
+593,17-Mar-14,Male,2,School,,White - British,,,Yes,Diabetes,SW11 3AN
+613,17-Mar-14,Male,3,School,,White - British,,,,,E3 2DT
+613,17-Mar-14,Male,3,School,,White - British,,,,,SW16 6JF
+790,17-Mar-14,Male,3,School,,White - British,,,Yes,Other,W5 3PR
+949,18-Mar-14,Male,4,Stronger Families Program,,Black/Black British - Other Black Background,Yes,Mobility issues,Yes,Eating disorder,SE16 7DE
+1029,19-Mar-14,Male,3,Stronger Families Program,,Black/Black British - Other Black Background,Yes,Other,Yes,Asthma/other respiratory problems,SE16 6SS
+944,19-Mar-14,Male,7,Attendance And Pupil Support Service,,White - British,,,Yes,Other,N11 2BX
+1051,19-Mar-14,Male,7,Attendance And Pupil Support Service,,White - British,,,Yes,Other,SE8 3EX
+843,19-Mar-14,Male,2,School,,White - British,,,Yes,Asthma/other respiratory problems; Other,E1 8GH
+1165,20-Mar-14,Male,3,Stronger Families Program,,Black/Black British - Other Black Background,Yes,Mental health,Yes,Other,W9 4FY
+1192,20-Mar-14,Male,4,Stronger Families Program,,Black/Black British - Other Black Background,Yes,Visual impairment; Other,Yes,Fainting/blackouts,SW6 7RD
+1114,20-Mar-14,Male,7,Attendance And Pupil Support Service,,White - British,,,Yes,Epilepsy,SE6 3LD
+1150,20-Mar-14,Male,7,Health Visitor,,White - British,,,Yes,Epilepsy,SW19 5BQ
+1150,20-Mar-14,Male,7,Health Visitor,,White - British,,,Yes,Eating disorder,E2 6DG
+892,21-Mar-14,Male,3,School,,White - British,,,Yes,Other,NW11 7JS
+1196,24-Mar-14,Male,3,Stronger Families Program,,Black/Black British - Other Black Background,Yes,Learning disability; Other,Yes,Other,NW1 6NJ
+892,24-Mar-14,Male,3,School,,White - British,,,Yes,Other,N4 9EA
+900,25-Mar-14,Female,3,School,,White - British,,,Yes,Allergies,SE15 1EU
+1150,26-Mar-14,Male,7,Health Visitor,,White - British,Yes,Autistic spectrum condition; Mobility issues,Yes,Other,N2 0AS
+950,26-Mar-14,Female,3,School,,White - British,,,,,N8 9LW
+962,26-Mar-14,Male,3,School,,White - British,,,,,SW7 2RZ
+1105,26-Mar-14,Male,2,School,,White - British,,,,,W2 5EB
+1129,26-Mar-14,Female,2,School,,White - British,,,,,E20 1DZ
+1142,26-Mar-14,Female,2,School,,White - British,,,,,SW15 4NQ
+1196,27-Mar-14,Male,4,Stronger Families Program,,Black/Black British - Other Black Background,Yes,Learning disability,,,SE25 4EW
+1225,31-Mar-14,Male,4,Stronger Families Program,,Black/Black British - Other Black Background,Yes,Autistic spectrum condition,,,SW2 3AE
+1251,31-Mar-14,Male,4,Stronger Families Program,,Black/Black British - Other Black Background,Yes,Learning disability,,,SE27 0HH
+1234,31-Mar-14,Female,3,School,,White - British,,,,,SW19 5LN
+79,31-Mar-14,Female,2,School,,White - British,,,,,SW2 3PZ
+238,31-Mar-14,Male,3,School,,White - British,,,Yes,Epilepsy,E11 3NA
+285,31-Mar-14,Male,3,School,,White - British,,,Yes,Other,E6 5XS
+399,31-Mar-14,Male,3,School,,White - British,Yes,Autistic spectrum condition; Mobility issues,Yes,Other,W7 3SL
+464,31-Mar-14,Female,3,School,,White - British,,,,,N1 5NX
+473,31-Mar-14,Male,3,School,,White - British,,,,,SW11 5QJ
+644,31-Mar-14,Male,2,School,,White - British,,,Yes,Urinary problems/infections,NW6 1UF
+1286,1-Apr-14,Male,4,Stronger Families Program,,Black/Black British - Other Black Background,Yes,Learning disability; Other,Yes,Diabetes,W11 4JU
+1211,1-Apr-14,Male,8,Health Visitor,,White - British,,,Yes,Diabetes,W5 3JU
+1211,1-Apr-14,Male,8,Health Visitor,,White - British,,,Yes,Fainting/blackouts,W6 0LR
+764,1-Apr-14,Male,2,School,,White - British,,,Yes,Epilepsy,NW7 3PL
+1295,2-Apr-14,Male,3,Stronger Families Program,,Black/Black British - Other Black Background,Yes,Mobility issues; Other,Yes,Allergies,N22 6NR
+1295,2-Apr-14,Male,3,Stronger Families Program,,Mixed - Other Mixed Background,Yes,Learning disability,,,SE3 9FB
+878,2-Apr-14,Male,2,School,,White - British,,,,,SW14 8DB
+878,2-Apr-14,Male,3,Auntie ,,White - British,,,,,SW9 7PS
+981,2-Apr-14,Male,2,Family Support Worker,,White - British,,,,,NW11 7HJ
+1341,3-Apr-14,Male,4,Stronger Families Program,,Asian/Asian British - Other Asian Background,Yes,Other,,,E1 0RQ
+1034,3-Apr-14,Male,2,Family Support Worker,,White - British,,,,,NW2 2HX
+1048,3-Apr-14,Male,2,Family Support Worker,,White - British,,,,,SE23 3BU
+1211,4-Apr-14,Male,8,Health Visitor,,White - British,Yes,Autistic spectrum condition; Mobility issues,,,SW6 1BF
+1453,7-Apr-14,Male,4,Stronger Families Program,,Asian/Asian British - Other Asian Background,Yes,Other,,,SE18 5NZ
+1557,7-Apr-14,Female,4,Stronger Families Program,,Asian/Asian British - Other Asian Background,Yes,Learning disability,Yes,Fainting/blackouts,NW3 5BA
+1350,8-Apr-14,Male,8,Health Visitor,,White - British,,,Yes,Diabetes,N9 0PH
+1096,8-Apr-14,Male,2,Housing Association,,White - British,,,Yes,Diabetes,N1 6TS
+1096,9-Apr-14,Female,2,Housing Association,,White - British,,,Yes,Asthma/other respiratory problems,E14 6BE
+1100,9-Apr-14,Male,3,Housing Association,,White - British,,,,,SE12 0HL
+1103,9-Apr-14,Male,3,Housing Association,,White - British,,,Yes,Eating disorder,SE6 2JY
+1572,10-Apr-14,Male,3,Stronger Families Program,,Asian/Asian British - Other Asian Background,Yes,Learning disability; Mobility issues,Yes,Other,E5 9BT
+1148,11-Apr-14,Male,3,Housing Association,,White - British,,,,,SE13 5QQ
+1217,11-Apr-14,Male,2,Housing Association,,White - British,,,,,W6 7JE
+1572,14-Apr-14,Male,4,Stronger Families Program,,Mixed - Other Mixed Background,Yes,Other,Yes,Other,NW2 7QL
+1247,14-Apr-14,Male,3,Housing Association,,White - British,,,Yes,Eating disorder,E6 1BJ
+1318,14-Apr-14,Male,2,Housing Association,,White - British,,,Yes,Allergies,E3 2AE
+1580,15-Apr-14,Male,3,Stronger Families Program,,Mixed - Other Mixed Background,Yes,Other (disability type); Mental health,Yes,Epilepsy,SE1 5RZ
+32,16-Apr-14,Male,4,Stronger Families Program,,Mixed - Other Mixed Background,Yes,Learning disability,,,W4 5EP
+32,16-Apr-14,Male,4,Stronger Families Program,,Mixed - Other Mixed Background,Yes,Autistic spectrum condition,,,N1 6SE
+1357,16-Apr-14,Male,10,Health Visitor,,White - British,,,Yes,Other,N10 3DJ
+1318,16-Apr-14,Male,3,Housing Association,,White - British,,,Yes,Other,NW3 5SB
+1338,16-Apr-14,Female,3,Housing Association,,White - British,,,Yes,Other,SW19 9JQ
+1437,17-Apr-14,Male,10,Health Visitor,,White - British,,,,,SE13 5HG
+32,22-Apr-14,Male,3,Stronger Families Program,,Mixed - Other Mixed Background,Yes,Autistic spectrum condition; Learning disability,,,E1 8LZ
+1561,22-Apr-14,Male,10,Health Visitor,,White - British,,,,,SE19 3JG
+1354,22-Apr-14,Female,3,Housing Association,,White - British,,,,,SE12 8PZ
+49,23-Apr-14,Male,4,Stronger Families Program,,Mixed - Other Mixed Background,Yes,Other,Yes,Eating disorder,SE6 4EX
+1516,23-Apr-14,Male,3,Housing Association,,White - British,,,Yes,Other,SE23 3HH
+1536,23-Apr-14,Female,3,Family Support Worker,,White - British,,,,,SE23 3SH
+1536,23-Apr-14,Female,3,Family Support Worker,,White - British,,,,,SW15 5RH
+1542,24-Apr-14,Male,2,Family Support Worker,,White - British,,,,,SW17 0JH
+60,25-Apr-14,Male,4,Stronger Families Program,,Mixed - Other Mixed Background,Yes,Autistic spectrum condition,,,E14 9XG
+1574,25-Apr-14,Male,3,Housing Association,,White - British,,,,,SE5 0DE
+1,25-Apr-14,Male,3,Housing Association,,White - British,,,,,SE24 9DZ
+37,25-Apr-14,Male,2,Housing Association,,White - British,,,Yes,Fainting/blackouts,SE16 4DS
+121,29-Apr-14,Male,4,Stronger Families Program,,Mixed - Other Mixed Background,Yes,,Yes,Other,E14 7PW
+140,29-Apr-14,Male,3,Stronger Families Program,,Mixed - Other Mixed Background,Yes,Autistic spectrum condition,Yes,Other,SE11 4HZ
+172,29-Apr-14,Male,3,Stronger Families Program,,Mixed - Other Mixed Background,Yes,Autistic spectrum condition; Other,Yes,Other,SW6 1UN
+233,29-Apr-14,Male,3,Surestart (Local Children's Centres),,Mixed - Other Mixed Background,Yes,Learning disability; Other,Yes,Asthma/other respiratory problems,SW16 6TL
+308,29-Apr-14,Male,3,Health Visitor,,White - British,,,,,SW3 5XP
+37,29-Apr-14,Male,3,Housing Association,,White - British,,,Yes,Allergies,SW16 1BE
+292,29-Apr-14,Male,2,Housing Association,,White - British,Yes,Autistic spectrum condition; Mobility issues,,,N19 4DY
+447,29-Apr-14,Male,2,Housing Association,,White - British,,,,,E9 6NR
+532,29-Apr-14,Male,2,Housing Association,,White - British,,,,,W2 5DP
+532,29-Apr-14,Male,3,Housing Association,,White - British,,,Yes,Epilepsy,N20 0JJ
+246,30-Apr-14,Female,4,Surestart (Local Children's Centres),,Mixed - Other Mixed Background,Yes,Learning disability,,,NW8 9LA
+364,30-Apr-14,Female,3,Surestart (Local Children's Centres),,Mixed - Other Mixed Background,Yes,Learning disability,,,W4 2JY
+1057,30-Apr-14,Female,5,GP,,White - British,,,,,SE4 1TW
+576,30-Apr-14,Male,3,Housing Association,,White - British,,,Yes,Asthma/other respiratory problems; Other,N18 1NU
+654,30-Apr-14,Male,3,Housing Association,,White - British,,,Yes,Diabetes,SW8 2TN
+782,1-May-14,Male,2,Housing Association,,White - British,,,Yes,Other,SE26 4SQ
+814,1-May-14,Male,2,Housing Association,,White - British,,,Yes,Eating disorder,E1 6PS
+825,1-May-14,Male,2,Housing Association,,White - British,Yes,Hearing impairment; Learning disability,Yes,Asthma/other respiratory problems; Other,SE28 0HT
+825,1-May-14,Male,3,Housing Association,,White - British,,,Yes,Asthma/other respiratory problems; Other,NW7 4RY
+921,2-May-14,Male,3,Housing Association,,White - British,,,,,SE6 3AS
+954,2-May-14,Male,2,Housing Association,,White - British,,,,,NW1 5ND
+994,2-May-14,Male,2,Housing Association,,White - British,,,Yes,Asthma/other respiratory problems,N1 1GD
+994,2-May-14,Male,2,Housing Association,,White - British,,,Yes,Diabetes,E14 6QN
+1059,6-May-14,Male,2,Housing Association,,White - British,,,Yes,Eating disorder,E3 3RT
+1561,7-May-14,Male,3,Health Visitor,,White - British,,,,,SE11 4DS
+364,8-May-14,Female,4,Surestart (Local Children's Centres),,Asian/Asian British - Indian,Yes,Learning disability,,,N14 6NN
+407,8-May-14,Female,4,Surestart (Local Children's Centres),,Asian/Asian British - Indian,Yes,Learning disability,,,NW6 4AE
+1561,8-May-14,Female,3,Health Visitor,,White - British,,,,,SW2 3JY
+308,8-May-14,Male,3,Health Visitor,,White - British,,,,,N20 8AG
+1059,9-May-14,Male,2,Housing Association,,White - British,,,,,E15 4EH
+1139,9-May-14,Male,2,Housing Association,,White - British,,,Yes,Other,E1 6BA
+407,13-May-14,Female,4,Surestart (Local Children's Centres),,Asian/Asian British - Indian,Yes,Other,,,E11 2ST
+463,13-May-14,Female,3,Surestart (Local Children's Centres),,Black/Black British - African,Yes,Autistic spectrum condition,Yes,Diabetes,NW6 3QS
+487,13-May-14,Male,3,Surestart (Local Children's Centres),,Black/Black British - African,Yes,Learning disability,Yes,Allergies,N17 8NA
+1057,13-May-14,Female,5,GP,,White - British,,,Yes,Fainting/blackouts,SE22 0NH
+1139,13-May-14,Male,3,Housing Association,,White - British,,,Yes,Epilepsy,N10 3BB
+1268,13-May-14,Female,2,Housing Association,,White - British,,,Yes,Diabetes,SE28 8BX
+1359,13-May-14,Female,2,Housing Association,,White - British,,,,,SE19 1AX
+14,14-May-14,Female,2,Health Visitor,,White - British,,,,,SW14 7EZ
+515,16-May-14,Male,4,Surestart (Local Children's Centres),,Asian/Asian British - Other Asian Background,Yes,Mobility issues,,,E11 1BH
+638,16-May-14,Male,4,Surestart (Local Children's Centres),,White - British,Yes,Learning disability,,,NW10 9PU
+687,16-May-14,Male,4,Surestart (Local Children's Centres),,White - British,Yes,Hearing impairment,,,NW2 9RP
+728,16-May-14,Male,4,Surestart (Local Children's Centres),,White - British,Yes,Autistic spectrum condition,Yes,Allergies,W7 1JS
+44,16-May-14,Male,3,Health Visitor,,White - British,,,Yes,Other,E4 7LD
+1365,16-May-14,Male,2,Housing Association,,White - British,,,,,N20 0DE
+1365,16-May-14,Male,3,Housing Association,,White - British,,,,,N4 9EZ
+1441,16-May-14,Female,2,Housing Association,,White - British,,,,,E15 1DD
+778,19-May-14,Female,4,Surestart (Local Children's Centres),,White - British,Yes,Learning disability; Mobility issues; Other,Yes,Asthma/other respiratory problems; Other,N3 2AJ
+1457,19-May-14,Male,2,Housing Association,,White - British,,,Yes,Diabetes,NW5 2AP
+1458,19-May-14,Female,2,Housing Association,,White - British,,,Yes,Other,N21 9BZ
+19,20-May-14,Female,2,Housing Association,,White - British,Yes,Autistic spectrum condition; Mobility issues,Yes,Eating disorder,N11 2RT
+51,20-May-14,Female,2,Housing Association,,White - British,,,Yes,Asthma/other respiratory problems; Other,SE1 2RZ
+70,20-May-14,Female,3,Housing Association,,Black/Black British - African,,,Yes,Asthma/other respiratory problems; Other,SE2 0QG
+88,21-May-14,Female,2,Housing Association,,Black/Black British - African,,,Yes,Epilepsy,SE7 8TW
+778,22-May-14,Female,4,Surestart (Local Children's Centres),,White - British,Yes,Autistic spectrum condition; Learning disability,Yes,Other,SW13 0JN
+132,22-May-14,Female,2,Housing Association,,White - British,,,Yes,Allergies,SE21 8ZJ
+132,22-May-14,Female,3,Housing Association,,White - British,Yes,Hearing impairment,Yes,Other,E20 1FN
+227,22-May-14,Male,2,GP,,White - British,,,Yes,Asthma/other respiratory problems,N8 8NP
+264,23-May-14,Male,2,GP,,White - British,Yes,Hearing impairment; Learning disability,Yes,Asthma/other respiratory problems,NW3 7RR
+89,27-May-14,Male,3,Health Visitor,,White - British,,,Yes,Diabetes,SW9 6PE
+478,27-May-14,Male,3,GP,,White - British,,,Yes,Diabetes,SW3 5UW
+543,27-May-14,Female,3,GP,,White - British,,,Yes,Asthma/other respiratory problems,W13 8BE
+543,27-May-14,Female,3,GP,,White - British,,,,,W6 9PL
+544,27-May-14,Male,2,GP,,White - British,Yes,Hearing impairment,,,N11 3DD
+681,27-May-14,Male,2,GP,,White - British,,,,,N10 1NS
+710,27-May-14,Male,2,GP,,White - British,,,,,E4 9AW
+778,28-May-14,Female,4,Surestart (Local Children's Centres),,White - British,Yes,Mobility issues,Yes,Allergies,SE8 3JN
+845,28-May-14,Female,4,Surestart (Local Children's Centres),,Black/Black British - Other Black Background,Yes,,,,N7 9SP
+791,28-May-14,Male,2,GP,,White - British,,,,,SW19 3ZB
+986,29-May-14,Male,4,Surestart (Local Children's Centres),,White - British,Yes,Progressive / chronic illness,,,E11 4EJ
+1190,29-May-14,Male,4,Surestart (Local Children's Centres),,White - British,Yes,Learning disability,,,N21 2BE
+181,29-May-14,Male,3,Health Visitor,,White - British,,,,,SW2 4ND
+829,29-May-14,Male,3,GP,,White - British,,,,,N9 9EL
+1218,30-May-14,Male,4,Surestart (Local Children's Centres),,White - British,Yes,Learning disability,,,SE1 6RP
+833,30-May-14,Male,3,GP,,White - British,,,,,NW5 1BX
+1081,2-Jun-14,Female,5,GP,,White - British,,,Yes,Urinary problems/infections,E15 1EF
+894,2-Jun-14,Male,3,GP,,White - British,Yes,Hearing impairment,Yes,Other,SW11 5DU
+1011,2-Jun-14,Male,3,GP,,White - British,,,Yes,Allergies,SW6 5NJ
+1221,3-Jun-14,Male,4,Surestart (Local Children's Centres),,White - British,Yes,Learning disability; Other,Yes,Allergies,E13 0UH
+1011,3-Jun-14,Male,3,GP,,White - British,,,Yes,Other,SW2 4QU
+1221,4-Jun-14,Male,4,Social Worker,,White - British,Yes,Learning disability,Yes,Other,SW15 3PN
+1221,4-Jun-14,Male,4,Social Worker,,White - British,Yes,Hearing impairment,Yes,Fainting/blackouts,NW9 8QU
+1239,6-Jun-14,Male,4,Social Worker,,White - British,Yes,Visual impairment,,,SE25 4XD
+1018,9-Jun-14,Male,3,GP,,White - British,,,,,SE6 4TR
+1018,9-Jun-14,Male,3,GP,,White - British,,,,,E17 6GB
+1031,9-Jun-14,Male,3,GP,,White - British,,,,,E5 5BU
+1060,9-Jun-14,Male,2,GP,,White - British,,,,,SW4 7BW
+1079,10-Jun-14,Male,3,GP,,Black/Black British - African,,,,,N1 2XH
+1239,11-Jun-14,Male,4,Social Worker,,White - British,Yes,Learning disability,,,N1 9QA
+1266,12-Jun-14,Female,4,Social Worker,,White - British,Yes,Progressive / chronic illness,Yes,Asthma/other respiratory problems; Other,SE15 3UL
+1287,12-Jun-14,Female,4,Social Worker,,White - British,Yes,Progressive / chronic illness,Yes,Diabetes,W4 4EG
+1081,12-Jun-14,Male,5,GP,,White - British,,,Yes,Other,SW18 4EE
+1079,12-Jun-14,Male,3,GP,,Black/Black British - African,,,Yes,Eating disorder,NW9 9PA
+1301,13-Jun-14,Male,4,Social Worker,,White - British,,,Yes,Asthma/other respiratory problems; Other,E1 8LB
+1310,16-Jun-14,Male,4,Social Worker,,White - British,,,Yes,Asthma/other respiratory problems; Other,E2 8ET
+1125,16-Jun-14,Male,3,Local Authority Children's And Family Services,,Black/Black British - African,,,,,SW3 3AU
+1125,16-Jun-14,Male,4,Local Authority Children's And Family Services,,Black/Black British - African,Yes,Hearing impairment; Learning disability,Yes,Other,NW4 3NJ
+1315,17-Jun-14,Male,4,Social Worker,,White - British,,,Yes,Asthma/other respiratory problems,SW16 1JX
+1345,17-Jun-14,Female,4,Local Authority Children's And Family Services,,Black/Black British - African,Yes,Progressive / chronic illness,Yes,Allergies,NW1 1QA
+1499,17-Jun-14,Female,5,Local Authority Children's And Family Services,,White - British,,,Yes,Other,N1 1NA
+1505,17-Jun-14,Female,4,Local Authority Children's And Family Services,,White - British,Yes,Progressive / chronic illness,Yes,Epilepsy,SE24 0AD
+1543,17-Jun-14,Female,4,Family Support Worker,,White - British,,,,,SW11 6RE
+1543,17-Jun-14,Female,5,Family Support Worker,,White - British,,,,,W4 3SY
+1331,18-Jun-14,Male,3,Social Worker,,White - British,,,,,SW11 3EQ
+1331,20-Jun-14,Male,3,Social Worker,,White - British,,,,,E11 4DZ
+1081,20-Jun-14,Male,6,GP,,Asian/Asian British - Indian,Yes,Progressive / chronic illness; Mobility issues,,,E17 7AY
+1108,20-Jun-14,Male,6,GP,,Asian/Asian British - Indian,,,,,W6 6JF
+1547,20-Jun-14,Female,5,Family Support Worker,,White - British,,,,,SW14 7SH
+1547,20-Jun-14,Female,5,Family Support Worker,,White - British,,,,,SW5 9AD
+1547,20-Jun-14,Male,4,Family Support Worker,,White - British,Yes,Progressive / chronic illness,Yes,Allergies,N16 7QY
+1389,23-Jun-14,Male,3,Social Worker,,White - British,,,Yes,Diabetes,SW18 3RS
+1570,23-Jun-14,Male,4,Family Support Worker,,White - British,,,Yes,Other,SW13 8AJ
+15,23-Jun-14,Male,4,Family Support Worker,,White - British,,,Yes,Other,W12 7RH
+39,23-Jun-14,Male,4,Family Support Worker,,White - British,,,Yes,Epilepsy,E14 7NN
+39,23-Jun-14,Male,4,Family Support Worker,,White - British,,,Yes,Eating disorder,E6 6LR
+1435,24-Jun-14,Male,3,Social Worker,,White - British,Yes,Progressive / chronic illness,,,NW1 1NJ
+64,25-Jun-14,Female,4,Family Support Worker,,White - British,,,,,E2 0SD
+64,26-Jun-14,Male,5,Family Support Worker,,White - British,,,,,NW1 8PR
+90,26-Jun-14,Male,5,Family Support Worker,,White - British,,,,,NW6 1NY
+90,26-Jun-14,Male,5,Family Support Worker,,White - Irish,,,,,NW2 2HH
+1435,27-Jun-14,Male,3,Social Worker,,White - British,,,Yes,Fainting/blackouts,NW10 5XE
+53,30-Jun-14,Male,3,Social Worker,,White - British,,,,,N11 2RS
+135,30-Jun-14,Male,3,Social Worker,,White - British,,,Yes,Asthma/other respiratory problems,W11 4SU
+107,1-Jul-14,Male,5,Family Support Worker,,White - Irish,Yes,Other,,,W13 8BD
+141,2-Jul-14,Male,3,Social Worker,,White - British,Yes,Progressive / chronic illness,Yes,Other,SE18 7JS
+107,4-Jul-14,Female,4,Family Support Worker,,White - Irish,,,Yes,Other,NW8 9UX
+155,7-Jul-14,Male,3,Social Worker,,White - British,,,Yes,Other,SW19 1AW
+279,7-Jul-14,Male,4,Social Worker,,White - British,,,Yes,Allergies,SW2 4RG
+330,7-Jul-14,Female,4,Social Worker,,White - British,,,Yes,Allergies,N4 3QH
+169,7-Jul-14,Male,5,Family Support Worker,,White - Irish,,,,,SE28 8AU
+796,8-Jul-14,Male,4,Family Support Worker,,White - British,,,,,W8 4QS
+1108,8-Jul-14,Male,5,GP,,White - British,Yes,Autistic spectrum condition; Mobility issues,,,E10 7YQ
+454,9-Jul-14,Male,4,Social Worker,,White - British,,,,,E14 6TB
+519,9-Jul-14,Female,4,Social Worker,,White - British,,,,,E7 9DD
+522,9-Jul-14,Female,4,Social Worker,,White - British,,,,,NW7 1FG
+522,9-Jul-14,Male,3,Social Worker,,White - British,,,,,E15 4PE
+538,11-Jul-14,Male,4,Social Worker,,White - British,,,,,E9 5RW
+186,11-Jul-14,Male,5,Family Support Worker,,White - Irish,,,,,SW11 5UB
+186,11-Jul-14,Male,5,Family Support Worker,,White - Irish,,,,,N6 5DA
+198,11-Jul-14,Female,5,Family Support Worker,,White - Irish,,,,,SW8 3QR
+1144,14-Jul-14,Female,5,GP,,White - British,,,,,SE5 7NL
+207,14-Jul-14,Female,4,Family Support Worker,,White - Irish,,,Yes,Eating disorder,E14 5SG
+538,15-Jul-14,Male,4,Social Worker,,White - British,,,Yes,Other,W14 9TS
+207,15-Jul-14,Male,5,Family Support Worker,,White - Irish,,,,,SW2 1PB
+284,15-Jul-14,Female,5,Family Support Worker,,White - British,,,Yes,Fainting/blackouts,E17 3HS
+579,16-Jul-14,Male,4,Social Worker,,White - British,,,,,SW18 5LN
+602,17-Jul-14,Male,4,Social Worker,,White - British,Yes,Other,Yes,Other,E5 9WR
+605,17-Jul-14,Male,4,Social Worker,,White - British,,,Yes,Asthma/other respiratory problems,W12 6WF
+326,17-Jul-14,Male,3,Health Visitor,,White - British,,,,,SW7 4RX
+678,21-Jul-14,Male,4,Social Worker,,White - British,,,,,NW10 5NX
+678,21-Jul-14,Male,4,Social Worker,,White - British,,,,,N19 5XE
+284,21-Jul-14,Female,5,School,,White - British,,,,,SW3 3TR
+622,21-Jul-14,Female,4,School,,White - British,,,Yes,Other,SW5 0JR
+1200,22-Jul-14,Female,5,GP,,White - British,,,,,W10 6BN
+794,24-Jul-14,Male,4,Social Worker,,White - British,Yes,Progressive / chronic illness,,,SE27 9AX
+633,24-Jul-14,Female,5,School,,White - British,,,,,SW19 8FU
+675,24-Jul-14,Female,5,School,,White - British,,,,,N9 0DX
+798,25-Jul-14,Male,4,School Nurse,,White - British,,,,,N19 3UL
+815,25-Jul-14,Male,4,School Nurse,,White - British,,,Yes,Allergies,NW1 4GF
+675,28-Jul-14,Female,5,School,,White - British,,,Yes,Allergies,N14 5HS
+895,28-Jul-14,Female,4,School,,White - British,,,Yes,Allergies,SW13 0NL
+989,28-Jul-14,Female,4,School,,White - British,,,,,SE25 6UX
+815,30-Jul-14,Male,4,School Nurse,,White - British,,,,,E11 3QU
+1016,30-Jul-14,Female,4,School,,White - British,,,,,W13 8BU
+1102,31-Jul-14,Female,4,School,,White - British,,,,,N17 9TL
+872,1-Aug-14,Female,4,School Nurse,,White - British,,,,,N17 6FH
+1102,1-Aug-14,Male,5,School,,Black/Black British - Other Black Background,,,Yes,Eating disorder,NW1 1YF
+1145,1-Aug-14,Male,5,School,,White - British,,,,,N1 2QB
+1145,1-Aug-14,Male,4,School,,White - British,,,,,SW13 0NY
+1226,1-Aug-14,Male,4,School,,White - British,,,,,E1 8QL
+885,5-Aug-14,Female,3,School Nurse,,White - British,,,,,N11 2RU
+1226,6-Aug-14,Male,4,School,,White - British,,,,,N7 0DZ
+1296,8-Aug-14,Male,4,School,,White - British,,,,,SW17 9BQ
+1296,8-Aug-14,Male,4,School,,White - British,,,,,SW17 8BB
+1394,11-Aug-14,Male,4,GP,,White - British,,,,,SE6 1TG
+1428,11-Aug-14,Female,4,GP,,White - British,,,,,NW5 9GA
+972,12-Aug-14,Male,4,School Nurse,,White - British,,,,,E14 8PF
+1567,12-Aug-14,Female,4,GP,,White - British,,,,,W6 8DF
+83,12-Aug-14,Female,4,GP,,White - British,Yes,Visual impairment,,,SW19 7QQ
+182,12-Aug-14,Female,4,GP,,White - British,Yes,Autistic spectrum condition; Learning disability,Yes,Eating disorder,SW8 4AR
+982,13-Aug-14,Male,3,School Nurse,,White - British,Yes,Progressive / chronic illness,Yes,Other,SE23 2LX
+262,13-Aug-14,Female,4,GP,,White - British,Yes,Autistic spectrum condition; Other,Yes,Asthma/other respiratory problems,E9 7HE
+262,13-Aug-14,Female,4,GP,,White - British,Yes,Autistic spectrum condition,,,E8 3WJ
+272,13-Aug-14,Female,5,GP,,White - British,Yes,Learning disability,,,SE15 5NG
+982,14-Aug-14,Male,4,School Nurse,,White - British,,,,,NW10 4NX
+319,15-Aug-14,Male,5,GP,,White - British,Yes,Other,,,NW1 6DB
+319,15-Aug-14,Female,5,GP,,White - British,,,,,NW4 3AL
+334,15-Aug-14,Female,4,School,,White - British,,,,,N12 0AN
+396,15-Aug-14,Female,5,School,,White - British,,,,,SW11 1QE
+1040,18-Aug-14,Female,3,School Nurse,,White - British,,,,,NW10 8HP
+1436,18-Aug-14,Female,5,GP,,White - British,,,,,SE1 2LT
+402,18-Aug-14,Male,4,School,,White - British,,,,,NW4 1QW
+1470,19-Aug-14,Female,6,GP,,White - British,,,,,W10 5SY
+510,19-Aug-14,Male,5,School,,White - British,,,,,SW6 2PY
+529,19-Aug-14,Male,4,School,,White - British,,,,,SW6 6HE
+673,20-Aug-14,Male,5,School,,White - British,,,,,E8 1BN
+673,20-Aug-14,Female,4,School,,White - British,Yes,Hearing impairment,,,E4 6XS
+730,21-Aug-14,Female,5,School,,White - British,Yes,Learning disability,,,W13 8BG
+735,21-Aug-14,Male,5,School,,White - British,Yes,Learning disability,,,E2 9QH
+743,22-Aug-14,Male,4,School,,White - British,,,,,SE1 5LL
+779,22-Aug-14,Male,5,School,,White - British,,,Yes,Other,SE21 7BE
+1094,26-Aug-14,Female,4,School Nurse,,White - British,,,Yes,Other,SW11 3PH
+1470,26-Aug-14,Female,6,GP,,White - British,,,Yes,Other,E3 2LQ
+779,26-Aug-14,Male,5,School,,White - British,,,,,N11 2HT
+802,26-Aug-14,Male,5,School,,White - British,,,Yes,Asthma/other respiratory problems,SW5 0HJ
+802,26-Aug-14,Male,4,School,,White - British,,,,,N2 9NS
+802,26-Aug-14,Female,4,School,,White - British,Yes,Other,Yes,Asthma/other respiratory problems,SW4 8DR
+1135,27-Aug-14,Female,4,School Nurse,,White - British,,,,,SW16 3LJ
+905,27-Aug-14,Female,4,School,,White - British,,,,,N22 5QG
+1135,28-Aug-14,Female,3,School Nurse,,White - British,,,Yes,Diabetes,N12 9BN
+1197,28-Aug-14,Female,4,School Nurse,,White - British,Yes,Progressive / chronic illness,,,SW4 0ED
+6,28-Aug-14,Male,6,GP,,White - British,,,,,SE5 7DF
+1197,2-Sep-14,Female,3,School Nurse,,White - British,,,,,SE23 3PP
+1197,2-Sep-14,Male,3,School Nurse,,White - British,,,,,W8 9DD
+69,17-Sep-14,Male,5,GP,,White - British,,,,,E14 3SF
+1197,19-Sep-14,Male,3,School Nurse,,White - British,,,,,SE25 5QR
+1300,24-Sep-14,Male,3,School Nurse,,White - British,,,,,SE2 9QP
+1300,25-Sep-14,Male,3,School Nurse,,White - British,Yes,Progressive / chronic illness; Mobility issues,,,SW10 9YF
+1337,26-Sep-14,Female,3,School Nurse,,White - British,,,,,W13 9UN
+247,26-Sep-14,Male,5,GP,,White - British,,,,,N10 3PL
+1342,29-Sep-14,Female,3,School Nurse,,White - British,,,Yes,Asthma/other respiratory problems,E12 6HT
+247,29-Sep-14,Male,5,GP,,White - British,Yes,Learning disability; Mobility issues,,,E1 2DL
+300,29-Sep-14,Male,5,GP,,White - British,Yes,Learning disability,,,N1 5BB
+1480,30-Sep-14,Female,4,School Nurse,,White - British,Yes,Autistic spectrum condition,,,N20 0AS
+1480,1-Oct-14,Female,3,School Nurse,,White - British,,,,,NW11 0NE
+377,3-Oct-14,Female,4,School Nurse,,White - British,,,,,NW6 3PP
+381,7-Oct-14,Female,4,School Nurse,,White - British,,,Yes,Asthma/other respiratory problems; Other,NW8 9QS
+300,7-Oct-14,Male,5,Local Authority Children's And Family Services,,White - Other White Background,,,Yes,Diabetes,N9 8ED
+381,8-Oct-14,Male,3,School Nurse,,White - British,,,Yes,Other,N1 6WG
+401,9-Oct-14,Male,4,School Nurse,,White - British,,,Yes,Eating disorder,NW7 3QD
+417,9-Oct-14,Female,3,School Nurse,,White - British,,,Yes,Asthma/other respiratory problems; Other,SW19 2FJ
+472,14-Oct-14,Female,4,School Nurse,,White - British,,,Yes,Asthma/other respiratory problems; Other,NW10 1PN
+472,14-Oct-14,Female,3,School Nurse,,White - British,,,Yes,Other,E16 9DL
+472,17-Oct-14,Female,3,Unknown,,White - British,Yes,Progressive / chronic illness,,,W4 1HS
+472,23-Oct-14,Female,3,Unknown,,White - British,Yes,Progressive / chronic illness,,,N11 2BS
+533,24-Oct-14,Female,3,Unknown,,White - British,Yes,Learning disability,,,SW15 5LB
+546,24-Oct-14,Female,4,Unknown,,White - British,Yes,Autistic spectrum condition,Yes,Asthma/other respiratory problems; Other,E1 3DB
+523,28-Oct-14,Male,5,Local Authority Children's And Family Services,,White - Other White Background,,Progressive / chronic illness,Yes,Diabetes,SE24 0PQ
+546,29-Oct-14,Female,4,Unknown,,Black/Black British - Other Black Background,Yes,Learning disability,Yes,Other,SW18 4AE
+546,3-Nov-14,Female,4,Unknown,,Black/Black British - Other Black Background,Yes,Learning disability,Yes,Eating disorder,E11 4PF
+523,3-Nov-14,Male,5,Local Authority Children's And Family Services,,White - British,,Progressive / chronic illness,Yes,Asthma/other respiratory problems; Other,SE5 8EL
+805,10-Nov-14,Female,3,Unknown,,Black/Black British - Other Black Background,Yes,Autistic spectrum condition; Mobility issues,Yes,Asthma/other respiratory problems; Other,N21 2PB
+562,10-Nov-14,Male,5,Local Authority Children's And Family Services,,White - British,,Progressive / chronic illness,,,SW18 1AW
+805,20-Nov-14,Male,4,Unknown,,Black/Black British - Other Black Background,Yes,Hearing impairment,,,NW6 3DG
+809,20-Nov-14,Female,4,Unknown,,Black/Black British - Other Black Background,Yes,Learning disability,Yes,Diabetes,SE18 1BZ
+846,20-Nov-14,Female,4,Unknown,,Black/Black British - Other Black Background,Yes,Learning disability,Yes,Other,SE4 2FJ
+915,20-Nov-14,Male,4,Unknown,,Black/Black British - Other Black Background,Yes,Progressive / chronic illness; Other,Yes,Other,NW10 7HD
+923,24-Nov-14,Male,5,Local Authority Children's And Family Services,,White - British,,Progressive / chronic illness,Yes,Other,NW1 2NU
+1044,24-Nov-14,Male,5,Local Authority Children's And Family Services,,White - British,,Progressive / chronic illness,Yes,Fainting/blackouts,SE18 1PT
+964,26-Nov-14,Female,4,Unknown,,Black/Black British - Other Black Background,Yes,Autistic spectrum condition; Learning disability,Yes,Diabetes,N8 7HL
+968,5-Dec-14,Female,4,Unknown,,Black/Black British - Other Black Background,Yes,Learning disability,Yes,Eating disorder,SE2 9NS
+968,5-Dec-14,Female,4,Unknown,,Black/Black British - Other Black Background,Yes,Autistic spectrum condition,Yes,Asthma/other respiratory problems,E17 3NE
+1133,5-Dec-14,Male,4,Unknown,,Black/Black British - Other Black Background,Yes,Learning disability,,,W11 3SB
+1133,9-Dec-14,Male,3,Unknown,,White - British,Yes,Learning disability; Mobility issues,Yes,Urinary problems/infections,SE26 5RH
+1180,10-Dec-14,Male,4,Unknown,,White - British,Yes,Learning disability,Yes,Other,NW10 5HJ
+1180,12-Dec-14,Male,4,Unknown,,White - British,Yes,Autistic spectrum condition,Yes,Epilepsy,SW20 8WF
+816,12-Dec-14,Male,4,Family Support Worker,,White - British,,,,,W6 8HF
+1400,15-Dec-14,Female,4,Unknown,,White - British,Yes,Autistic spectrum condition; Learning disability,,,N1 0YX
+1439,15-Dec-14,Male,4,School Nurse,,White - British,Yes,Learning disability,,,SW12 8BS
+1454,15-Dec-14,Male,4,School Nurse,,White - British,Yes,Learning disability; Other,,,N17 7LA
+1454,16-Dec-14,Male,3,School Nurse,,White - British,Yes,Learning disability,,,NW4 1DA
+1118,17-Dec-14,Male,5,Local Authority Children's And Family Services,,White - British,,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,E2 0RB
+1118,17-Dec-14,Female,5,Local Authority Children's And Family Services,,White - British,,Progressive / chronic illness; Other,Yes,Diabetes,SE27 9SL
+1147,17-Dec-14,Male,5,Local Authority Children's And Family Services,,White - British,,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,W5 4PD
+242,17-Dec-14,Male,3,Health Visitor,,White - British,,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,SE1 7UR
+282,17-Dec-14,Male,3,Health Visitor,,White - British,,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,W4 4DT
+1193,18-Dec-14,Male,6,Local Authority Children's And Family Services,,White - British,,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,SW17 0BH
+1537,22-Dec-14,Male,3,School Nurse,,White - British,Yes,Learning disability,Yes,Asthma/other respiratory problems,N12 9DT
+1537,23-Dec-14,Male,3,School Nurse,,Mixed - Other Mixed Background,Yes,Learning disability; Mobility issues,Yes,Allergies,NW11 7AH
+1537,23-Dec-14,Male,3,School Nurse,,Mixed - Other Mixed Background,Yes,Learning disability,Yes,Allergies,SW18 3NR
+1390,23-Dec-14,Male,5,Local Authority Children's And Family Services,,White - British,,,Yes,Allergies,W14 9YB
+23,30-Dec-14,Male,3,School Nurse,,Mixed - Other Mixed Background,Yes,Hearing impairment,Yes,Allergies,SE1 4PR
+254,30-Dec-14,Male,3,School Nurse,,Mixed - Other Mixed Background,Yes,Autistic spectrum condition; Learning disability,Yes,Other,SE18 6LE
+281,31-Dec-14,Male,3,School Nurse,,Mixed - Other Mixed Background,Yes,Mobility issues,,,SW3 3AD
+281,2-Jan-15,Male,3,School Nurse,,Mixed - Other Mixed Background,Yes,Learning disability,,,NW3 5BJ
+328,6-Jan-15,Female,3,School Nurse,,Mixed - Other Mixed Background,Yes,Learning disability,,,NW2 5HD
+341,9-Jan-15,Female,3,School Nurse,,Mixed - Other Mixed Background,Yes,Other,,,SW10 0BX
+387,9-Jan-15,Female,4,School Nurse,,White - British,Yes,Autistic spectrum condition,,,E15 3QS
+387,12-Jan-15,Female,4,School Nurse,,White - British,Yes,,,,W8 6ET
+438,13-Jan-15,Female,4,School Nurse,,White - British,Yes,Autistic spectrum condition,,,N11 2RR
+649,16-Jan-15,Female,4,School Nurse,,White - British,Yes,Mental health,,,N3 1EX
+649,20-Jan-15,Male,4,School Nurse,,White - British,Yes,Autistic spectrum condition,,,W5 4XB
+662,23-Jan-15,Male,4,School Nurse,,White - British,Yes,Mental health,,,SE3 9EX
+662,27-Jan-15,Male,4,School Nurse,,White - British,Yes,Hearing impairment; Learning disability,,,SE13 5PB
+1417,30-Jan-15,Male,5,Local Authority Children's And Family Services,,White - British,,,Yes,Diabetes,W13 8BB
+717,3-Feb-15,Female,4,School Nurse,,White - British,Yes,Autistic spectrum condition,Yes,Client did not wish to disclose,SE1 4NN
+734,3-Feb-15,Female,4,School Nurse,,White - British,Yes,Learning disability,Yes,Diabetes,SW2 5EA
+899,3-Feb-15,Female,3,School Nurse,,White - British,Yes,Visual impairment,Yes,Client did not wish to disclose,SE6 3TQ
+899,4-Feb-15,Male,3,School Nurse,,White - British,Yes,Autistic spectrum condition; Learning disability,,,W3 8NJ
+899,4-Feb-15,Male,4,School Nurse,,White - British,Yes,Progressive / chronic illness,,,SW15 3RH
+911,6-Feb-15,Male,3,School Nurse,,White - British,Yes,Autistic spectrum condition; Other,,,NW7 1QT
+911,9-Feb-15,Female,4,School Nurse,,White - British,Yes,Autistic spectrum condition,,,E1 6FQ
+1004,10-Feb-15,Female,4,School Nurse,,Mixed - Other Mixed Background,Yes,Learning disability,,,N2 0EA
+1004,10-Feb-15,Male,4,School Nurse,,Mixed - Other Mixed Background,Yes,Autistic spectrum condition; Learning disability; Other,,,E1 6AZ
+1417,10-Feb-15,Male,5,Local Authority Children's And Family Services,,White - British,,,,,SW11 2DW
+1455,10-Feb-15,Male,6,Local Authority Children's And Family Services,,White - British,,,,,W7 9BE
+1023,12-Feb-15,Male,4,School Nurse,,Mixed - Other Mixed Background,Yes,Mental health,,,E2 6BF
+1464,17-Feb-15,Female,6,Local Authority Children's And Family Services,,White - British,,,Yes,Asthma/other respiratory problems,E6 3DN
+1076,18-Feb-15,Male,4,School Nurse,,White - British,Yes,Learning disability; Other (disability type),Yes,Client did not wish to disclose,SW19 8EP
+1076,19-Feb-15,Female,5,School Nurse,,White - British,Yes,Mobility issues,,,N21 2QU
+1099,19-Feb-15,Female,4,School Nurse,,White - British,Yes,Other,,,W11 2DY
+1464,23-Feb-15,Female,5,Local Authority Children's And Family Services,,White - British,,,,,E14 7SU
+1099,24-Feb-15,Male,4,School Nurse,,White - British,Yes,Other,,,SE1 9GB
+1099,24-Feb-15,Male,5,School Nurse,,White - British,Yes,Mobility issues,Yes,Eating disorder,SW6 7RY
+1119,25-Feb-15,Female,5,School Nurse,,White - British,Yes,Other,Yes,Client did not wish to disclose,SE3 8EQ
+1210,26-Feb-15,Male,5,School Nurse,,White - British,Yes,Mental health,,,W10 4AT
+1302,26-Feb-15,Male,5,School Nurse,,Asian/Asian British - Indian,Yes,Visual impairment; Other,,,W12 7DR
+1578,26-Feb-15,Male,5,Health Visitor,,White - British,,,,,SW12 9AH
+9,2-Mar-15,Male,5,Health Visitor,,White - British,,,,,SE20 8TZ
+42,3-Mar-15,Female,5,Health Visitor,,White - British,,,Yes,Diabetes,SE16 7TH
+1302,9-Mar-15,Male,4,School Nurse,,Asian/Asian British - Indian,Yes,Learning disability; Other,Yes,Asthma/other respiratory problems,N7 6DT
+376,13-Mar-15,Female,5,Health Visitor,,White - British,,,Yes,Fainting/blackouts,N8 8AQ
+1334,17-Mar-15,Male,5,School Nurse,,Asian/Asian British - Indian,Yes,Learning disability,,,E13 0PG
+1386,31-Mar-15,Male,4,School Nurse,,Asian/Asian British - Indian,Yes,Autistic spectrum condition,,,NW4 9SA
+1426,2-Apr-15,Male,4,School Nurse,,Asian/Asian British - Indian,Yes,Learning disability,,,W2 1HL
+1426,16-Apr-15,Female,5,School Nurse,,Asian/Asian British - Indian,Yes,Learning disability; Other,,,SW5 9RL
+1513,17-Apr-15,Female,5,School Nurse,,Asian/Asian British - Indian,Yes,Mobility issues; Other,,,SE5 7UW
+1534,21-Apr-15,Female,5,School Nurse,,Asian/Asian British - Indian,Yes,Learning disability,,,NW10 5AF
+67,21-Apr-15,Female,4,School Nurse,,Asian/Asian British - Indian,Yes,Other,,,SW7 1HB
+73,24-Apr-15,Male,4,School Nurse,,Asian/Asian British - Indian,Yes,Other,Yes,Eating disorder,E3 4XL
+409,29-Apr-15,Female,6,Health Visitor,,White - British,,,,,SE13 6NZ
+194,6-May-15,Male,4,School Nurse,,Asian/Asian British - Indian,Yes,Learning disability,,,SW18 1PU
+409,6-May-15,Female,5,Health Visitor,,White - British,,Progressive / chronic illness; Other,,,SE1 2NN
+540,14-May-15,Female,5,Health Visitor,,White - British,,Progressive / chronic illness; Other,,,SW18 5UB
+540,14-May-15,Female,5,Health Visitor,,White - British,,Progressive / chronic illness; Other,,,SW11 8NH
+201,20-May-15,Male,4,School Nurse,,Asian/Asian British - Indian,Yes,Learning disability; Mobility issues,,,W2 6BA
+253,28-May-15,Male,4,School Nurse,,Asian/Asian British - Indian,Yes,Other,,,SE3 0NL
+253,28-May-15,Female,4,School Nurse,,White - British,Yes,Other (disability type); Mental health,,,E98 1AD
+253,1-Jun-15,Female,4,School Nurse,,White - British,Yes,Learning disability,,,SW15 9AH
+540,1-Jun-15,Female,5,Health Visitor,,White - British,,,Yes,Client did not wish to disclose,N1 5PB
+578,3-Jun-15,Female,5,Health Visitor,,White - British,,,Yes,Client did not wish to disclose,SW11 2LQ
+253,8-Jun-15,Female,4,School Nurse,,White - Other White Background,Yes,Autistic spectrum condition,,,E17 7NF
+639,15-Jun-15,Female,5,Health Visitor,,White - British,,,,,SE7 7LH
+268,19-Jun-15,Female,4,School Nurse,,White - British,Yes,Autistic spectrum condition; Learning disability,,,E2 7EF
+273,22-Jun-15,Female,4,School Nurse,,White - British,Yes,Other,,,E17 5FX
+651,23-Jun-15,Female,5,Health Visitor,,White - British,,Progressive / chronic illness; Other,,,W11 1BP
+288,29-Jun-15,Female,4,School Nurse,,Asian/Asian British - Pakistani,Yes,Autistic spectrum condition,Yes,Other,SW15 5QH
+306,2-Jul-15,Female,4,School Nurse,,Asian/Asian British - Pakistani,Yes,Progressive / chronic illness; Other,Yes,Fainting/blackouts,SW95 9AZ
+441,10-Jul-15,Female,4,School Nurse,,White - British,Yes,Autistic spectrum condition,Yes,Eating disorder,SW17 0DP
+441,21-Jul-15,Female,5,School Nurse,,White - British,Yes,Autistic spectrum condition; Other,Yes,Diabetes,N3 1AD
+453,23-Jul-15,Male,4,School Nurse,,White - British,Yes,Learning disability; Other,Yes,Diabetes,NW1 3FG
+859,27-Jul-15,Male,4,School Nurse,,White - British,Yes,Learning disability,Yes,Diabetes,NW3 2JX
+897,30-Jul-15,Male,4,School Nurse,,White - British,Yes,Learning disability,,,N20 0RT
+976,30-Jul-15,Male,4,School Nurse,,White - British,Yes,Learning disability,,,SE21 7EB
+1010,13-Aug-15,Female,5,School Nurse,,White - British,Yes,Learning disability,Yes,Epilepsy,SW6 1WD
+1012,14-Aug-15,Female,5,School Nurse,,White - British,Yes,Other,Yes,Client did not wish to disclose,NW1 9LP
+1078,18-Aug-15,Female,4,School Nurse,,White - British,Yes,Autistic spectrum condition,Yes,Asthma/other respiratory problems,SW19 2TH
+1078,20-Aug-15,Female,4,School Nurse,,White - British,Yes,Learning disability,Yes,Client did not wish to disclose,E11 4FZ
+1082,24-Aug-15,Female,4,School Nurse,,White - British,Yes,Mobility issues,Yes,Allergies,W13 0AQ
+1138,25-Aug-15,Male,4,School Nurse,,White - British,Yes,Learning disability,,,NW6 5UT
+1205,28-Aug-15,Male,5,School Nurse,,White - British,Yes,Hearing impairment,,,N22 7AX
+1205,3-Sep-15,Male,5,School Nurse,,White - British,Yes,Autistic spectrum condition,,,SE18 1NS
+1205,7-Sep-15,Female,5,School Nurse,,White - British,Yes,Learning disability; Mobility issues; Other,,,N3 3QR
+663,8-Sep-15,Female,5,Health Visitor,,Mixed - Other Mixed Background,,,,,W6 9TY
+1206,9-Sep-15,Female,4,School Nurse,,White - British,Yes,Autistic spectrum condition; Learning disability,,,NW5 1LG
+1214,10-Sep-15,Male,5,School Nurse,,White - British,Yes,Mobility issues,,,SE25 4LH
+1214,15-Sep-15,Male,5,School Nurse,,White - British,Yes,,,,SW2 1JT
+1256,18-Sep-15,Male,5,School Nurse,,White - British,Yes,Progressive / chronic illness; Other,,,E1 5DX
+864,24-Sep-15,Female,5,Health Visitor,,White - British,,,Yes,Eating disorder,N6 5UL
+1256,25-Sep-15,Male,5,School Nurse,,White - British,Yes,Learning disability,Yes,Eating disorder,N15 6TX
+1277,29-Sep-15,Male,4,School Nurse,,White - British,Yes,Learning disability,Yes,Eating disorder,E3 3LB
+1303,5-Oct-15,Male,5,School Nurse,,White - British,Yes,Learning disability; Other,Yes,Eating disorder,N1 1YE
+1332,7-Oct-15,Male,4,School Nurse,,White - British,Yes,Learning disability,,,SW19 1PE
+873,7-Oct-15,Male,5,Health Visitor,,White - British,,,Yes,Other,N16 5AJ
+1401,16-Oct-15,Male,4,School Nurse,,White - British,Yes,Hearing impairment,,,SE13 7AQ
+1518,23-Oct-15,Male,4,School Nurse,,White - British,Yes,Visual impairment,,,W7 3DR
+1518,3-Nov-15,Male,4,School Nurse,,White - British,Yes,Learning disability,,,E5 9HJ
+1518,10-Nov-15,Male,4,School Nurse,,White - British,,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,SE3 9SQ
+1518,20-Nov-15,Male,4,School Nurse,,Mixed - Other Mixed Background,Yes,Autistic spectrum condition,Yes,Diabetes,SE17 2HH
+919,20-Nov-15,Male,5,Health Visitor,,White - British,,,Yes,Allergies,N4 1PD
+1548,23-Nov-15,Female,4,School Nurse,,Mixed - Other Mixed Background,,,Yes,Fainting/blackouts,SE18 3DY
+919,23-Nov-15,Male,5,Health Visitor,,White - British,Yes,Progressive / chronic illness,Yes,Asthma/other respiratory problems,E5 9DP
+1560,24-Nov-15,Female,4,School Nurse,,Mixed - Other Mixed Background,,,Yes,Asthma/other respiratory problems,SE8 4AY
+1560,24-Nov-15,Female,5,School Nurse,,Mixed - Other Mixed Background,Yes,Autistic spectrum condition,Yes,Client did not wish to disclose,E3 3DT
+1560,24-Nov-15,Female,5,School Nurse,,Mixed - Other Mixed Background,,,Yes,Client did not wish to disclose,NW7 1QE
+12,26-Nov-15,Female,4,School Nurse,,Mixed - Other Mixed Background,Yes,Progressive / chronic illness; Other,Yes,Client did not wish to disclose,N14 6NU
+33,30-Nov-15,Male,4,School Nurse,,Mixed - Other Mixed Background,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,SW6 1HS
+108,2-Dec-15,Female,4,School Nurse,,Mixed - Other Mixed Background,,,,,SE7 8SX
+108,2-Dec-15,Female,5,School Nurse,,Mixed - Other Mixed Background,Yes,Autistic spectrum condition,Yes,Other,E8 3EE
+147,2-Dec-15,Female,4,School Nurse,,Mixed - Other Mixed Background,Yes,Learning disability,Yes,Other,SW16 5LW
+973,2-Dec-15,Male,6,Health Visitor,,White - British,Yes,Progressive / chronic illness,Yes,Asthma/other respiratory problems,E14 0SR
+149,7-Dec-15,Female,4,School Nurse,,Mixed - Other Mixed Background,Yes,Progressive / chronic illness,,,N2 9BP
+149,9-Dec-15,Female,5,School Nurse,,Mixed - Other Mixed Background,Yes,Progressive / chronic illness,,,SE3 0LS
+149,10-Dec-15,Female,5,School Nurse,,Mixed - Other Mixed Background,Yes,Progressive / chronic illness,Yes,Asthma/other respiratory problems,SW2 5BE
+222,14-Dec-15,Female,5,School Nurse,,Mixed - Other Mixed Background,Yes,Progressive / chronic illness,Yes,Asthma/other respiratory problems,E17 7HB
+374,16-Dec-15,Female,4,School Nurse,,Mixed - Other Mixed Background,Yes,Progressive / chronic illness,Yes,Diabetes,NW10 7FB
+374,22-Dec-15,Female,4,School Nurse,,Mixed - Other Mixed Background,Yes,Autistic spectrum condition,,,W10 4LU
+374,22-Dec-15,Female,4,School Nurse,,White - British,Yes,Autistic spectrum condition,,,SW7 1AQ
+374,22-Dec-15,Female,4,School Nurse,,White - British,Yes,Autistic spectrum condition,,,N1 2HB
+476,23-Dec-15,Female,4,School Nurse,,White - British,,,,,N1 1FD
+476,6-Jan-16,Female,4,School Nurse,,White - British,Yes,Progressive / chronic illness,Yes,Asthma/other respiratory problems,SE3 0TA
+631,12-Jan-16,Female,5,School Nurse,,White - British,,,,,E4 8YP
+973,12-Jan-16,Male,5,Health Visitor,,White - British,,,,,N21 2HU
+652,13-Jan-16,Female,5,School Nurse,,White - British,Yes,Progressive / chronic illness,Yes,Asthma/other respiratory problems,W6 0AS
+652,18-Jan-16,Female,5,School Nurse,,White - British,,,Yes,Diabetes,NW7 1HL
+657,20-Jan-16,Female,5,School Nurse,,White - British,,,Yes,Fainting/blackouts,SW12 9JR
+855,20-Jan-16,Female,4,School Nurse,,White - British,,,Yes,Other,SW17 0EF
+861,21-Jan-16,Female,5,School Nurse,,White - British,,,Yes,Other,W13 0JF
+839,21-Jan-16,Male,5,Family Support Worker,,White - British,Yes,Progressive / chronic illness,Yes,Other,W13 0HQ
+907,21-Jan-16,Male,5,Family Support Worker,,White - British,,,Yes,Allergies,W5 2EG
+867,29-Jan-16,Female,5,School Nurse,,White - British,Yes,Progressive / chronic illness,Yes,Asthma/other respiratory problems,N4 3PQ
+867,2-Feb-16,Female,5,School Nurse,,White - British,,,,,N7 7LB
+955,4-Feb-16,Female,5,School Nurse,,White - British,,,Yes,Eating disorder,NW3 2DR
+993,11-Feb-16,Male,4,School Nurse,,White - British,,,Yes,Eating disorder,NW9 5PL
+1036,19-Feb-16,Male,5,School Nurse,,White - British,Yes,Autistic spectrum condition,,,N17 0QY
+1036,24-Feb-16,Male,5,School Nurse,,Black/Black British - Other Black Background,,,,,SE16 5HH
+1036,24-Feb-16,Male,5,School Nurse,,Black/Black British - Other Black Background,,,Yes,Other,NW8 9FP
+1183,26-Feb-16,Male,5,Health Visitor,,White - British,,,Yes,Client did not wish to disclose,N21 3PZ
+1036,29-Feb-16,Male,4,School Nurse,,Black/Black British - Other Black Background,Yes,Autistic spectrum condition,Yes,Other,SE24 0BF
+1036,3-Mar-16,Female,5,School Nurse,,Black/Black British - Other Black Background,,,Yes,Client did not wish to disclose,W4 4QQ
+1233,4-Mar-16,Female,6,Health Visitor,,White - British,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,W3 6QY
+1036,10-Mar-16,Female,5,School Nurse,,Black/Black British - Other Black Background,,,Yes,Eating disorder,SE23 3PY
+1274,10-Mar-16,Male,6,Health Visitor,,White - British,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,SW17 6DA
+1347,17-Mar-16,Female,6,Health Visitor,,White - British,Yes,Progressive / chronic illness; Other,Yes,Allergies,SE18 5ET
+1178,21-Mar-16,Female,5,School Nurse,,Black/Black British - Other Black Background,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,N8 8JG
+1476,22-Mar-16,Female,7,Health Visitor,,White - British,,,,,NW10 5SU
+1178,23-Mar-16,Female,4,School Nurse,,White - British,,,Yes,Eating disorder,SW5 0LS
+1178,23-Mar-16,Male,4,School Nurse,,White - British,,,,,N16 0PT
+1207,24-Mar-16,Male,4,School Nurse,,White - British,Yes,Hearing impairment,Yes,Diabetes,SW6 6LF
+1476,24-Mar-16,Female,7,Health Visitor,,White - British,,,,,SE2 0XW
+1308,29-Mar-16,Male,4,School Nurse,,White - British,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,N10 2QR
+1476,31-Mar-16,Female,7,Health Visitor,,White - British,,,Yes,Allergies,SE20 7ED
+1308,1-Apr-16,Male,5,School Nurse,,White - British,Yes,Hearing impairment,Yes,Other,NW3 6ES
+1573,5-Apr-16,Male,7,Health Visitor,,White - British,Yes,Progressive / chronic illness; Other,,,NW6 4RH
+1316,6-Apr-16,Male,5,School Nurse,,White - British,Yes,Hearing impairment,,,SE7 8NR
+1573,7-Apr-16,Male,7,Health Visitor,,White - British,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,SW16 6TD
+1333,11-Apr-16,Male,4,School Nurse,,White - British,Yes,Learning disability,Yes,Client did not wish to disclose,E8 2FG
+1369,12-Apr-16,Female,4,School Nurse,,White - British,,,Yes,Client did not wish to disclose,SW9 6TG
+1369,12-Apr-16,Female,4,School Nurse,,White - British,,,Yes,Epilepsy,SE6 3NT
+370,20-Apr-16,Male,3,Health Visitor,,White - British,,,Yes,Other,N19 4DD
+81,22-Apr-16,Male,7,Health Visitor,,White - British,Yes,Learning disability,Yes,Urinary problems/infections,N9 8RD
+1489,26-Apr-16,Male,4,School Nurse,,White - British,Yes,Autistic spectrum condition,,,E20 1AN
+167,27-Apr-16,Male,7,Health Visitor,,White - British,Yes,Autistic spectrum condition,,,E12 5HX
+1489,29-Apr-16,Female,4,School Nurse,,White - British,Yes,Hearing impairment,,,N7 6EF
+287,3-May-16,Male,7,Health Visitor,,White - British,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,N6 6JA
+1489,5-May-16,Female,4,School Nurse,,White - British,,,Yes,Client did not wish to disclose,N1 4JS
+395,5-May-16,Male,3,Health Visitor,,White - British,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,E16 2RX
+1510,9-May-16,Male,4,School Nurse,,White - British,,,,,SE13 7BD
+1535,10-May-16,Male,4,School Nurse,,White - British,,,,,W5 2RP
+1535,16-May-16,Male,4,School Nurse,,White - British,Yes,Autistic spectrum condition,,,SW3 5HE
+398,18-May-16,Male,3,Health Visitor,,White - British,Yes,Autistic spectrum condition,,,SW17 6LD
+5,19-May-16,Female,4,School Nurse,,White - British,,,Yes,Allergies,SW4 6LU
+8,20-May-16,Female,4,School Nurse,,White - British,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,SW19 8GU
+20,25-May-16,Male,4,School Nurse,,White - British,,,Yes,Eating disorder,SW11 4PE
+43,27-May-16,Male,5,School Nurse,,White - British,,,Yes,Eating disorder,E14 4HA
+368,27-May-16,Male,7,Health Visitor,,White - British,Yes,Hearing impairment,Yes,Other,N11 9DS
+494,27-May-16,Male,3,Health Visitor,,White - British,Yes,Progressive / chronic illness; Other,Yes,Other,SW6 4UF
+206,2-Jun-16,Male,5,School Nurse,,White - British,,,Yes,Diabetes,NW8 9QD
+206,2-Jun-16,Male,5,School Nurse,,White - British,Yes,Learning disability,Yes,Client did not wish to disclose,E2 0HB
+494,6-Jun-16,Male,3,Health Visitor,,White - British,,,,,SW8 2LU
+318,8-Jun-16,Male,4,School Nurse,,Asian/Asian British - Pakistani,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,SW11 2SF
+318,13-Jun-16,Female,5,School Nurse,,Asian/Asian British - Pakistani,Yes,Autistic spectrum condition,Yes,Allergies,NW1 4TG
+420,13-Jun-16,Male,6,Health Visitor,,White - British,,,Yes,Allergies,SW6 2BE
+502,16-Jun-16,Male,3,Health Visitor,,White - British,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,NW4 1NP
+408,22-Jun-16,Female,4,School Nurse,,Asian/Asian British - Pakistani,Yes,Learning disability,Yes,Other,E14 9HZ
+535,24-Jun-16,Male,3,Health Visitor,,White - British,Yes,Hearing impairment,Yes,Eating disorder,W6 8HN
+455,27-Jun-16,Male,7,Attendance And Pupil Support Service,,White - British,Yes,Autistic spectrum condition,Yes,Other,N15 4QD
+482,30-Jun-16,Female,5,School Nurse,,Asian/Asian British - Pakistani,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,NW1 4UW
+482,1-Jul-16,Female,4,School Nurse,,White - British,Yes,Autistic spectrum condition,Yes,Other,SW6 4ND
+482,11-Jul-16,Male,5,Family Support Worker,,White - British,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,W9 3LR
+482,18-Jul-16,Male,4,Family Support Worker,,White - British,,,,,W9 2RF
+513,18-Jul-16,Male,5,Family Support Worker,,White - British,Yes,Hearing impairment,,,N7 0EW
+564,21-Jul-16,Male,5,Family Support Worker,,White - British,,,Yes,Eating disorder,W9 1NZ
+564,21-Jul-16,Male,4,Family Support Worker,,White - British,,,Yes,Eating disorder,N1 0NE
+606,26-Jul-16,Male,5,Family Support Worker,,White - British,Yes,Autistic spectrum condition,Yes,Diabetes,SW12 9DN
+700,26-Jul-16,Female,5,Family Support Worker,,White - British,Yes,Learning disability,Yes,Fainting/blackouts,NW3 7HW
+700,27-Jul-16,Female,5,Family Support Worker,,White - British,Yes,Progressive / chronic illness; Other,Yes,Asthma/other respiratory problems,SW3 5HW
+796,28-Jul-16,Male,4,Family Support Worker,,White - British,,,,,N12 8AN
+590,28-Jul-16,Male,7,Attendance And Pupil Support Service,,White - British,,,,,E1 2PH
