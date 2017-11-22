@@ -8,4 +8,30 @@ The instructions are from <a href="https://medium.com/@paulgambill/how-to-import
 3. Delete the placeholder content and paste the code from this script.
 4. Paste the code from the `script.gs` file. 
 5. Rename the script to ImportJSON.gs and click the save button.
-6. Back in the spreadsheet, use the function by invoking e.g. `=ImportJSON("https://api.openaq.org/v1/measurements?coordinates=51.5291019,-0.1077666", "/meat", "noInherit, noTruncate")`
+6. In Google sheets, the function to use is `=ImportJSON()`.
+
+## Using the API
+
+We will use Breezometer to collect air quality data. The documentation is here:
+```
+https://breezometer.com/air-quality-api/
+```
+
+An example of how to use the API is like this:
+```
+https://api.breezometer.com/baqi/?lat=51.5286263&lon=-0.1057266&key=2156295a3962496aace88a0a38c25ac3
+```
+
+Change the latitude and longitude.
+
+To read the data into the Google Spreadsheet do:
+```
+=transpose(importJSON("https://api.breezometer.com/baqi/?lat=51.5291019&lon=-0.1077666&key=2156295a3962496aace88a0a38c25ac3","/breezometer_description","noInherit, noTruncate"))
+```
+
+And to format it correctly, do:
+```
+=transpose(importJSON("https://api.breezometer.com/baqi/?lat=51.5291019&lon=-0.1077666&key=2156295a3962496aace88a0a38c25ac3","/breezometer_description","noInherit, noTruncate"))
+```
+
+An alternative API keys is: `df38c88a6193447dac1aae3c8bfb0475`.
